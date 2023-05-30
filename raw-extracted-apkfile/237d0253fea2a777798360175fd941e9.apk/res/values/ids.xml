@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="splash_ver_code" />
+    <item type="id" name="splash_logo" />
+    <item type="id" name="progressBar1" />
+    <item type="id" name="splash_lbl" />
+    <item type="id" name="splash_copyrighrs" />
+    <item type="id" name="top_left_data" />
+    <item type="id" name="imageView1" />
+    <item type="id" name="top_right_data" />
+    <item type="id" name="imageView2" />
+    <item type="id" name="header_titile" />
+    <item type="id" name="header_data" />
+    <item type="id" name="icon_1" />
+    <item type="id" name="icon_1_lbl" />
+    <item type="id" name="icon_1_result" />
+    <item type="id" name="icon_2" />
+    <item type="id" name="icon_2_lbl" />
+    <item type="id" name="icon_2_result" />
+    <item type="id" name="icon_3" />
+    <item type="id" name="icon_3_lbl" />
+    <item type="id" name="icon_3_result" />
+    <item type="id" name="scrollView1" />
+    <item type="id" name="title_header" />
+    <item type="id" name="promo_1_lbl" />
+    <item type="id" name="promo_1_text" />
+    <item type="id" name="promo_2_text" />
+    <item type="id" name="promo_3_lbl" />
+    <item type="id" name="promo_3_text" />
+    <item type="id" name="title2_header" />
+    <item type="id" name="imageView3" />
+    <item type="id" name="user_btc_address" />
+    <item type="id" name="funds_load_lbl" />
+    <item type="id" name="qr_code_warn" />
+    <item type="id" name="qr_code" />
+    <item type="id" name="paid_status" />
+    <item type="id" name="paid_state_lbl" />
+    <item type="id" name="paid_button" />
+    <item type="id" name="where_get_btc" />
+    <item type="id" name="s_ico" />
+    <item type="id" name="swarn_lbl" />
+    <item type="id" name="pop_header" />
+    <item type="id" name="pop_msg" />
+    <item type="id" name="pop_close_button" />
+</resources>

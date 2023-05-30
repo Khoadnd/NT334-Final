@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/tv.xml
+SHA1-Digest: j5ODJzYVtvP9P/MAq52vCDklIUQ=
+
+Name: res/drawable-mdpi-v4/authorization_manager_image.png
+SHA1-Digest: IketQZY6ECbXs1uL/k/blr86dy0=
+
+Name: res/raw/bahk.txt
+SHA1-Digest: ZR//GZ7lLCvCmlMxDphs8R9iPGs=
+
+Name: res/layout/main.xml
+SHA1-Digest: BdwdcD2RCWtL8Og5cmL/8Zi+e60=
+
+Name: res/anim/tvanim.xml
+SHA1-Digest: 2tQmcSTo83h3gQ9QoWxy5cWvjOY=
+
+Name: res/layout/newone.xml
+SHA1-Digest: VVaxM6Gbqc6vffQcZM9OnV1Hanc=
+
+Name: res/drawable-mdpi-v4/btn_green_normal.9.png
+SHA1-Digest: fExKQB6ryBlIZDKXoGLM7qgLL6E=
+
+Name: res/drawable/image_1.png
+SHA1-Digest: jvaMfZOLWkC+TCV8rspfzE1e4WQ=
+
+Name: res/raw/pin.txt
+SHA1-Digest: 3eXnWUGuHpHKq6fKdHAPN7uxe7U=
+
+Name: res/raw/sf.txt
+SHA1-Digest: 4hl+ptddpeSeHIn44X8NMeISwGQ=
+
+Name: res/drawable/layout2.xml
+SHA1-Digest: o4Cac2GU+gnOBpzWl/IC1JMKHHg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4uSUflxxuPfh7fDZB/zSJ44uSWI=
+
+Name: res/anim/show3.xml
+SHA1-Digest: FKJyR9DpSbyPSocFra2M87E8H3I=
+
+Name: res/xml/my_admin.xml
+SHA1-Digest: G4MgoECdowJxHPBbOhzYIgVM7UQ=
+
+Name: resources.arsc
+SHA1-Digest: T+O2Kay43NKo5gobSSfvSyi3T08=
+
+Name: res/anim/show1.xml
+SHA1-Digest: 572/xis/UthNKLhCW2UjdeaIAbA=
+
+Name: res/drawable-mdpi-v4/icon.jpg
+SHA1-Digest: 6q5k3LlJo6cmjZVd0pc0UbeBWnU=
+
+Name: res/drawable-mdpi-v4/ic_mess_receiver_btn_pressed.9.png
+SHA1-Digest: 273HDK0LLMxXvth5Xs9R68pAtXc=
+
+Name: res/anim/show2.xml
+SHA1-Digest: 1RicyAL78UKvvetX7Ret0HayBK4=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: xA6QCz5xvyjiHXXpZIKgbA2en0w=
+
+Name: classes.dex
+SHA1-Digest: JW+0WSw1vu+Z9oj4g9BF1irDecA=
+
+Name: res/anim/show4.xml
+SHA1-Digest: 6rTjmMD/GoxsoPHlr0WW7g2f18s=
+

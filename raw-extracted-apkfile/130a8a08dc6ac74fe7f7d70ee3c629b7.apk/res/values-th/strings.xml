@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="cvc_code">CVC</string>
+    <string name="enter_credit_card">กรอกรายละเอียดเกี่ยวกับบัตรเครดิตที่คุณต้องการใช้กับ Google Wallet</string>
+    <string name="card_number">หมายเลขบัตร</string>
+    <string name="hint_expiration_month">MM</string>
+    <string name="hint_expiration_year">YY</string>
+    <string name="expiration_date_separator">/</string>
+    <string name="cvc_code_popup_visa_description"><b>Discover, MasterCard, Visa และ Visa Electron</b>"
+CVC เป็นตัวเลขสามตัวสุดท้ายของหมายเลขด้านหลังบัตรของคุณตรงแถบลายเซ็น"</string>
+    <string name="cvc_code_popup_amex_description"><b>American Express</b>"
+CVC เป็นตัวเลขสี่หลักที่อยู่ทางขวาด้านหน้าของบัตร"</string>
+    <string name="add_credit_card">เพิ่มบัตร</string>
+    <string name="add_instrument_continue">ดำเนินการต่อ</string>
+    <string name="i18n_locality_label">เมือง</string>
+    <string name="i18n_address_line1_label">ที่อยู่</string>
+    <string name="i18n_postal_code_label">รหัสไปรษณีย์</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="phone_number">หมายเลขโทรศัพท์</string>
+    <string name="first_name">ชื่อ</string>
+    <string name="name_on_card">ชื่อผู้ถือบัตร</string>
+    <string name="last_name">นามสกุล</string>
+    <string name="enter_your_address_sentence">โปรดป้อนที่อยู่เรียกเก็บเงินสำหรับจัดเก็บในบัญชี Google ของคุณ</string>
+    <string name="change_password_restrict_label">รหัสผ่าน</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+</resources>

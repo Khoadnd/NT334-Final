@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dqkuvon" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/schvvpdpm" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-8.0dip" android:src="@drawable/dunfr" android:scaleType="center" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="-100.0dip">
+        <ImageView android:id="@id/schvvpdpm" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginLeft="-5.0dip" android:layout_marginTop="0.0dip" android:src="@drawable/bhtel" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="-6.0dip">
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+                <TextView android:textSize="50.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="left" android:id="@id/pdwqigg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:text="FBI" />
+            </LinearLayout>
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/rkhtkpjauc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="FEDERAL BUREAU OF INVESTIGATION" />
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView android:id="@id/pbbeuv" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="bottom|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:baselineAligned="false">
+            <LinearLayout android:orientation="vertical" android:background="#ffff0000" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="YOUR DEVICE HAS BEEN SEIZED" />
+                <TextView android:textSize="15.0sp" android:textColor="#fffffc00" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="DETECTED ILLEGAL CONTENT" />
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/ljnqmpck" android:background="@drawable/gqeggbn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="30.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="30.0dip" android:layout_marginBottom="30.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:gravity="center" android:id="@id/pnweh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Device" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:gravity="center" android:id="@id/tlpgclchw" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="\#" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:gravity="center" android:id="@id/dinkbp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Phone" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:gravity="center" android:id="@id/blwrtrev" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="carrier" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:gravity="center" android:id="@id/puhgbc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:text="loc" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:text="Your device has been seized as a result of one or multiple of the felonies below: " />
+                <TextView android:textColor="#ffff0000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="10.0dip" android:text="* You have been subjected to violation of Copyright and Related Rights Law (Video, Music, Software) and illegally using or distributing copyrighted contents. Article 1, Section 8, Cause 8 of the Criminal Code provides for a fine of two to five hundred minimal wages or a deprivation of liberty for two to eight years." />
+                <TextView android:textColor="#ffff0000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="* You have been viewing or distributing prohibited Pornographic content. Article 202 of the Criminal Code provides for a deprivation of liberty for four to twelve years." />
+                <LinearLayout android:orientation="vertical" android:background="#ffeaeaea" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:text="Pursuant to the amendment to Criminal Code of United States of America of May 28, 2011, this law infringement (if it is not repeated - first time) may be considered as conditional in case you pay the fine of the States." />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <SurfaceView android:id="@id/hmmhvioo" android:layout_width="150.0dip" android:layout_height="200.0dip" android:layout_marginLeft="20.0dip" />
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/egkgkoo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:text="Your camera is used for gathering additional information for investigation. All the footage will be added to a criminal case." />
+                </LinearLayout>
+            </LinearLayout>
+            <Button android:textColor="#ff000111" android:id="@id/vrnntl" android:background="@drawable/boham" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="Detailed Investigation" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

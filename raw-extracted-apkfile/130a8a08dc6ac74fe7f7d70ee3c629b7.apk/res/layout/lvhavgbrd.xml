@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/header" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/rl_header_layout" android:background="@drawable/sg_posb_header_back_red" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:paddingLeft="5.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/sg_posb_menu_andriod" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <RelativeLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                    <ImageView android:background="@drawable/sg_posb_qt_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <TextView android:textSize="22.0sp" android:textStyle="normal" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="Edit" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/rl_header_layout">
+                <LinearLayout android:orientation="vertical" android:background="@drawable/sg_posb_dashboard_background" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <RelativeLayout android:background="@drawable/sg_posb_header" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:id="@id/iv_card_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:src="@drawable/sg_posb_card_icon_mass" android:layout_alignTop="@id/tv_activation_header" android:layout_alignBottom="@id/tv_activation_header" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                        <TextView android:textSize="12.0sp" android:textColor="@android:color/white" android:gravity="center" android:id="@id/tv_activation_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enable your Card's Magnetic Stripe for\nOverseas Use via SMS." android:layout_toLeftOf="@id/iv_right_arrow_acc" android:layout_toRightOf="@id/iv_card_icon" android:layout_centerVertical="true" />
+                        <ImageView android:id="@id/iv_right_arrow_acc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="45.0dip" android:src="@drawable/sg_posb_right_arrow_cc" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/content" android:background="@drawable/sg_posb_dashboard_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="16.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.0dip">
+                <TextView android:textSize="16.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="3.0dip" android:text="User ID" />
+                <EditText android:id="@id/username_login" android:nextFocusDown="@id/password_login" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="20" android:inputType="textNoSuggestions" android:imeOptions="actionNext" />
+                <TextView android:textSize="16.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="3.0dip" android:text="PIN" />
+                <EditText android:id="@id/password_login" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="9" android:inputType="numberPassword" android:imeOptions="actionDone" />
+                <Button android:textSize="16.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/submit" android:background="#ff0f1f7a" android:paddingTop="7.0dip" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="LOGIN" />
+                <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ff0d468b" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="Apply for iBanking" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+                    <FrameLayout android:background="@drawable/sg_posb_imglocator" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:layout_weight="1.0" />
+                    <FrameLayout android:background="@drawable/sg_posb_imgcoupons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="16.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="5.0dip">
+                <TextView android:textSize="18.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Promotions" />
+                <ProgressBar android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" style="?android:progressBarStyle" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+</RelativeLayout>

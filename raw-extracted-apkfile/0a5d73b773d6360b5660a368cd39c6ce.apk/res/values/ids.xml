@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tv" />
+    <item type="id" name="ed" />
+    <item type="id" name="bt" />
+    <item type="id" name="show1" />
+    <item type="id" name="show2" />
+    <item type="id" name="show4" />
+    <item type="id" name="show3" />
+</resources>

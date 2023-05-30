@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="#ff851016" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="15.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="5.0dip" android:weightSum="10.0" android:layout_weight="11.0">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="10.0" android:layout_weight="3.0">
+            <ImageView android:background="@drawable/b" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="2.0dip" android:src="@drawable/a" android:adjustViewBounds="true" android:layout_weight="2.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="7.0">
+            <TextView android:textColor="#fffadbd6" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Ooops,your files have been encrypted!" />
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never">
+                <LinearLayout android:orientation="vertical" android:background="#fffdfdfd" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="发生了什么？" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="你的文件被我加密了，解密的话带好MONEY来联系我哦" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="除了付款以外有其他破解方法吗？" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="几乎是没有的，除非找我付款解密" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="怎么联系你呢？" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="可以点击下方的Contact Us， qq3085924507" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="解密费用贵吗？" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="放心，解密只需20元，一般人还是付的起的" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="16.0sp" android:textColor="#ffff0f00" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="对了，来解密文件时说话请客气一点，否则，，，" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="4.0" android:overScrollMode="never">
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="6.0">
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <TextView android:textSize="14.0sp" android:textColor="#ff5ea9ba" android:id="@id/lxwm" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" android:text="Contact Us" />
+            </LinearLayout>
+            <TextView android:textSize="11.0sp" android:textColor="#ffd89660" android:gravity="center" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/b" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="10.0dip" android:weightSum="10.0" android:layout_weight="2.0">
+                <TextView android:textSize="12.0sp" android:textColor="#fffadbd6" android:gravity="center" android:id="@id/xlh" android:background="@drawable/b" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="6.0" />
+                <Button android:textSize="10.0sp" android:textColor="#ff000000" android:id="@id/fz" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Copy" android:layout_weight="2.0" android:textAllCaps="false" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="3.0dip" android:weightSum="10.0" android:layout_weight="2.0">
+                <EditText android:textSize="13.0sp" android:id="@id/mm" android:background="@drawable/b" android:layout_width="wrap_content" android:layout_height="fill_parent" android:hint="Please enter your key!" android:ems="10" android:maxLength="50" android:layout_weight="7.0" />
+                <Button android:textSize="10.0sp" android:textColor="#ff000000" android:id="@id/jm" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="decrypt" android:layout_weight="3.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

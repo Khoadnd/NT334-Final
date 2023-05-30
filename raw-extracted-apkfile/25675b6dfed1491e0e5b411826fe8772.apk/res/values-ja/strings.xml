@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">ホームへ移動</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s、%2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s、%2$s、%3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">上へ移動</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">その他のオプション</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">完了</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">すべて表示</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">アプリの選択</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">検索…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">検索キーワードを削除</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">検索キーワード</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">検索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">検索キーワードを送信</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">音声検索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">共有</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%sと共有</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">折りたたむ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

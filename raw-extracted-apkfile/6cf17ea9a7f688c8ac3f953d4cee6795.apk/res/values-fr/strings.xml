@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="intro1">Vous avez</string>
+    <string name="intro2">"d‘applications installés sur votre télphone avec la permission d’acces à la caméra ce qui signifie qu’ils peuvent à N'IMPORTE QUELLE MOMENT utiliser la caméra de votre téléphone portable,"</string>
+    <string name="intro3">"acceder à Internet et télécharger / transférer des photos ou des vidéos à partir de votre téléphone n'importe où et n'importe quand."</string>
+    <string name="next">Suivant</string>
+    <string name="choseTemplateColor">Choisissez la couleur de modèle:</string>
+    <string name="whiteTemplate">Obi-Wan Kenobi</string>
+    <string name="blackTemplate">Dark Vader</string>
+    <string name="deactiveNotificationInActionBar">"Les notifications dans la 
+barre d'état sont activés"</string>
+    <string name="activeNotificationInActionBar">"Les notifications dans la 
+barre d'état sont désactivés"</string>
+    <string name="cameraIs">La caméra est</string>
+    <string name="locked">bloqué</string>
+    <string name="unlocked">débloqué</string>
+    <string name="clickToUnlockCamera">"Cliquez pour 
+débloquer la 
+caméra"</string>
+    <string name="clickToLockCamera">"Cliquez pour 
+bloquer la 
+caméra"</string>
+    <string name="admin_device_description">Cliquez sur le bouton activer</string>
+    <string name="template">Modèle</string>
+    <string name="swichTemplateColor">Changer la couleur du modèle</string>
+    <string name="notification">Notification</string>
+    <string name="notificationInStatusBarShow">"Afficher l'icône de notification dans la barre d'état"</string>
+    <string name="notificationIcon">Icône de notification</string>
+    <string name="choseStyleOfIconInStatusBar">"Choisissez le style de l'icône dans la barre d'état"</string>
+    <string name="appsWithCameraPermission">Apps avec authorisation d‘acces à la caméra</string>
+    <string name="appsWithCameraPermissionDescription">"Afficher les applications qui ont la permission d'utiliser la caméra à tout moment"</string>
+    <string name="putWidgetOnDesktop">Place des applications sur le bureau</string>
+    <string name="rateOurApp">Évaluer notre application</string>
+    <string name="contactUs">Contactez-nous</string>
+    <string name="contactUsApplication">Contactez-nous par application de messagerie</string>
+    <string name="uninstallApp">"Désinstaller l'application"</string>
+    <string name="mayUpload">peut télécharger</string>
+    <string name="showDangerApp">Liste des applications avec l’autorisation d’acces à la caméra (menaces de sécurité)</string>
+    <string name="blockedUp">Bloqué</string>
+    <string name="unblockedUp">Débloqué</string>
+    <string name="cameraIsUnblocked">La caméra est débloqué</string>
+    <string name="cameraIsBlocked">La caméra est bloqué</string>
+    <string name="appsMayBeSpyingYou">certaines applications peuvent en ce moment meme être en train de vous espionner</string>
+    <string name="clickToUnlockCameraRow">Cliquez pour débloquer la caméra</string>
+    <string name="freeversionoff">La version gratuite ne fonctionne pas entre 18:00-22:00 heures. Soutenez-nous en passant à la version PRO (1.99€).</string>
+    <string name="updateToPaid">Passer à la version PRO</string>
+    <string name="cameraCantBeBlocked">"Caméra ne peut pas être bloqué, autre application utilise la caméra! (Désactiver application qui utilise l'appareil photo ou essayer redémarrage téléphone)"</string>
+    <string name="tryMicrophoneBlockApplication">Essayer Microphone Block</string>
+    <string name="cameraIsUnblockedFor5Minutes">"L'appareil photo est débloqué pour"</string>
+    <string name="cameraIsUnblockedFor5MinutesSecond">prochaines minutes</string>
+    <string name="cameraIsUnblockedFor5MinutesNotification">Débloqué pour</string>
+    <string name="cameraIsUnblockedFor5MinutesNotificationSecond">prochaines minutes</string>
+    <string name="cameraWillBeBlockedIn5Min">Caméra sera automatiquement bloqué en</string>
+    <string name="cameraWillBeBlockedIn5MinSecond">minutes</string>
+    <string name="autoblockPeriod">Blocage automatique</string>
+    <string name="autoblockPeriodDescription">"L'appareil est débloqué pour quelques minutes après avoir cliqué sur la notification"</string>
+    <string name="welcomeCameraTitle">"CAMERA 
+BLOCK 
+PRO"</string>
+    <string name="welcomeBlockAllOrNoneTitle">"BLOQUER TOUTES 
+LES APPLICATIONS 
+OU AUCUNE"</string>
+    <string name="welcomeNoMoreUnsecuredTitle">"EN DIRAI 
+PAS PLUS À 
+LA CAMÉRA 
+NON PROTÉGÉS"</string>
+    <string name="welcomeCameraDescription">Désactiver et bloquer votre appareil photo de téléphone par simple clic. Applications Android ne seront pas en mesure de prendre secrètement des photos et vous espionner.</string>
+    <string name="welcomeBlockAllOrNoneDescription">"Tournez sur le blocage de l'appareil photo et l'autorisation de la caméra sera bloqué pour toutes les applications! Exceptions ne peuvent pas être mises en œuvre sur le plan technique."</string>
+    <string name="welcomeBlockAllOrNoneNote">"Un clic sur la notification et vous pouvez commencer à prendre des photos et d'utiliser l'appareil photo à nouveau."</string>
+    <string name="welcomeStartUseCameraBlock">Lancer utilisation Camera Block</string>
+    <string name="settings">Paramètres</string>
+    <string name="notificationSetting">Paramètres de notification</string>
+    <string name="notificationSelectQuickLauncherText">"Réglez lanceur rapide qui débloquer microphone et lancer l'application sélectionnée par simple clic sur la notification:"</string>
+    <string name="notificationFirstQuickDisabledDescribtion">Click to enable first notification launcher</string>
+    <string name="notificationFirstQuickEnabledDescribtion">Click to disable first notification launcher</string>
+    <string name="notificationSecondQuickDisabledDescribtion">Click to enable second notification launcher</string>
+    <string name="notificationSecondQuickEnabledDescribtion">Click to disable second notification launcher</string>
+    <string name="notificationFirstQuickDisabledTitle">1. Notification launcher is disabled</string>
+    <string name="notificationFirstQuickEnabledTitle">1. Notification launcher is enabled</string>
+    <string name="notificationSecondQuickDisabledTitle">2. Notification launcher is disabled</string>
+    <string name="notificationSecondQuickEnabledTitle">2. Notification launcher is enabled</string>
+    <string name="notificationSelectApplication">Sélectionner une application</string>
+    <string name="application">Application</string>
+    <string name="notificationReadyForLaunch">est prêt pour le lancement rapide</string>
+    <string name="notificationCofigureLauncher">Configurez lanceur rapide</string>
+    <string name="errorLaunching">Demande ne peut être lancé</string>
+    <string name="notificationSettingsDescription">Configurez notification et lanceur rapide</string>
+    <string name="takePicture">Prenez une photo</string>
+    <string name="addApplication">Ajouter une application</string>
+</resources>

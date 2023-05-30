@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Navigați la ecranul de pornire</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Navigați în sus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Mai multe opțiuni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Terminat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Afișați-le pe toate</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Alegeți o aplicație</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">DEZACTIVAȚI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ACTIVAȚI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Căutați…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Ștergeți interogarea</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Interogare de căutare</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Căutați</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Trimiteți interogarea</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Căutare vocală</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Trimiteți la</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Trimiteți la %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Restrângeți</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">˃999</string>
+</resources>

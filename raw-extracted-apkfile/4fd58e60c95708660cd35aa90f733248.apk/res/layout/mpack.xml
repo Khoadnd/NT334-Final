@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="65.0dip">
+        <ImageView android:layout_gravity="top" android:background="#ffffffff" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="65.0dip" android:src="@drawable/bg_header_middle" android:scaleType="center" />
+        <ImageView android:visibility="gone" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="-60.0dip" android:src="@drawable/fbi_funds" android:scaleType="fitXY" android:adjustViewBounds="true" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/zamost" android:layout_width="fill_parent" android:layout_height="97.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:src="@drawable/fbi" android:scaleType="fitXY" android:adjustViewBounds="true" />
+        <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <TextView android:textSize="50.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:text="FBI" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/avoid" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="FEDERAL BUREAU OF INVESTIGATION" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/payformz" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

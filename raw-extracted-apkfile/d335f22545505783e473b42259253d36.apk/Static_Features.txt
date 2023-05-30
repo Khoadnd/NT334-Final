@@ -1,0 +1,46 @@
+ Package : 
+package="com.cute.pin" platformBuildVersionCode="23" 
+  
+ Activities : 
+  
+ Services : 
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:description="@string/pin" android:name=".Pin"
+  
+ Intents Action : 
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="true" android:debuggable="false" android:icon="@drawable/ic_launcher" android:label="刷赞神器" 
+  
+ Meta-Data : 
+meta-data android:name="android.app.device_admin" android:resource="@xml/pin"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+1
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+1.2M
+  

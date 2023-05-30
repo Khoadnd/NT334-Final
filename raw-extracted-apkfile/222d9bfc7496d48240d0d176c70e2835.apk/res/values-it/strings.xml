@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Vai alla home page</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Vai in alto</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Altre opzioni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Fine</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Visualizza tutte</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">"Scegli un'applicazione"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Cerca…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Cancella query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Query di ricerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Invia query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Ricerca vocale</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Condividi con</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Condividi con %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Comprimi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

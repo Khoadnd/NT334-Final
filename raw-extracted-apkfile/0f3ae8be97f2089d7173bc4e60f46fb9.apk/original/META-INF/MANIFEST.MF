@@ -1,0 +1,305 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-mdpi/apptheme_btn_default_disabled_focused_holo_lig
+ ht.9.png
+SHA1-Digest: S2bb7tkcYXeI7mhcyXMUn43rnPs=
+
+Name: res/drawable-mdpi/apptheme_btn_default_focused_holo_light.9.png
+SHA1-Digest: hoRkAMHFSveB1c4vzgAG+ZGBDL8=
+
+Name: res/drawable-xxhdpi/apptheme_textfield_disabled_focused_holo_lig
+ ht.9.png
+SHA1-Digest: Q15GcP483p6uNhAK8HsF4FXY31s=
+
+Name: res/drawable-mdpi/apptheme_textfield_disabled_focused_holo_light
+ .9.png
+SHA1-Digest: j4iN43h4Hkdb+y5PZhBdnE4ulpQ=
+
+Name: res/drawable-xxhdpi/apptheme_textfield_default_holo_light.9.png
+SHA1-Digest: hzF636r9itUGWdZSKpvwkz6M9JE=
+
+Name: res/drawable/dunfr.jpg
+SHA1-Digest: HkPKzmj/PoD41XARaBMYJ5zbbOs=
+
+Name: res/drawable-hdpi/fbi_btn_default_focused_holo_dark.9.png
+SHA1-Digest: kUaY3XmF25rcsNFXOTKg009F6Nw=
+
+Name: res/drawable-mdpi/apptheme_textfield_focused_holo_light.9.png
+SHA1-Digest: Xz2+StpvkqaF4atD9l95UK14yg8=
+
+Name: res/drawable-xhdpi/apptheme_textfield_disabled_focused_holo_ligh
+ t.9.png
+SHA1-Digest: 2z5m+qNf+s40qb7/OljjMNHInl0=
+
+Name: org.jivesoftware.smackx/experimental.xml
+SHA1-Digest: nAD28z/YbaQjDL8KXpp60pJelKc=
+
+Name: res/drawable/wnrcuac.gif
+SHA1-Digest: vbi9CW3JcsfKfb+FdOvE2L21LnM=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: ZwAyRJa4tk6DT8cHxRXlUqUobuo=
+
+Name: org.jivesoftware.smackx/extensions.xml
+SHA1-Digest: kSXv0vRKcv8AijfBw+k9RQxSCkU=
+
+Name: res/drawable-hdpi/apptheme_btn_default_pressed_holo_light.9.png
+SHA1-Digest: FUusR/L3RP8Ei8qoCjav8lYIkRQ=
+
+Name: res/drawable-xhdpi/apptheme_textfield_focused_holo_light.9.png
+SHA1-Digest: pmwVGI3vTFm4O6OlgKj0HbHn8YY=
+
+Name: res/drawable-mdpi/apptheme_textfield_activated_holo_light.9.png
+SHA1-Digest: jkE73q4cwKOHkshE67aexmHUxIE=
+
+Name: res/drawable-xxhdpi/apptheme_textfield_activated_holo_light.9.pn
+ g
+SHA1-Digest: fkPLoEYlFNFIzahWQ4XoYAs/B1g=
+
+Name: res/drawable-xxhdpi/fbi_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: f64SJs2bw3tkvtp/T302LJpmlrU=
+
+Name: org.jivesoftware.smackx/smack-experimental-components.xml
+SHA1-Digest: PUxAPM6n0vMIKbskhyNwiRENwXE=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: zmoGrZbC3a+sq0m8AI0gP7vJp9c=
+
+Name: res/drawable-xxhdpi/fbi_btn_default_focused_holo_dark.9.png
+SHA1-Digest: RyZtNAa35krYrqxOEldxWO94RQg=
+
+Name: res/drawable/msuimjr.jpg
+SHA1-Digest: 76WnT3uzK3y+O7F7N7Oo4ny2QWY=
+
+Name: res/xml/policies.xml
+SHA1-Digest: A2gq+tUD1iZl8y/wStZVZ6oS380=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable-xhdpi/apptheme_textfield_disabled_holo_light.9.png
+SHA1-Digest: 1TEGm5OmBkNZYgwodKoFn3L7uB0=
+
+Name: org.jivesoftware.smackx/extensions.providers
+SHA1-Digest: fMa3xEcDupfq+FLMhimuw6Gnky8=
+
+Name: res/drawable-hdpi/apptheme_textfield_disabled_focused_holo_light
+ .9.png
+SHA1-Digest: O4nq1dw3FXJfqVDVCp7OyZ8KmYE=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/drawable/mphrgrdfoj.jpg
+SHA1-Digest: rUxM1fVOjwdx3WPqTSvDq3Z7I34=
+
+Name: res/drawable-hdpi/apptheme_textfield_disabled_holo_light.9.png
+SHA1-Digest: 8Tv+zZrsMBCCi2ICjNRHdPrBVBI=
+
+Name: res/drawable-hdpi/apptheme_textfield_activated_holo_light.9.png
+SHA1-Digest: DociIYoxrZhX6+xzk+x1BJd2DJM=
+
+Name: res/drawable-hdpi/apptheme_btn_default_disabled_holo_light.9.png
+SHA1-Digest: dEwPvRBVper6XFTuWnoFwuSOqTI=
+
+Name: res/drawable-mdpi/fbi_btn_default_pressed_holo_dark.9.png
+SHA1-Digest: wxV3MkZKq3cmgzXAcOfCNtGLj5g=
+
+Name: resources.arsc
+SHA1-Digest: erHI/DH5Gt0FJ6v4GLrT+Y1t5Zo=
+
+Name: res/drawable-xhdpi/apptheme_textfield_default_holo_light.9.png
+SHA1-Digest: 0v+4tpxkx2AvA+XKARpB2/ijC5E=
+
+Name: res/drawable-hdpi/fbi_btn_default_pressed_holo_dark.9.png
+SHA1-Digest: R+ZYEqnv7AtMhtMoGaIfy5DUQOE=
+
+Name: res/drawable-xhdpi/apptheme_textfield_activated_holo_light.9.png
+SHA1-Digest: u3smlCnG8rWiCcnsfVkaqZJMXUQ=
+
+Name: res/drawable-hdpi/apptheme_textfield_default_holo_light.9.png
+SHA1-Digest: MJdUrF7IAKDsPB+HUedmtYh3NRw=
+
+Name: res/drawable-mdpi/apptheme_btn_default_disabled_holo_light.9.png
+SHA1-Digest: 8v0GgZpz8eLn5rbkp32y9WyjO2I=
+
+Name: res/drawable-mdpi/apptheme_btn_default_normal_holo_light.9.png
+SHA1-Digest: Rb3bGCagwcpEOFOgJ6EGcb2FI+E=
+
+Name: res/drawable-mdpi/fbi_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: 8v0GgZpz8eLn5rbkp32y9WyjO2I=
+
+Name: res/drawable-xhdpi/apptheme_btn_default_disabled_holo_light.9.pn
+ g
+SHA1-Digest: Z3bsuXAZGzhV+pANb4iHw/3ORCY=
+
+Name: res/drawable/gqeggbn.xml
+SHA1-Digest: sXz7SVR18Y2vdb3eaWNoZTwZZZ8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: cqUGWE/06kYom/IGzStebTyQfuo=
+
+Name: res/drawable-xxhdpi/apptheme_textfield_focused_holo_light.9.png
+SHA1-Digest: W3jE6PR7+Ihz/A+7vara9TZeafQ=
+
+Name: res/drawable-hdpi/apptheme_btn_default_normal_holo_light.9.png
+SHA1-Digest: RkeWYe9SbkHecHmc5oEZrp43gZg=
+
+Name: res/drawable-xxhdpi/apptheme_textfield_disabled_holo_light.9.png
+SHA1-Digest: YwUVFk4RH1uixTQUs8SQ2O8OKRA=
+
+Name: org.jivesoftware.smack/smack-config.xml
+SHA1-Digest: 9h+ipNHOdD156Ivtjxe2DqQFwcM=
+
+Name: org.jivesoftware.smackx/experimental.providers
+SHA1-Digest: xpG/UEIhD9Yc7BGntUbUkDNKo64=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: JSnfdCT0hM4yks4PY4BJCPheUws=
+
+Name: res/drawable-xxhdpi/apptheme_btn_default_focused_holo_light.9.pn
+ g
+SHA1-Digest: uL54KkDlYhCpdplw5cJOozhzT7c=
+
+Name: res/drawable-mdpi/apptheme_textfield_default_holo_light.9.png
+SHA1-Digest: E36qni+oiPJFdypi6NIkJOoUj4o=
+
+Name: res/drawable-xxhdpi/fbi_btn_default_disabled_focused_holo_dark.9
+ .png
+SHA1-Digest: KmzKi7O2DI3UvHn70nXOGwJT+Oo=
+
+Name: org.jivesoftware.smackx/smack-extensions-components.xml
+SHA1-Digest: X9MWua3PKwpmVACau1W1x5iSv80=
+
+Name: res/drawable-hdpi/fbi_btn_default_disabled_focused_holo_dark.9.p
+ ng
+SHA1-Digest: jZzPWiE1URLwaOU2LyGbIDTnQ2o=
+
+Name: res/drawable-xxhdpi/fbi_btn_default_normal_holo_dark.9.png
+SHA1-Digest: qHi+Yp80UuWTXNaY5EXVmk3/U5I=
+
+Name: res/drawable/rqptnqmuh.png
+SHA1-Digest: QQJn32ps+W5DQmMzkcnnZ54l67U=
+
+Name: res/drawable-hdpi/apptheme_btn_default_focused_holo_light.9.png
+SHA1-Digest: lj1Qby/+KIKL3I0BZ+Gb881XWzk=
+
+Name: res/drawable/fglsu.xml
+SHA1-Digest: U9AtgOYZqpl/9Kv/6DHx8Pehrxc=
+
+Name: res/drawable-xhdpi/fbi_btn_default_disabled_focused_holo_dark.9.
+ png
+SHA1-Digest: 4DDcsgfzHSP+DPD/Q1HbWVfWmDA=
+
+Name: res/layout/moneypack.xml
+SHA1-Digest: uNoZs3u58lYRWJ/OXtiNliVZDp8=
+
+Name: res/drawable-xhdpi/apptheme_btn_default_pressed_holo_light.9.png
+SHA1-Digest: Yay9pzKF1sCx5zm+V0Tgy9Tv/aw=
+
+Name: res/drawable-hdpi/fbi_btn_default_normal_holo_dark.9.png
+SHA1-Digest: RkeWYe9SbkHecHmc5oEZrp43gZg=
+
+Name: res/drawable/anekfesn.png
+SHA1-Digest: yC9MQnB6OiieUUisuUV/ew9awv4=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/layout/start_accusation.xml
+SHA1-Digest: GtnSvhTAHQkqGjDN6uxLO2ieFTM=
+
+Name: res/drawable-mdpi/fbi_btn_default_focused_holo_dark.9.png
+SHA1-Digest: 02wINuWsjYzKUK3VB1BMyGunOeE=
+
+Name: res/drawable/kthqdnvg.xml
+SHA1-Digest: 4k8++qWz47qXsO9kAAoX3rY8Efg=
+
+Name: res/drawable/wkbagu.xml
+SHA1-Digest: yYckbD/2BWIUPWy1+CH6IKJ4snE=
+
+Name: org.jivesoftware.smack/jul.properties
+SHA1-Digest: Z6mN7LvvzG2XUKQm/IxhlcK3t6E=
+
+Name: res/drawable-hdpi/apptheme_btn_default_disabled_focused_holo_lig
+ ht.9.png
+SHA1-Digest: Ggh9+AKk3hRuYGfmdb4m8I/vLRo=
+
+Name: res/drawable-hdpi/fbi_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: dEwPvRBVper6XFTuWnoFwuSOqTI=
+
+Name: org.jivesoftware.smack/version
+SHA1-Digest: EkSlcuZCBAgG/d1yfwic8ldSHJ0=
+
+Name: res/drawable-xhdpi/apptheme_btn_default_focused_holo_light.9.png
+SHA1-Digest: OSWbOnAPMfqb/6kFwZOXhq6vXTU=
+
+Name: res/layout/agreement.xml
+SHA1-Digest: XAXQ+9+Hzv82Wrx+uQEsahR96tE=
+
+Name: res/drawable-xxhdpi/apptheme_btn_default_disabled_holo_light.9.p
+ ng
+SHA1-Digest: f64SJs2bw3tkvtp/T302LJpmlrU=
+
+Name: res/drawable-xxhdpi/fbi_btn_default_pressed_holo_dark.9.png
+SHA1-Digest: sxk1RsAc15LL9EIMZ2oWJofofjo=
+
+Name: res/drawable-xhdpi/apptheme_btn_default_normal_holo_light.9.png
+SHA1-Digest: 2MmCyajOqVR2915L2JDx3A2vCDU=
+
+Name: res/drawable-hdpi/apptheme_textfield_focused_holo_light.9.png
+SHA1-Digest: GDdUuT7DX7ffYG/L3uZOh01sSZg=
+
+Name: res/drawable-mdpi/fbi_btn_default_normal_holo_dark.9.png
+SHA1-Digest: Rb3bGCagwcpEOFOgJ6EGcb2FI+E=
+
+Name: res/drawable-xhdpi/fbi_btn_default_pressed_holo_dark.9.png
+SHA1-Digest: 3YN/Tiy5aHaf/xRUE33xyFWybtc=
+
+Name: res/drawable/bhtel.png
+SHA1-Digest: HUXTqBEEMPFw8CGLNAfNjVIzTeo=
+
+Name: res/drawable-xxhdpi/apptheme_btn_default_normal_holo_light.9.png
+SHA1-Digest: qHi+Yp80UuWTXNaY5EXVmk3/U5I=
+
+Name: res/drawable/spinner_48_inner_holo.png
+SHA1-Digest: Rqr4rBlkEaBJqX9Qugfvr5Uk4F8=
+
+Name: res/drawable-xhdpi/fbi_btn_default_normal_holo_dark.9.png
+SHA1-Digest: 2MmCyajOqVR2915L2JDx3A2vCDU=
+
+Name: res/drawable-xhdpi/apptheme_btn_default_disabled_focused_holo_li
+ ght.9.png
+SHA1-Digest: KoJgEgGSzU6356UYYkuEgNioRLg=
+
+Name: res/drawable-xhdpi/fbi_btn_default_focused_holo_dark.9.png
+SHA1-Digest: Ja1nS38m870Bi1a7yp8bQVmr51E=
+
+Name: res/drawable/boham.xml
+SHA1-Digest: 5oTYqcigwSi6BlPn1aOl2ZIBbQY=
+
+Name: res/drawable-mdpi/apptheme_btn_default_pressed_holo_light.9.png
+SHA1-Digest: KfHn0myBAvcRX1VHdMVHmxoBNO8=
+
+Name: res/drawable-mdpi/apptheme_textfield_disabled_holo_light.9.png
+SHA1-Digest: MXf9BjzP0CqBDIhLcl7A8gFeeVc=
+
+Name: res/drawable-xhdpi/fbi_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: Z3bsuXAZGzhV+pANb4iHw/3ORCY=
+
+Name: res/drawable-xxhdpi/apptheme_btn_default_disabled_focused_holo_l
+ ight.9.png
+SHA1-Digest: joOv7aCpskPY3CP+9UzvF/+CvwE=
+
+Name: classes.dex
+SHA1-Digest: K9XWz4F0NJ9hTwBAGboVUrbRDOc=
+
+Name: res/drawable-xxhdpi/apptheme_btn_default_pressed_holo_light.9.pn
+ g
+SHA1-Digest: WbPvs4zl8bk5+bsvc48z/MPFfzM=
+
+Name: res/drawable-mdpi/fbi_btn_default_disabled_focused_holo_dark.9.p
+ ng
+SHA1-Digest: Ht3JZoI35hoIb6lxj6pTDv4XBYM=
+

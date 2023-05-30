@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi sa/kay %s</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="card_number">Numero ng card</string>
+    <string name="hint_expiration_month">MM</string>
+    <string name="hint_expiration_year">TT</string>
+    <string name="expiration_date_separator">/</string>
+    <string name="cvc_code">CVC</string>
+    <string name="enter_credit_card">Maglagay ng mga detalye tungkol sa credit card na gusto mong gamitin sa Google Wallet.</string>
+    <string name="cvc_code_popup_visa_description"><b>Discover, MasterCard, Visa, at Visa Electron</b>"
+Ang CVC ay ang huling tatlong digit ng numero na lumilitaw sa likod ng iyong card sa bar ng signature."</string>
+    <string name="cvc_code_popup_amex_description"><b>American Express</b>"
+Ang CVC ay ang apat na digit na matatagpuan sa harap ng card, sa kanang bahagi."</string>
+    <string name="add_credit_card">Magdagdag card</string>
+    <string name="add_instrument_continue">Magpatuloy</string>
+    <string name="i18n_locality_label">Lungsod</string>
+    <string name="i18n_postal_code_label">Postal code</string>
+    <string name="i18n_address_line1_label">Address ng kalye</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="phone_number">Numero ng telepono</string>
+    <string name="first_name">Pangalan</string>
+    <string name="last_name">Apelyido</string>
+    <string name="name_on_card">Pangalan ng cardholder</string>
+    <string name="enter_your_address_sentence">Pakilagay ang iyong billing address upang maimbak sa iyong Google account.</string>
+    <string name="change_password_restrict_label">Password</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+</resources>

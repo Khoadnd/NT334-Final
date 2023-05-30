@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">瀏覽主頁</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s：%2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s (%2$s)：%3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">向上瀏覽</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">更多選項</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">完成</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">顯示全部</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">選擇應用程式</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">關閉</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">開啟</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">搜尋…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">清除查詢</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">搜尋查詢</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">搜尋</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">提交查詢</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">語音搜尋</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">分享對象</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">與「%s」分享</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">收合</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999 +</string>
+</resources>

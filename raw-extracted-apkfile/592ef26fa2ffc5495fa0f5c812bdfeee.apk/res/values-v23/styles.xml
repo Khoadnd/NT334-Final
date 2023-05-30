@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f090050" parent="@style/APKTOOL_DUPLICATE_style_0x7f09007a" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f090051" parent="@style/APKTOOL_DUPLICATE_style_0x7f09007b" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f090079" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f09007c" parent="@android:style/Widget.Material.Button.Colored" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f09007a" parent="@style/APKTOOL_DUPLICATE_style_0x7f090077">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f010068">?android:actionBarItemBackground</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f010069">?android:actionMenuTextAppearance</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f01006a">?android:actionMenuTextColor</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0100aa">@drawable/APKTOOL_DUPLICATE_drawable_0x7f020012</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f09007b" parent="@style/APKTOOL_DUPLICATE_style_0x7f090078">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f010068">?android:actionBarItemBackground</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f010069">?android:actionMenuTextAppearance</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f01006a">?android:actionMenuTextColor</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0100aa">@drawable/APKTOOL_DUPLICATE_drawable_0x7f020012</item>
+    </style>
+</resources>

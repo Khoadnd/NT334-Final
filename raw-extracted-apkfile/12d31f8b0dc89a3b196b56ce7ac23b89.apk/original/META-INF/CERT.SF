@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: AJ0JpwmE7NnJpTFSyyj7tBavWh4=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/small_android.png
+SHA1-Digest: UIVUl0UIln42rAdkOVXK5Czdb7o=
+
+Name: res/drawable/spinner_48_inner_holo.png
+SHA1-Digest: TezlZgPiYkyJH5S9npXC93HdcdM=
+
+Name: res/layout/ad_all.xml
+SHA1-Digest: Jpi6RE/TmGwNWBP0y4S2Hw32az8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: V+0udevkV9zZam6awEC5A2PUYqU=
+
+Name: res/xml/anti_delete.xml
+SHA1-Digest: ug75lHWlOGi8qRQIKbuIXs+LDDA=
+
+Name: assets/html/index.html
+SHA1-Digest: OU4mvfrKVi+y6atONi5GgDQXLoc=
+
+Name: resources.arsc
+SHA1-Digest: 4qVggLHq/TriWXCOeCTN6JtLlCk=
+
+Name: res/xml/anti_delete_loader.xml
+SHA1-Digest: lJiOa7vDB72C/nLRbL5s8q86NtY=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: u1Xe1IPr1QPpRgyMu+eUd09WWMs=
+
+Name: classes.dex
+SHA1-Digest: up/5u1i/JUTl2a4oTfVJO3W4VwA=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: sBQ4Cb6DCluHqcHPwb4NXXm52bM=
+
+Name: res/drawable/big_android.png
+SHA1-Digest: uVEObwEN/db79eWdlL3QjJ2cO1k=
+

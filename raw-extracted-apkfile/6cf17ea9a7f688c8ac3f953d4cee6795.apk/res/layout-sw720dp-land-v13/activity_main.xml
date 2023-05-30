@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/toolbarWhiteInclude" layout="@layout/toolbar_white" />
+    <include android:id="@id/toolbarBlackInclude" android:visibility="gone" layout="@layout/toolbar_black" />
+    <LinearLayout android:orientation="horizontal" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="48.0dip">
+        <fragment android:id="@id/mainFragment" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" class="com.bettertomorrowapps.camerablock.MainFragment" />
+        <fragment android:id="@id/settingsFragment" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" class="com.bettertomorrowapps.camerablock.SettingsFragment" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="MT_Bin">2</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0001">220</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0002">150</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0003">127</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0004">999</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0005">2</integer>
+</resources>

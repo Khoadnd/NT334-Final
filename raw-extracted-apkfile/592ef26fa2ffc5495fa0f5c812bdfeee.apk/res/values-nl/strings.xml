@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Navigeren naar startpositie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Omhoog navigeren</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Meer opties</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Gereed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Alles weergeven</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Een app selecteren</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">UIT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">AAN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Zoeken…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Zoekopdracht wissen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Zoekopdracht</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Zoeken</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Zoekopdracht verzenden</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Gesproken zoekopdracht</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Delen met</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Delen met %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Samenvouwen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

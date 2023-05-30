@@ -1,0 +1,110 @@
+ Package : 
+package="qfu.wfwhgkemerzo.eislrebmhmf" platformBuildVersionCode="17" 
+  
+ Activities : 
+activity android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="qfu.wfwhgkemerzo.eislrebmhmf.MainScreen" 
+activity android:label="@string/app_name" 
+activity android:name="qfu.wfwhgkemerzo.eislrebmhmf.WaaRtoo" 
+activity android:name="qfu.wfwhgkemerzo.eislrebmhmf.Yoooumko" 
+  
+ Services : 
+service android:name=".MyService"
+service android:name="qfu.wfwhgkemerzo.eislrebmhmf.EtroDetra"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:exported="true" android:label="BootReceiver" android:name=".BootReceiver"
+receiver android:enabled="true" android:name=".Test"
+receiver android:name="qfu.wfwhgkemerzo.eislrebmhmf.AsooLeert"
+  
+ Intents Action : 
+action android:name="android.intent.action.BATTERY_CHANGED"
+action android:name="android.intent.action.BATTERY_LOW"
+action android:name="android.intent.action.BATTERY_OKAY"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.INPUT_METHOD_CHANGED"
+action android:name="android.intent.action.LOCKED_BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.MEDIA_MOUNTED"
+action android:name="android.intent.action.PHONE_STATE"
+action android:name="android.intent.action.SCREEN_ON"
+action android:name="android.intent.action.SIM_STATE_CHANGED"
+action android:name="android.intent.action.USER_PRESENT"
+action android:name="android.intent.action.USER_UNLOCKED"
+action android:name="android.net.conn.CONNECTIVITY_CHANGE"
+action android:name="android.net.wifi.NETWORK_IDS_CHANGED"
+action android:name="android.net.wifi.p2p.CONNECTION_STATE_CHANGE"
+action android:name="android.net.wifi.p2p.DISCOVERY_STATE_CHANGE"
+action android:name="android.net.wifi.p2p.PEERS_CHANGED"
+action android:name="android.net.wifi.p2p.STATE_CHANGED"
+action android:name="android.net.wifi.p2p.THIS_DEVICE_CHANGED"
+action android:name="android.net.wifi.RSSI_CHANGED"
+action android:name="android.net.wifi.SCAN_RESULTS"
+action android:name="android.net.wifi.STATE_CHANGE"
+action android:name="android.net.wifi.supplicant.CONNECTION_CHANGE"
+action android:name="android.net.wifi.supplicant.STATE_CHANGE"
+action android:name="android.net.wifi.WIFI_STATE_CHANGED"
+action android:name="android.provider.Telephony.SMS_RECEIVED"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_FINE_LOCATION"
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.ACCESS_WIFI_STATE"
+permission android:name="android.permission.BATTERY_STATS"
+permission android:name="android.permission.BLUETOOTH"
+permission android:name="android.permission.BROADCAST_STICKY"
+permission android:name="android.permission.CALL_PHONE"
+permission android:name="android.permission.CAMERA"
+permission android:name="android.permission.CHANGE_NETWORK_STATE"
+permission android:name="android.permission.CHANGE_WIFI_STATE"
+permission android:name="android.permission.GET_ACCOUNTS"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.MOUNT_FORMAT_FILESYSTEMS"
+permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+permission android:name="android.permission.QUICKBOOT_POWERON"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.READ_PROFILE"
+permission android:name="android.permission.READ_SMS"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.RECEIVE_SMS"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.VIBRATE"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="android.permission.WRITE_SETTINGS"
+permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+  
+ Exported : 
+exported="true" android:label="BootReceiver" android:name=".BootReceiver"
+  
+ Backup : 
+  
+ Meta-Data : 
+meta-data android:name="lndp" android:value="2gooapi.com/api2"
+meta-data android:name="potok" android:value="s16"
+meta-data android:name="pupurupu" android:value="snztngtfac.onlinevideogreatgirls.space/zz//zz/"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+38
+  
+ Number of Pictures : 
+3
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+2.2M
+  

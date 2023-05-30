@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">मुख्यपृष्ठ पर नेविगेट करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">ऊपर नेविगेट करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">अधिक विकल्प</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">पूर्ण</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">सभी देखें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">कोई एप्‍लिकेशन चुनें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">बंद</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">चालू</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">खोजा जा रहा है…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">क्‍वेरी साफ़ करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">खोज क्वेरी</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">खोजें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">क्वेरी सबमिट करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">ध्वनि खोज</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">इसके द्वारा साझा करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s के साथ साझा करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">संक्षिप्त करें</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

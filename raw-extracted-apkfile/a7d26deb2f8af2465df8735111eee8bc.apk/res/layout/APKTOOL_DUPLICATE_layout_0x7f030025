@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="#ff851016" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="15.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="5.0dip" android:weightSum="10.0" android:layout_weight="11.0">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="10.0" android:layout_weight="3.0">
+            <ImageView android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020047" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="2.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f02004c" android:adjustViewBounds="true" android:layout_weight="2.0" />
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020047" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:weightSum="10.0" android:layout_weight="4.0">
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:weightSum="13.0" android:layout_weight="9.0">
+                    <TextView android:textSize="9.0sp" android:textColor="#ffd89660" android:gravity="center" android:paddingTop="3.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Payment will be raised on" android:layout_weight="4.0" />
+                    <TextView android:textSize="8.0sp" android:textColor="#fffadbd6" android:gravity="center|top" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060071" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Text" android:layout_weight="2.0" />
+                    <TextView android:textSize="9.0sp" android:textColor="#fffadbd6" android:gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Time Left" android:layout_weight="3.0" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ffded0de" android:gravity="center|top" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060072" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Text" android:layout_weight="4.0" />
+                </LinearLayout>
+                <ImageView android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="13.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020046" android:adjustViewBounds="true" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020047" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginRight="5.0dip" android:weightSum="10.0" android:layout_weight="4.0">
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:weightSum="13.0" android:layout_weight="9.0">
+                    <TextView android:textSize="9.0sp" android:textColor="#ffd89660" android:gravity="center" android:paddingTop="3.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Your files will be lost on" android:layout_weight="4.0" />
+                    <TextView android:textSize="8.0sp" android:textColor="#fffadbd6" android:gravity="center|top" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060073" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Text" android:layout_weight="2.0" />
+                    <TextView android:textSize="9.0sp" android:textColor="#fffadbd6" android:gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Time Left" android:layout_weight="3.0" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ffded0de" android:gravity="center|top" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060074" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Text" android:layout_weight="4.0" />
+                </LinearLayout>
+                <ImageView android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="13.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020046" android:adjustViewBounds="true" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="7.0">
+            <TextView android:textColor="#fffadbd6" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Ooops,your files have been encrypted!" />
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never">
+                <LinearLayout android:orientation="vertical" android:background="#fffdfdfd" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060075" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060076" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060077" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060078" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060079" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06007a" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06007b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ff323131" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06007c" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="13.0sp" android:textColor="#ffff0f00" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06007d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView android:id="@id/APKTOOL_DUPLICATE_id_0x7f06007e" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="4.0" android:overScrollMode="never">
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="6.0">
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <TextView android:textSize="14.0sp" android:textColor="#ff5ea9ba" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06007f" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" android:text="Contact Us" />
+                <TextView android:textSize="14.0sp" android:textColor="#ff5ea9ba" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060080" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="Join Us" />
+            </LinearLayout>
+            <TextView android:textSize="11.0sp" android:textColor="#ffd89660" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060081" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020047" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="10.0dip" android:weightSum="10.0" android:layout_weight="2.0">
+                <TextView android:textSize="12.0sp" android:textColor="#fffadbd6" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060082" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020047" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="6.0" />
+                <Button android:textSize="10.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060083" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Copy" android:layout_weight="2.0" android:textAllCaps="false" />
+                <Button android:textSize="10.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060084" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Check Payment" android:layout_weight="2.0" android:textAllCaps="false" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="3.0dip" android:weightSum="10.0" android:layout_weight="2.0">
+                <EditText android:textSize="13.0sp" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060085" android:background="@null" android:focusable="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="Please enter your key!" android:cursorVisible="false" android:ems="10" android:maxLength="50" android:layout_weight="7.0" />
+                <Button android:enabled="false" android:textSize="10.0sp" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060086" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Cannot decrypt" android:layout_weight="3.0" android:textAllCaps="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

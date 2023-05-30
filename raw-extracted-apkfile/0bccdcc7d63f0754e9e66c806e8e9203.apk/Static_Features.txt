@@ -1,0 +1,92 @@
+ Package : 
+package="wvf.thpfney.ryza" platformBuildVersionCode="23" 
+  
+ Activities : 
+activity android:label="" android:name="wvf.thpfney.ryza.Cbbeffbfee" 
+activity android:label="" android:name="wvf.thpfney.ryza.Dbdcdff" 
+activity android:name="wvf.thpfney.ryza.Dbbedde" 
+  
+ Services : 
+service android:exported="true" android:name="wvf.thpfney.ryza.Aabbdaaca" android:permission="android.permission.SEND_RESPOND_VIA_MESSAGE"
+service android:exported="true" android:name="wvf.thpfney.ryza.Eccffaaefbbe"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:label="Активация" android:name="wvf.thpfney.ryza.Efaceccaebdf" android:permission="android.permission.BIND_DEVICE_ADMIN"
+receiver android:name="wvf.thpfney.ryza.Abdbce" android:permission="android.permission.BROADCAST_SMS"
+receiver android:name="wvf.thpfney.ryza.Dfeacecbd" android:permission="android.permission.BROADCAST_WAP_PUSH"
+receiver android:name="wvf.thpfney.ryza.Ecbdcaadcc" android:process=":rt"
+  
+ Intents Action : 
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED"
+action android:name="android.app.action.DEVICE_ADMIN_DISABLED"
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.BATTERY_LOW"
+action android:name="android.intent.action.BATTERY_OKAY"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+action android:name="android.intent.action.RESPOND_VIA_MESSAGE"
+action android:name="android.intent.action.SCREEN_OFF"
+action android:name="android.intent.action.SCREEN_ON"
+action android:name="android.intent.action.SEND"
+action android:name="android.intent.action.SENDTO"
+action android:name="android.provider.Telephony.SMS_DELIVER"
+action android:name="android.provider.Telephony.WAP_PUSH_DELIVER"
+  
+ Intents Category : 
+category android:name="android.intent.category.BROWSABLE"
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.ACCESS_WIFI_STATE"
+permission android:name="android.permission.CHANGE_NETWORK_STATE"
+permission android:name="android.permission.CHANGE_WIFI_STATE"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.READ_SMS"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.RECEIVE_SMS"
+permission android:name="android.permission.SEND_SMS"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_CONTACTS"
+permission android:name="android.permission.WRITE_SMS"
+permission android:name="com.android.alarm.permission.SET_ALARM"
+permission="android.permission.BIND_DEVICE_ADMIN"
+permission="android.permission.BROADCAST_SMS"
+permission="android.permission.BROADCAST_WAP_PUSH"
+permission="android.permission.SEND_RESPOND_VIA_MESSAGE"
+  
+ Exported : 
+exported="true" android:name="wvf.thpfney.ryza.Aabbdaaca" android:permission="android.permission.SEND_RESPOND_VIA_MESSAGE"
+exported="true" android:name="wvf.thpfney.ryza.Eccffaaefbbe"
+  
+ Backup : 
+allowBackup="true" android:hardwareAccelerated="true" android:icon="@drawable/ic_launcher" android:label="SMS_S" android:name="wvf.thpfney.ryza.Ecaeabfabcb" android:supportsRtl="true" 
+  
+ Meta-Data : 
+meta-data android:name="android.app.device_admin" android:resource="@layout/adm_perm"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+1
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+688K
+  

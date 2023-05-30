@@ -1,0 +1,51 @@
+ Package : 
+  
+ Activities : 
+activity android:label="@string/app_name" android:name=".StartShowActivity" android:screenOrientation="portrait" 
+  
+ Services : 
+service android:name=".MyService"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:name="receiver.lockScreenReeiver"
+  
+ Intents Action : 
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="true" android:debuggable="true" android:icon="@drawable/flashplayer" 
+  
+ Meta-Data : 
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+294
+  
+ Number of Pictures : 
+4
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+12M
+  

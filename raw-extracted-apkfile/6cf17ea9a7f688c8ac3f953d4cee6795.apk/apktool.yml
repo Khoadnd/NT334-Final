@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 6cf17ea9a7f688c8ac3f953d4cee6795.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- assets/config8261.lmt
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '14022'
+  versionName: '1.22'

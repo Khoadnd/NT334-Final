@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">นำทางไปหน้าแรก</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">นำทางขึ้น</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">ตัวเลือกอื่น</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">เสร็จสิ้น</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">ดูทั้งหมด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">เลือกแอป</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ปิด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">เปิด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">ค้นหา…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">ล้างข้อความค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">ข้อความค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">ค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">ส่งข้อความค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">ค้นหาด้วยเสียง</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">แชร์กับ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">แชร์กับ %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">ยุบ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

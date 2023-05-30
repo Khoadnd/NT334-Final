@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:background="@drawable/hk_city_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <RelativeLayout android:gravity="center_vertical" android:id="@id/header" android:paddingLeft="10.0dip" android:paddingRight="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                    <FrameLayout android:background="@drawable/hk_citi_header_btn" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+                        <ImageView android:layout_width="25.0dip" android:layout_height="25.0dip" android:src="@drawable/hk_citi_home" />
+                    </FrameLayout>
+                    <ImageView android:paddingRight="20.0dip" android:layout_width="150.0dip" android:layout_height="40.0dip" android:src="@drawable/hk_citi_logo" android:layout_centerInParent="true" />
+                    <FrameLayout android:background="@drawable/hk_citi_header_btn" android:paddingLeft="16.0dip" android:paddingTop="5.0dip" android:paddingRight="16.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+                        <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="中文" />
+                    </FrameLayout>
+                </RelativeLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/hk_citi_login_section_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+                        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="User ID" />
+                        </FrameLayout>
+                        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.7">
+                            <EditText android:textSize="14.0sp" android:id="@id/username_login" android:background="@drawable/hk_citi_edittext" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:nextFocusDown="@id/password_login" android:layout_width="fill_parent" android:layout_height="30.0dip" android:hint="Enter your User ID" android:maxLength="100" android:layout_weight="1.0" android:inputType="textNoSuggestions" android:imeOptions="actionNext" />
+                        </FrameLayout>
+                    </LinearLayout>
+                    <FrameLayout android:background="#ffdddddd" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/hk_citi_login_section_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="Password" />
+                        </FrameLayout>
+                        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.7">
+                            <EditText android:textSize="14.0sp" android:id="@id/password_login" android:background="@drawable/hk_citi_edittext" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:hint="Enter your Password" android:maxLength="100" android:layout_weight="1.0" android:inputType="textPassword" android:imeOptions="actionDone" />
+                        </FrameLayout>
+                    </LinearLayout>
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/agtp_fmtm" />
+                    <Button android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center_horizontal" android:background="@drawable/hk_citi_signon" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="25.0dip" android:layout_marginRight="20.0dip" android:text="Logon" />
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:text="Forgot User ID/Password" />
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="About Citibank Mobile Banking" />
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="Terms and Conditions" />
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="Security Tips and Privacy" />
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="Certified Mobile Handsets" />
+                    <TextView android:textSize="15.0sp" android:textColor="#ff000000" android:autoLink="web" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/kjekwst" />
+                    <TextView android:textSize="15.0sp" android:textColor="#ff000000" android:autoLink="web" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/hvfojpdm" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <ProgressBar android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+</RelativeLayout>

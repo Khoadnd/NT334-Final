@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Krmarjenje domov</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Krmarjenje navzgor</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Več možnosti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Končano</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Pokaži vse</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Izbira aplikacije</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">IZKLOPLJENO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">VKLOPLJENO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Iskanje …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Izbris poizvedbe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Iskalna poizvedba</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Iskanje</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Pošiljanje poizvedbe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Glasovno iskanje</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Deljenje z</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Deljenje z:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Strni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

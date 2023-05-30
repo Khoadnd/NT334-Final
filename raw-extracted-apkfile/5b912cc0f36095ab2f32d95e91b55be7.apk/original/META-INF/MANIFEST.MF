@@ -1,0 +1,95 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (MT)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: Vo9xOJsa1uolZb0Co/9yD+2s9qI=
+
+
+Name: assets/tinyStatic.zip
+SHA1-Digest: kzbbSniAhOyqDwndjsX7minxCUI=
+
+
+Name: assets/tiny4.zip
+SHA1-Digest: UOlfJKfGW37gBczEPdgxhrxbqfo=
+
+
+Name: assets/SDS4.zip
+SHA1-Digest: DEGfnipXVbqtw3JYRvu5aZcjcV8=
+
+
+Name: res/drawable/bg.png
+SHA1-Digest: NLW08Mx1oq8s2LoXgU+x3f9Lol8=
+
+
+Name: res/layout/main.xml
+SHA1-Digest: GEOk6bs3g670+QApK2ERAZhlDWk=
+
+
+Name: assets/tinyconf.zip
+SHA1-Digest: 0h6LgzbkogC0MzOQvqe4taz/exo=
+
+
+Name: res/drawable/b.xml
+SHA1-Digest: fTgsiUqp0bpPVdsAfJc4daLQUv4=
+
+
+Name: assets/tinyArm.zip
+SHA1-Digest: yfcP43dCTuUuAoxQ7CtxhQr1t+k=
+
+
+Name: res/layout/lock.xml
+SHA1-Digest: lTSZOPTRi5NyocXEZaaNp/AIbgw=
+
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: Vo9xOJsa1uolZb0Co/9yD+2s9qI=
+
+
+Name: res/layout/newone.xml
+SHA1-Digest: qc2IyUTuGd04ae0PFCCs5Vcq0hM=
+
+
+Name: assets/tiny6.zip
+SHA1-Digest: vOO1//a1rkTkTWUkU91+Tr9vyAc=
+
+
+Name: assets/SDS5.zip
+SHA1-Digest: uaS/spZRF/f3Q0Epuj6mVs3XJcY=
+
+
+Name: assets/Jumev8.zip
+SHA1-Digest: kiMs4Cm5WmZ07TbIy7RRo+795As=
+
+
+Name: res/drawable/a.png
+SHA1-Digest: 0F46sqlvtpcvCS8x1CQ31d/aT+M=
+
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Vo9xOJsa1uolZb0Co/9yD+2s9qI=
+
+
+Name: assets/tiny5.zip
+SHA1-Digest: kg44yHnI+M+n5dG4HtidAJvUrps=
+
+
+Name: AndroidManifest.xml
+SHA1-Digest: S8HvHvYnI4xwUm3RZzmDfxXDSEk=
+
+
+Name: resources.arsc
+SHA1-Digest: RBUY/7iaRBOtacFBL2Nm3lCq0Yc=
+
+
+Name: res/hsnsbsb.xml
+SHA1-Digest: x1EyaCN4Dd2u86OLZMFBmn/0kFA=
+
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: Vo9xOJsa1uolZb0Co/9yD+2s9qI=
+
+
+Name: classes.dex
+SHA1-Digest: dK15iCP2oK5WSFQwn5TFVsYv6ac=
+
+

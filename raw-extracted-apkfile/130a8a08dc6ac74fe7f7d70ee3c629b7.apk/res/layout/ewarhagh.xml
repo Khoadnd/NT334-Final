@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/main" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/rbg_dk_iv_header_login" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/rbg_dk_header_default" android:scaleType="fitXY" android:layout_alignParentTop="true" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/rbg_dk_navigation_fragment_container" android:layout_below="@id/rbg_dk_iv_header_login">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="10.0dip" android:src="@drawable/rbg_dk_startseite_1" android:scaleType="fitStart" />
+                <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/rbg_dk_overlay" android:scaleType="fitXY" />
+                <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                    <RelativeLayout android:background="@drawable/rbg_dk_shape_background_table_with_corners" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:isScrollContainer="true">
+                        <TabHost android:id="@android:id/tabhost" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+                            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                <TabWidget android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="wrap_content" android:tabStripEnabled="false" />
+                                <FrameLayout android:id="@android:id/tabcontent" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                    <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/verfuegernr" android:focusableInTouchMode="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" />
+                                    <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/benutzername" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip">
+                                        <EditText android:id="@id/rbg_dk_et_name" android:nextFocusDown="@id/rbg_dk_et_pwd" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:hint="@string/wdqgto_l" android:ems="10" android:singleLine="true" android:maxLength="20" android:inputType="textNoSuggestions" android:imeOptions="actionNext" style="@style/rbg_dk_EditText" />
+                                        <EditText android:id="@id/rbg_dk_et_pwd" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/_ejjjgcue" android:ems="10" android:singleLine="true" android:maxLength="20" android:layout_below="@id/rbg_dk_et_name" android:inputType="textPassword" android:imeOptions="actionDone" style="@style/rbg_dk_EditText" />
+                                    </RelativeLayout>
+                                </FrameLayout>
+                            </LinearLayout>
+                        </TabHost>
+                        <Button android:textColor="@android:color/white" android:id="@id/rbg_dk_bt_anmelden" android:background="@drawable/rbg_dk_bt_anmelden" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="10.0dip" android:text="@string/dmpkbfgt" android:layout_below="@android:id/tabhost" style="@style/rbg_dk_standard_button_style.Login" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </FrameLayout>
+        <FrameLayout android:id="@id/rbg_dk_navigation_fragment_container" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:background="@drawable/rbg_dk_navi_bg" android:layout_width="fill_parent" android:layout_height="55.0dip">
+                <Button android:text="@string/ovp_llbq" android:drawableTop="@drawable/rbg_dk_navi_banking" style="@style/rbg_dk_navigation_button_style" />
+                <LinearLayout style="@style/rbg_dk_hauptnavigation_separator_style" />
+                <Button android:text="@string/uhudow_" android:drawableTop="@drawable/rbg_dk_navi_zielsparen" style="@style/rbg_dk_navigation_button_style" />
+                <LinearLayout style="@style/rbg_dk_hauptnavigation_separator_style" />
+                <Button android:text="@string/wjomlfrasd" android:drawableTop="@drawable/rbg_dk_navi_finder" style="@style/rbg_dk_navigation_button_style" />
+                <LinearLayout style="@style/rbg_dk_hauptnavigation_separator_style" />
+                <Button android:text="@string/ipdrdi" android:drawableTop="@drawable/rbg_dk_navi_boerseinfo" style="@style/rbg_dk_navigation_button_style" />
+                <LinearLayout style="@style/rbg_dk_hauptnavigation_separator_style" />
+                <Button android:text="@string/ouosfja" android:drawableTop="@drawable/rbg_dk_navi_mehr" style="@style/rbg_dk_navigation_button_style" />
+            </LinearLayout>
+        </FrameLayout>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:progressBarStyleLarge" />
+    </LinearLayout>
+</RelativeLayout>

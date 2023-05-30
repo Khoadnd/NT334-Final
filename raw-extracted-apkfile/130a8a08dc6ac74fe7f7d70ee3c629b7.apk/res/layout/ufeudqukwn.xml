@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/at_ba_header" android:layout_width="fill_parent" android:layout_height="48.0dip">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/at_ba_ic_drawer_light" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/at_ba_logo" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="#ffd8d8d8" android:layout_width="fill_parent" android:layout_height="26.0dip">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:src="@drawable/at_ba_lock" />
+            <FrameLayout android:background="#ffaaaaaa" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" />
+            <TextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="Login" />
+        </LinearLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:background="#ff9ccedd" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/at_ba_background_menu" android:scaleType="fitEnd" />
+            <LinearLayout android:orientation="vertical" android:padding="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Verfüger:" />
+                <EditText android:id="@id/username_login" android:background="@drawable/at_ba_edit_text_holo_light" android:nextFocusDown="@id/password_login" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="8" android:inputType="number" android:imeOptions="actionNext">
+                    <requestFocus />
+                </EditText>
+                <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="PIN:" />
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <EditText android:id="@id/password_login" android:background="@drawable/at_ba_edit_text_holo_light" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:maxLength="100" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:inputType="textNoSuggestions" android:imeOptions="actionDone" />
+                    <ImageView android:background="@drawable/at_ba_pressed_white" android:paddingLeft="6.0dip" android:paddingRight="6.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="1.0dip" android:layout_marginBottom="1.0dip" android:src="@drawable/at_ba_button_abc" android:scaleType="centerInside" android:layout_alignBottom="@id/password_login" android:layout_alignParentRight="true" />
+                </RelativeLayout>
+                <CheckBox android:textSize="16.0sp" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="  Verfüger merken" />
+                <CheckBox android:textSize="16.0sp" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="  Login Seite bei Start direkt öffnen" />
+                <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/submit" android:background="@drawable/at_ba_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="Login" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <ProgressBar android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Siirry etusivulle</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Siirry ylös</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Lisää</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Valmis</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Näytä kaikki</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Valitse sovellus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">POIS KÄYTÖSTÄ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">KÄYTÖSSÄ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Haku…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Tyhjennä kysely</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Hakulauseke</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Haku</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Lähetä kysely</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Puhehaku</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Jakaminen:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Jakaminen: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Kutista</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

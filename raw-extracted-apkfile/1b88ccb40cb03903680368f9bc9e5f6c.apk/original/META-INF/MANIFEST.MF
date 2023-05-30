@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_141 (Oracle Corporation)
+
+Name: res/xml-v18/zmesiohg.xml
+SHA1-Digest: MCqTQL8U22KrlntxNARDU4Q7hV0=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: ZgYLqPbhEXQioA0h+RTo0nUuwZU=
+
+Name: res/layout/vwxfqixf.xml
+SHA1-Digest: o0nMcfhxwY7yXtu0wFb2mLMxOEE=
+
+Name: res/xml/zmesiohg.xml
+SHA1-Digest: 4qKAuIIg/+oqobanPMj/RIw3W0o=
+
+Name: res/xml/uopmjxku.xml
+SHA1-Digest: zGq8dLHKh30LqeuUotiVPBwSazk=
+
+Name: resources.arsc
+SHA1-Digest: CqZhaYLGRJrNeequzCcbLVmG0tc=
+
+Name: classes.dex
+SHA1-Digest: xQ6GWqo2hoqdt44/MC4kCWGupEI=
+
+Name: res/xml/zeauoqes.xml
+SHA1-Digest: IJrFgK4WHwDca+LzUXjqZp2pay0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WnOl38fCm2hTC/EAcFH8YwcJ5YY=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: /lt2yUuBpbAVfPaWxbADHEX2NGg=
+
+Name: res/layout/fspojeof.xml
+SHA1-Digest: j74YWH5uKwlxPcPYYRCFBk6PHo0=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: /6QowWu5Q5Ps01OzWoQRkiJ5+7Q=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: L0diEYb1WdgoFThUjk9hEh/zbLo=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: w8PCsMO5xsATC0fr9JjT5w68P3A=
+
+Name: res/drawable/aovethhpxnahyrv.png
+SHA1-Digest: Rqr4rBlkEaBJqX9Qugfvr5Uk4F8=
+
+Name: res/layout/plcxuzww.xml
+SHA1-Digest: Tz9OajQhEEoCLB6NqbEC7CzIy1k=
+
+Name: res/xml/suteebzh.xml
+SHA1-Digest: RSNBVBD/DQfvmZSA9esPrPc8w4I=
+
+Name: res/layout/zgngahru.xml
+SHA1-Digest: cofSIIrgafGWtX+tJc2aabqNKQk=
+
+Name: res/layout/ipeztwfj.xml
+SHA1-Digest: p/PQA0sK+QhT9YNifMnBMtRAy0M=
+

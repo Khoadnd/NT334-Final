@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill_horizontal" android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/input" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/a50dp">
+            <TextView android:textSize="@dimen/a10dp" android:textColor="#ff000000" android:gravity="center" android:background="#ffeaeaea" android:layout_width="fill_parent" android:layout_height="@dimen/a14dp" android:text="Enter your card number" />
+            <TextView android:textSize="@dimen/a20dp" android:textColor="#ff000000" android:gravity="center" android:id="@id/cardinput" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a30dp" android:text="" />
+            <View android:background="#ffeaeaea" android:layout_width="fill_parent" android:layout_height="@dimen/a6dp" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:background="#ffeaeaea" android:paddingLeft="@dimen/a10dp" android:paddingTop="@dimen/a2dp" android:paddingRight="@dimen/a10dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_1" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="1" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/bb2" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="2" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_3" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="3" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_4" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="4" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_5" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="5" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_del" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a75dp" android:layout_height="@dimen/a35dp" android:text="&lt;&lt;" style="@style/buttonkeyb" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:background="#ffeaeaea" android:paddingLeft="@dimen/a10dp" android:paddingTop="@dimen/a1dp" android:paddingRight="@dimen/a10dp" android:paddingBottom="@dimen/a3dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_6" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="6" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_7" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="7" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_8" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="8" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_9" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="9" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_0" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a35dp" android:layout_height="@dimen/a35dp" android:text="0" style="@style/buttonkeyb" />
+            <Button android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/c_b_clear" android:background="@drawable/buttonkeyb" android:layout_width="@dimen/a75dp" android:layout_height="@dimen/a35dp" android:text="clear" style="@style/buttonkeyb" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

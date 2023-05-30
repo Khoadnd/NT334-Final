@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">முகப்பிற்கு வழிசெலுத்து</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">மேலே வழிசெலுத்து</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">மேலும் விருப்பங்கள்</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">முடிந்தது</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">எல்லாம் காட்டு</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">பயன்பாட்டைத் தேர்வுசெய்க</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">முடக்கு</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">இயக்கு</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">தேடு...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">வினவலை அழி</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">தேடல் வினவல்</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">தேடு</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">வினவலைச் சமர்ப்பி</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">குரல் தேடல்</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">இதனுடன் பகிர்</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s உடன் பகிர்</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">சுருக்கு</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

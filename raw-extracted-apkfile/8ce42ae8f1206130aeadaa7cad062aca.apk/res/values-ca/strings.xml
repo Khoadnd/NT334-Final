@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">"Navega a la pàgina d'inici"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Navega cap a dalt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Més opcions</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Fet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">"Mostra'ls tots"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Selecciona una aplicació</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">DESACTIVAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ACTIVAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Cerca...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Esborra la consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Consulta de cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Envia la consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Cerca per veu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Comparteix amb</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Comparteix amb %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Replega</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">+999</string>
+</resources>

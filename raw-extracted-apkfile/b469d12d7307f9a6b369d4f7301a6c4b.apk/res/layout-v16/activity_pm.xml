@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/popup_element" android:background="@drawable/shadow_pm" android:padding="10.0sp" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="21.0sp" android:typeface="normal" android:textStyle="normal" android:textColor="#ff333333" android:id="@id/title" android:layout_width="400.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginTop="2.0dip" android:text="@string/add_card" android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip">
+        <ImageView android:id="@id/visa" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:src="@drawable/wallet_im_card_full_visa" />
+        <ImageView android:id="@id/mc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:src="@drawable/wallet_im_card_full_mastercard" />
+        <ImageView android:id="@id/amex" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:src="@drawable/wallet_im_card_full_amex" />
+        <ImageView android:id="@id/disc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:src="@drawable/wallet_im_card_full_discover" />
+        <ImageView android:id="@id/cirrus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wallet_im_card_full_jcb" />
+    </LinearLayout>
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="0.0dip">
+        <EditText android:scrollbarAlwaysDrawVerticalTrack="false" android:id="@id/cc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/card_number" android:ems="10" android:maxLength="19" android:layout_weight="1.0" android:inputType="number" android:fontFamily="sans-serif-light" style="@style/EditTextplay" />
+        <requestFocus />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="@id/exp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginRight="0.0dip" android:layout_marginBottom="8.0dip">
+        <EditText android:scrollbarAlwaysDrawVerticalTrack="false" android:id="@id/mm" android:layout_width="70.0dip" android:layout_height="wrap_content" android:hint="@string/mm" android:ems="10" android:maxLength="2" android:layout_weight="1.0" android:inputType="number" android:fontFamily="sans-serif-light" style="@style/EditTextplay" />
+        <TextView android:textSize="18.0sp" android:textColor="#ff363636" android:id="@id/slash" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:text="/" android:layout_toRightOf="@id/mm" android:layout_centerVertical="true" android:fontFamily="sans-serif-light" />
+        <EditText android:scrollbarAlwaysDrawVerticalTrack="false" android:id="@id/yy" android:layout_width="70.0dip" android:layout_height="wrap_content" android:layout_marginLeft="72.0dip" android:hint="@string/yy" android:ems="10" android:maxLength="2" android:layout_weight="1.0" android:layout_alignLeft="@id/mm" android:inputType="number" android:fontFamily="sans-serif-light" style="@style/EditTextplay" />
+        <EditText android:scrollbarAlwaysDrawVerticalTrack="false" android:gravity="left" android:id="@id/cvv" android:visibility="visible" android:layout_width="80.0dip" android:layout_height="wrap_content" android:hint="@string/cvv" android:ems="10" android:maxLength="3" android:layout_weight="1.0" android:layout_alignParentLeft="false" android:layout_alignParentTop="false" android:layout_alignParentRight="true" android:layout_alignParentBottom="false" android:layout_centerHorizontal="false" android:layout_centerVertical="true" android:inputType="number" android:fontFamily="sans-serif-light" style="@style/EditTextplay" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="2.0dip">
+        <Button android:enabled="false" android:textSize="14.0sp" android:textStyle="bold" android:textColor="@drawable/pmok_state" android:id="@id/pm_ok" android:background="@drawable/pm_ok" android:layout_width="120.0dip" android:layout_height="26.0dip" android:text="@string/save_card" android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+</LinearLayout>

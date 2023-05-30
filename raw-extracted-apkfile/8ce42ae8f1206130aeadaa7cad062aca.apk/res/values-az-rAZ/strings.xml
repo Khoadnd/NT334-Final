@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Evə get</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Yuxarı get</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Daha çox seçim</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Hazırdır</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Hamısına baxın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Tətbiq seçin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">DEAKTİV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">AKTİV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Axtarış...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Sorğunu təmizlə</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Axtarış sorğusu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Axtarış</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Sorğunu göndərin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Səsli axtarış</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Bununla paylaşın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Dağıt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

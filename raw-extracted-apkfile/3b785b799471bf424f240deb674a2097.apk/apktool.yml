@@ -1,0 +1,42 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 3b785b799471bf424f240deb674a2097.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '7'
+  targetSdkVersion: '7'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  fileTemplates/code/JUnit3 SetUp Method.java.ft: '8'
+  fileTemplates/code/JUnit3 SetUp Method.java.html: '8'
+  fileTemplates/code/JUnit3 TearDown Method.java.ft: '8'
+  fileTemplates/code/JUnit3 TearDown Method.java.html: '8'
+  fileTemplates/code/JUnit3 Test Class.java.ft: '8'
+  fileTemplates/code/JUnit3 Test Class.java.html: '8'
+  fileTemplates/code/JUnit3 Test Method.java.ft: '8'
+  fileTemplates/code/JUnit3 Test Method.java.html: '8'
+  fileTemplates/code/JUnit4 Parameters Method.java.ft: '8'
+  fileTemplates/code/JUnit4 Parameters Method.java.html: '8'
+  fileTemplates/code/JUnit4 SetUp Method.java.ft: '8'
+  fileTemplates/code/JUnit4 SetUp Method.java.html: '8'
+  fileTemplates/code/JUnit4 TearDown Method.java.ft: '8'
+  fileTemplates/code/JUnit4 TearDown Method.java.html: '8'
+  fileTemplates/code/JUnit4 Test Class.java.ft: '8'
+  fileTemplates/code/JUnit4 Test Class.java.html: '8'
+  fileTemplates/code/JUnit4 Test Method.java.ft: '8'
+  fileTemplates/code/JUnit4 Test Method.java.html: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

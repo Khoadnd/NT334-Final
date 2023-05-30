@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:textSize="26.0sp" android:gravity="center|top" android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020008" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#fffe0023" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffac02ff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="走别人的路" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffd200ef" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="让别人无路可走" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#fff201df" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ROOT锁机，解锁20元" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffff00ff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="傻逼勿扰" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#fff57aee" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="™" />
+        <Button android:textSize="26.0sp" android:textColor="#ffff0f00" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f020007" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffff00b4" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="17.0sp" android:textColor="#ffffed00" android:id="@id/MT_Bin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="10.0dip" />
+        <EditText android:textColor="#ffb10a00" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0001" android:background="#ff2e2e2e" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <Button android:textColor="#ff09ff03" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0002" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="狂砸手机就能解锁哦！" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff00ff2d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="■■■■■" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffe51e06" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="解锁加我，我为自己带盐" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffff0f00" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0003" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff00ff2d" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

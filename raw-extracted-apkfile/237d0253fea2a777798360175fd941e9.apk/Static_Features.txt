@@ -1,0 +1,89 @@
+ Package : 
+package="zvy.zpfypq.bbuhtkwvaf" platformBuildVersionCode="23" 
+  
+ Activities : 
+activity android:excludeFromRecents="true" android:icon="@drawable/ic_launcher_x" android:label="@string/launcher_desc" android:launchMode="singleTask" android:name="zvy.zpfypq.bbuhtkwvaf.lllllIlllIlIIIllIIlIllIllllllIIlIIILllllLIllLllIIllLIlII" android:screenOrientation="nosensor" 
+activity android:excludeFromRecents="true" android:name="zvy.zpfypq.bbuhtkwvaf.lllllIllllllllIIlllllIlLIlIIILllIlIlIlllILIIlIllIlIIlIIL" 
+activity android:label="@string/app_name" 
+  
+ Services : 
+service android:label="@string/acs_desc" android:name=".IlllllIIlIlllllILIIIllllIlllllLIIIlLIIIllIllllIlIILllIll" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+service android:name=".IllllIllIlILllIIllIIIIIllllIlLlllllIllllLIIllIlIIllIIllL"
+service android:name=".lllIIIIlIlllIlllIIIIlllIlllllllLIlLLIlIIlllIllIIllIILlll"
+service android:name="zvy.zpfypq.bbuhtkwvaf.IlIllLllIIIllIIlIIlIIlLIIllllIllLlIlLIllllllIlllIlIlllIl"
+service android:name="zvy.zpfypq.bbuhtkwvaf.IlIllllLILIlIllllIIILllIlIIllIlllllllllllllIllIIIlIIlLII"
+service android:name="zvy.zpfypq.bbuhtkwvaf.lLIlllllIlllIlIlllIIIlIIIllIIlllIlILlllllIlIlllLlIlLlIII"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:name="zvy.zpfypq.bbuhtkwvaf.IlIlILlIILIllIllllIllllIlllIlllllIIlIIlIlllILlIllIIIllLl" android:permission="android.permission.BIND_DEVICE_ADMIN"
+receiver android:name="zvy.zpfypq.bbuhtkwvaf.IIlIlIIlllIlllllIIlllllLIIlIIIlLlLIlllllllLIIllIIllIlllI"
+receiver android:name="zvy.zpfypq.bbuhtkwvaf.llllLIlLlIIllIllIlIIlLIllIlllIlLlIlIIllllIllllIIlIIIIlll"
+  
+ Intents Action : 
+action android:name="android.accessibilityservice.AccessibilityService"
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED"
+action android:name="android.app.action.DEVICE_ADMIN_DISABLED"
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+action android:name="android.intent.action.REBOOT"
+  
+ Intents Category : 
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.HOME"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.ACCESS_WIFI_STATE"
+permission android:name="android.permission.CHANGE_NETWORK_STATE"
+permission android:name="android.permission.CHANGE_WIFI_STATE"
+permission android:name="android.permission.DISABLE_KEYGUARD"
+permission android:name="android.permission.GET_ACCOUNTS"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+permission android:name="android.permission.READ_INTERNAL_STORAGE"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="android.permission.WRITE_INTERNAL_STORAGE"
+permission android:name="android.permission.WRITE_SETTINGS"
+permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+permission="android.permission.BIND_DEVICE_ADMIN"
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="true" android:icon="@drawable/ic_launcher" 
+  
+ Meta-Data : 
+meta-data android:name="android.accessibilityservice" android:resource="@xml/bgngubbe"
+meta-data android:name="android.app.device_admin" android:resource="@xml/upayzpns"
+meta-data android:name="preventRestart" android:value="true"
+meta-data android:name="stopOnDeviceLock" android:value="false"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+17
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+3.3M
+  

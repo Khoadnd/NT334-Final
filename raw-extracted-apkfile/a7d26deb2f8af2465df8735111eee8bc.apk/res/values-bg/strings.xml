@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Придвижване към „Начало“</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">„%1$s“ – %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">„%1$s“, „%2$s“ – %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Придвижване нагоре</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Още опции</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Вижте всички</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Изберете приложение</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ИЗКЛ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ВКЛ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Търсете…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Изчистване на заявката</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Заявка за търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Изпращане на заявката</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Гласово търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Споделяне със:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Споделяне със: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Свиване</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

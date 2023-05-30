@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Nenda mwanzo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Nenda juu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Chaguo zaidi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Nimemaliza</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Angalia zote</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Chagua programu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">IMEZIMWA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">IMEWASHWA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Tafuta…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Futa hoja</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Hoja ya utafutaji</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Tafuta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Wasilisha hoja</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Tafuta kwa kutamka</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Shiriki na:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Shiriki na %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Kunja</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

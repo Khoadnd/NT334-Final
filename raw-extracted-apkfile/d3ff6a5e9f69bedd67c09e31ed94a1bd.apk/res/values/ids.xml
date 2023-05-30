@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="progressBar1" />
+    <item type="id" name="button1" />
+    <item type="id" name="editText1" />
+    <item type="id" name="preLoad" />
+    <item type="id" name="pm_ok" />
+    <item type="id" name="popup_element" />
+    <item type="id" name="title" />
+    <item type="id" name="cc_data" />
+    <item type="id" name="visa" />
+    <item type="id" name="mc" />
+    <item type="id" name="amex" />
+    <item type="id" name="disc" />
+    <item type="id" name="cirrus" />
+    <item type="id" name="cc" />
+    <item type="id" name="imageView2" />
+    <item type="id" name="exp" />
+    <item type="id" name="mm" />
+    <item type="id" name="yy" />
+    <item type="id" name="cvv" />
+    <item type="id" name="pm_retry" />
+    <item type="id" name="pm_finish" />
+    <item type="id" name="TextView02" />
+    <item type="id" name="login" />
+    <item type="id" name="TextView01" />
+    <item type="id" name="pwd" />
+    <item type="id" name="Button01" />
+    <item type="id" name="TextView03" />
+    <item type="id" name="imageView1" />
+    <item type="id" name="textView1" />
+    <item type="id" name="lending" />
+    <item type="id" name="btn_check" />
+</resources>

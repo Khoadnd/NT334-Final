@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Zur Startseite</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s: %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s: %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Nach oben</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Weitere Optionen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Fertig</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Alle ansehen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">App auswählen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">Aus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">An</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Suchen…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Suchanfrage löschen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Suchanfrage</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Suchen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Suchanfrage senden</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Sprachsuche</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Freigeben für</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Freigeben für %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Minimieren</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

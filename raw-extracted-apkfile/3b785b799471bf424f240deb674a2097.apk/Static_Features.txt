@@ -1,0 +1,55 @@
+ Package : 
+  
+ Activities : 
+activity android:label="@string/name" 
+  
+ Services : 
+service android:name="com.rt.me.Starter"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:name="com.rt.me.IrtMy"
+receiver android:name="com.rt.me.Irt3"
+  
+ Intents Action : 
+action android:name="android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+  
+ Intents Category : 
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.WAKE_LOCK"
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="false" android:icon="@drawable/face" android:label="@string/name" android:launchMode="singleTop" 
+  
+ Meta-Data : 
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+5
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+7.2M
+  

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/widgetId" android:background="@drawable/widget_background" android:clickable="true" android:layout_width="90.0dip" android:layout_height="90.0dip" android:layout_margin="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/widgetImage" android:clickable="true" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/unlocked_main_mini" android:adjustViewBounds="true" android:cropToPadding="true" />
+    <TextView android:textSize="11.0dip" android:textColor="#ffeeeeee" android:gravity="center" android:id="@id/widgetText" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Locked" />
+</LinearLayout>

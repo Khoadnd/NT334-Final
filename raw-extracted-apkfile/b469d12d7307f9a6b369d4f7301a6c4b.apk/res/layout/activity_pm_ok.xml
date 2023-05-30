@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/shadow_pm" android:layout_width="315.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="12.0dip">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="21.0sp" android:textColor="#ff333333" android:id="@id/goodtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:text="Operation successfully completed" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip">
+        <TextView android:textColor="#ff333333" android:layout_gravity="center_horizontal" android:id="@id/gooddata" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="Card was successfully added.\n\nEnjoy shopping!\n" />
+    </LinearLayout>
+    <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip">
+        <Button android:textColor="@drawable/pmok_state" android:layout_gravity="bottom|center|right" android:id="@id/pm_finish" android:background="@drawable/pm_ok" android:layout_width="130.0dip" android:layout_height="26.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="10.0dip" android:text="ОК" />
+    </LinearLayout>
+</LinearLayout>

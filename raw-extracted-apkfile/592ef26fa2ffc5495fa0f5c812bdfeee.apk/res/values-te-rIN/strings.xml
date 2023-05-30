@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">హోమ్‌కు నావిగేట్ చేయండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">పైకి నావిగేట్ చేయండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">మరిన్ని ఎంపికలు</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">పూర్తయింది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">అన్నీ చూడండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">అనువర్తనాన్ని ఎంచుకోండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ఆఫ్ చేయి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ఆన్ చేయి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">శోధించు...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">ప్రశ్నను క్లియర్ చేయి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">ప్రశ్న శోధించండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">శోధించు</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">ప్రశ్నని సమర్పించు</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">వాయిస్ శోధన</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">వీరితో భాగస్వామ్యం చేయి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%sతో భాగస్వామ్యం చేయి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">కుదించండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

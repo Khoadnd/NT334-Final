@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">ወደ መነሻ ይዳስሱ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s፣ %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s፣ %2$s፣ %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">ወደ ላይ ይዳስሱ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">ተጨማሪ አማራጮች</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">ተከናውኗል</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">ሁሉንም ይመልከቱ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">መተግበሪያ ይምረጡ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ጠፍቷል</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">በርቷል</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">ፈልግ…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">መጠይቅ አጽዳ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">የፍለጋ ጥያቄ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">ፍለጋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">መጠይቅ ያስረክቡ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">የድምፅ ፍለጋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">ከሚከተለው ጋር ያጋሩ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">ከ%s ጋር ያጋሩ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">ሰብስብ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

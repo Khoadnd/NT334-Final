@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/main.xml
+SHA1-Digest: 4B3FceoFE02cwHo2zvrHRty60iA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: d8t9QJ6CUJ1hSRu2JR4ZQgtPWPs=
+
+Name: resources.arsc
+SHA1-Digest: qZbAPtWJK5fqA8j6nrfuYgzQ1EY=
+
+Name: res/raw/libc.so
+SHA1-Digest: KKAofkVUJ17F4ISNISS2+Ex+OUc=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: dpaMhNmx0d3l7wLbwjobiuUunpc=
+
+Name: classes.dex
+SHA1-Digest: DqHzna6mFqaX+QVbjZn7dXKO05w=
+
+Name: res/xml/pin.xml
+SHA1-Digest: 8NOdEEDmepiLlzN72Ygq/e7m+Z4=
+

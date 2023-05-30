@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Πλοήγηση προς τα επάνω</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Περισσότερες επιλογές</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Τέλος</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Προβολή όλων</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Αναζήτηση…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Διαγραφή ερωτήματος</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Ερώτημα αναζήτησης</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Αναζήτηση</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Υποβολή ερωτήματος</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Φωνητική αναζήτηση</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Κοινή χρήση με</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Κοινή χρήση με %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Σύμπτυξη</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

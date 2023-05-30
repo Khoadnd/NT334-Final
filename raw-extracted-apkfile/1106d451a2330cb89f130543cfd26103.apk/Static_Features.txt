@@ -1,0 +1,75 @@
+ Package : 
+package="com.android.security.fdiduds8" platformBuildVersionCode="22" 
+  
+ Activities : 
+activity android:="@style/Theme.Transparent" android:=".LockActivity" android:="false" android:=".LockActivity" android:="true" android:="singleTask" android:="keyboard|keyboardHidden|locale|orientation|screenSize" android:="stateAlwaysHidden" 
+activity android:="@style/Theme.Transparent" android:=".MainActivity" android:="true" android:="singleTask" android:="keyboardHidden|orientation" 
+  
+ Services : 
+service android:=".MainService" android:="false" android:="false"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:=".MainReceiver" android:="android.permission.RECEIVE_BOOT_COMPLETED" android:="true" android:="false"
+receiver android:="@string/device_admin_label" android:=".DeviceAdmin" android:="android.permission.BIND_DEVICE_ADMIN"
+  
+ Intents Action : 
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED"
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.view.InputMethod"
+  
+ Intents Category : 
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.HOME"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:="android.permission.CAMERA"
+permission android:="android.permission.DISABLE_KEYGUARD"
+permission android:="android.permission.EXPAND_STATUS_BAR"
+permission android:="android.permission.GET_ACCOUNTS"
+permission android:="android.permission.GET_TASKS"
+permission android:="android.permission.INTERNET"
+permission android:="android.permission.MODIFY_AUDIO_SETTINGS"
+permission android:="android.permission.PACKAGE_USAGE_STATS"
+permission android:="android.permission.READ_CALL_LOG"
+permission android:="android.permission.READ_CONTACTS"
+permission android:="android.permission.READ_PHONE_STATE"
+permission android:="android.permission.READ_SMS"
+permission android:="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:="android.permission.WAKE_LOCK"
+permission android:="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:="android.permission.WRITE_SETTINGS"
+permission android:="com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+permission android:="com.google.android.providers.gsf.permission.READ_GSERVICES"
+permission.BIND_DEVICE_ADMIN"
+permission.RECEIVE_BOOT_COMPLETED" android:="true" android:="false"
+  
+ Exported : 
+  
+ Backup : 
+  
+ Meta-Data : 
+meta-data android:="android.app.device_admin" android:="@xml/security_policies"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+1
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+2.1M
+  

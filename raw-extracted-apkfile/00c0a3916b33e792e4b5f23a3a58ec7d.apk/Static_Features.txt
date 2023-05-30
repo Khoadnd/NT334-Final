@@ -1,0 +1,75 @@
+ Package : 
+  
+ Activities : 
+activity android:configChanges="keyboard|keyboardHidden|orientation" android:icon="@drawable/logo" android:label="@string/app_name" android:name="Flnujgyaj" 
+activity android:name="SampleOverlayHideActivity" 
+  
+ Services : 
+service android:name="Sinngtcfu"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:label="XXX video" android:name="nsuj.wbbgue.bmzbhnz.Gqvepzigg" android:permission="android.permission.BIND_DEVICE_ADMIN"
+receiver android:name="nsuj.wbbgue.bmzbhnz.Bneov" android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
+receiver android:name="nsuj.wbbgue.bmzbhnz.Qnukexey"
+  
+ Intents Action : 
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLED"
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED"
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+action android:name="android.intent.action.REBOOT"
+  
+ Intents Category : 
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.CAMERA"
+permission android:name="android.permission.GET_ACCOUNTS"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.VIBRATE"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="android.permission.WRITE_SETTINGS"
+permission="android.permission.BIND_DEVICE_ADMIN"
+permission="android.permission.RECEIVE_BOOT_COMPLETED"
+  
+ Exported : 
+  
+ Backup : 
+  
+ Meta-Data : 
+meta-data android:name="android.app.device_admin" android:resource="@xml/device_admin_data"
+meta-data android:name="checkDelay" android:value="1"
+meta-data android:name="preventRestart" android:value="true"
+meta-data android:name="stopOnDeviceLock" android:value="false"
+meta-data android:name="sub" android:value="7"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+14
+  
+ Number of Pictures : 
+35
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+1.9M
+  

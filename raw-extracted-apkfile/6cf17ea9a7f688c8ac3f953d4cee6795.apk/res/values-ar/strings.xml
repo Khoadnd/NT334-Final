@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="intro1">You have installed</string>
+    <string name="intro2">applications with camera permission that can ANYTIME use camera on your mobile phone,</string>
+    <string name="intro3">of them has internet permission and can upload/transfer pictures or videos from your phone ANYWHERE and ANYTIME.</string>
+    <string name="next">التالي</string>
+    <string name="choseTemplateColor">اختر لون القالب</string>
+    <string name="whiteTemplate">أوبي وان كنبى</string>
+    <string name="blackTemplate">دارك فادر</string>
+    <string name="deactiveNotificationInActionBar">"تم تنشيط إخطارات إيقاف 
+الكاميرا في شريط الحالة"</string>
+    <string name="activeNotificationInActionBar">"تم إلغاء تنشيط إخطارات إيقاف 
+الكاميرا في شريط الحالة"</string>
+    <string name="cameraIs">الكاميرا هي</string>
+    <string name="locked">موقوفة</string>
+    <string name="unlocked">نشطة</string>
+    <string name="clickToUnlockCamera">انقر لتنشيط الكاميرا</string>
+    <string name="clickToLockCamera">انقر لإيقاف الكاميرا</string>
+    <string name="admin_device_description">اضغط على زر التنشيط</string>
+    <string name="template">القالب</string>
+    <string name="swichTemplateColor">تبديل لون القالب</string>
+    <string name="notification">التنبيهات</string>
+    <string name="notificationInStatusBarShow">عرض رمز الإخطارات في شريط الحالة</string>
+    <string name="notificationIcon">رمز التنبيهات</string>
+    <string name="choseStyleOfIconInStatusBar">اختر شكل الرمز في شريط الحالة</string>
+    <string name="appsWithCameraPermission">التطبيقات الحاصلة على إذن الكاميرا</string>
+    <string name="appsWithCameraPermissionDescription">اعرض التطبيقات الحاصلة على إذن استخدام الكاميرا في أي</string>
+    <string name="putWidgetOnDesktop">ضع الويدجت على الشاشة الرئيسية الخاصة بك</string>
+    <string name="rateOurApp">اعط تقييماً للتطبيق الخاص بنا</string>
+    <string name="contactUs">اتصل بنا</string>
+    <string name="contactUsApplication">تواصل معنا من خلال تطبيق البريد الإلكتروني</string>
+    <string name="uninstallApp">إلغاء تثبيت التطبيق</string>
+    <string name="mayUpload">قد يتم التحميل</string>
+    <string name="showDangerApp">قائمة بالتطبيقات الحاصلة على إذن الكاميرا (تهديدات الأمن)</string>
+    <string name="blockedUp">موقوفة</string>
+    <string name="unblockedUp">نشطة</string>
+    <string name="cameraIsUnblocked">الكاميرا منشطة</string>
+    <string name="cameraIsBlocked">الكاميرا موقوفة</string>
+    <string name="appsMayBeSpyingYou">يمكن أن تكون التطبيقات تتجسس عليك الآن</string>
+    <string name="clickToUnlockCameraRow">انقر لتنشيط الكاميرا</string>
+    <string name="freeversionoff">النسخة المجانية لا تعمل بين الساعة 6 مساء إلى 10 مساء. قم بدعمنا من خلال التحديث إلى الإصدار المتقدم.</string>
+    <string name="updateToPaid">الترقية إلى النسخة المتقدمة</string>
+    <string name="cameraCantBeBlocked">لا يمكن أن يكون قد تم حظره الكاميرا، وتطبيق آخر يستخدم كاميرا! إيقاف التطبيقات التي يتم استخدام الكاميرا أو محاولة إعادة تشغيل الهاتف</string>
+    <string name="cameraIsUnblockedFor5Minutes">المقبلة</string>
+    <string name="cameraIsUnblockedFor5MinutesSecond">غير مؤمن الكاميرا لالدقائق ال</string>
+    <string name="cameraIsUnblockedFor5MinutesNotification">المقبلة</string>
+    <string name="cameraIsUnblockedFor5MinutesNotificationSecond">الافراج عن الدقائق ال</string>
+    <string name="cameraWillBeBlockedIn5Min">دقائق</string>
+    <string name="cameraWillBeBlockedIn5MinSecond">سيتم حظر الكاميرا تلقائيا في</string>
+    <string name="autoblockPeriod">حجب التلقائي - وقت الانتظار</string>
+    <string name="autoblockPeriodDescription">انقر على الإخطار سوف تحريك الكاميرا لفترة قصيرة</string>
+    <string name="welcomeCameraTitle">"CAMERA 
+BLOCK 
+PRO"</string>
+    <string name="welcomeBlockAllOrNoneTitle">منع كل تطبيق أو لا شيء</string>
+    <string name="welcomeNoMoreUnsecuredTitle">نقول لا أكثر لكاميرا غير المضمونة</string>
+    <string name="welcomeCameraDescription">تعطيل ومنع كاميرا الهاتف الخاص بك عن طريق نقرة واحدة. سوف تطبيقات الروبوت لن تكون قادرة على التقاط الصور سرا أو تسجيل لك.</string>
+    <string name="welcomeBlockAllOrNoneDescription">تشغيل الكاميرا الحجب وسيتم حظر إذن الكاميرا لجميع التطبيقات! استثناءات لا يمكن تنفيذها من الناحية الفنية.</string>
+    <string name="welcomeBlockAllOrNoneNote">نقرة واحدة على الإخطار ويمكنك البدء في التقاط الصور واستخدام الكاميرا مرة أخرى.</string>
+    <string name="welcomeStartUseCameraBlock">بدء استخدام Camera Block</string>
+    <string name="settings">إعدادات</string>
+</resources>

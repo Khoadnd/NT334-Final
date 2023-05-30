@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="darker_gray">#ff444444</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="progress_start">#802ebe14</color>
+    <color name="progress_end">#802ebe14</color>
+</resources>

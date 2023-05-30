@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/backgroundImage1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/welcome_watching" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:alpha="1.0" />
+    <ImageView android:id="@id/backgroundImage2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/welcome_detective" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:alpha="0.0" />
+    <ImageView android:id="@id/backgroundImage3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/welcome_door" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:alpha="0.0" />
+    <ImageView android:id="@id/backgroundImage4" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/welcome_umbrella" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:alpha="0.0" />
+    <TextView android:id="@id/welcomeGreyShadow" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:alpha="0.4" />
+    <ImageView android:id="@id/welcomeGreyImage" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/blackalpha" android:scaleType="fitXY" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <android.support.v4.view.ViewPager android:id="@android:attr/label" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="center|top" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/radio1" android:layout_width="15.0dip" android:layout_height="15.0dip" android:src="@drawable/checked" />
+        <ImageView android:id="@id/radio2" android:layout_width="15.0dip" android:layout_height="15.0dip" android:src="@drawable/unchecked" />
+        <ImageView android:id="@id/radio3" android:layout_width="15.0dip" android:layout_height="15.0dip" android:src="@drawable/unchecked" />
+        <ImageView android:id="@id/radio4" android:layout_width="15.0dip" android:layout_height="15.0dip" android:src="@drawable/unchecked" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">დასრულდა</string>
+    <string name="abc_action_bar_home_description">მთავარზე ნავიგაცია</string>
+    <string name="abc_action_bar_up_description">ზემოთ ნავიგაცია</string>
+    <string name="abc_action_menu_overflow_description">მეტი ვარიანტები</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_query">ძიების მოთხოვნა</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_activitychooserview_choose_application">აპის არჩევა</string>
+    <string name="abc_activity_chooser_view_see_all">ყველას ნახვა</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-თან გაზიარება</string>
+    <string name="abc_shareactionprovider_share_with">გაზიარება:</string>
+    <string name="card_number">ბარათის ნომერი</string>
+    <string name="hint_expiration_month">თთ</string>
+    <string name="hint_expiration_year">წწ</string>
+    <string name="expiration_date_separator">/</string>
+    <string name="cvc_code">CVC</string>
+    <string name="enter_credit_card">შეიყვანეთ იმ საკრედიტო ბარათის მონაცემები, რომლის გამოყენებასაც Google Wallet-ისთვის აპირებთ.</string>
+    <string name="cvc_code_popup_visa_description"><b>Discover, MasterCard, Visa, და Visa Electron</b>"
+CVC არის ბოლო სამი ციფრი, რომელიც ბარათის მეორე მხარესაა განთავსებული ხელმოწერის ზოლში."</string>
+    <string name="cvc_code_popup_amex_description"><b>American Express</b>"
+CVC არის ოთხი ციფრი ბარათის წინა მხარეს, მარჯვნივ."</string>
+    <string name="add_credit_card">ბარათის დამატება</string>
+    <string name="add_instrument_continue">გაგრძელება</string>
+    <string name="i18n_locality_label">ქალაქი</string>
+    <string name="i18n_postal_code_label">საფოსტი კოდი</string>
+    <string name="i18n_address_line1_label">ქუჩის მისამართი</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="phone_number">ტელეფონის ნომერი</string>
+    <string name="first_name">სახელი</string>
+    <string name="last_name">გვარი</string>
+    <string name="name_on_card">ბარათის მფლობელის სახელი</string>
+    <string name="enter_your_address_sentence">გთხოვთ, შეიყვანოთ თქვენი ბილინგის მისამართი, რომელიც Google-ის ანგარიშში შეინახება.</string>
+    <string name="common_google_play_services_update_title">Google Play Services-ის განახლება</string>
+</resources>

@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (MT)
+
+Name: r/1
+SHA1-Digest: 4+ZPoa0hAD1OcmcynQra8yioSXI=
+
+Name: r/7.xml
+SHA1-Digest: 1RicyAL78UKvvetX7Ret0HayBK4=
+
+Name: r/5.aac
+SHA1-Digest: 273HDK0LLMxXvth5Xs9R68pAtXc=
+
+Name: r/7.aac
+SHA1-Digest: DOD32asjJaXWh8Kg6nU0yea0fsQ=
+
+Name: r/3
+SHA1-Digest: 4o9R72/NvaKi1wo4NK8jFIlAeSM=
+
+Name: r/0.aac
+SHA1-Digest: mp85DUuzqDUISjanqfIHfBmtxqo=
+
+Name: r/0
+SHA1-Digest: cmPWeKuuR7IRp95mk8nfPKltIow=
+
+Name: r/2
+SHA1-Digest: cmPWeKuuR7IRp95mk8nfPKltIow=
+
+Name: r/1.aac
+SHA1-Digest: 1AFYAmOJ3ceZgfge2rmLlCkXcOY=
+
+Name: r/2.aac
+SHA1-Digest: IketQZY6ECbXs1uL/k/blr86dy0=
+
+Name: r/8.xml
+SHA1-Digest: 6rTjmMD/GoxsoPHlr0WW7g2f18s=
+
+Name: r/6.xml
+SHA1-Digest: 572/xis/UthNKLhCW2UjdeaIAbA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WWXwal1QC/nP4nw8U8QMFrmk8TQ=
+
+Name: r/4
+SHA1-Digest: 4DtC85nCXfVHh0FU5VW+wMai1W4=
+
+Name: r/3.xml
+SHA1-Digest: DJdEfptQDYLRyvurJzSRis6w9iw=
+
+Name: r/6.aac
+SHA1-Digest: h9xc9J1cDm9JWpo3CSqtOQ+0byw=
+
+Name: resources.arsc
+SHA1-Digest: d3S4L50/phVq4JQghBkioD5sIbc=
+
+Name: r/4.xml
+SHA1-Digest: 204bbydwK/c+GucUrt4N3PSGoNk=
+
+Name: r/2.xml
+SHA1-Digest: G4MgoECdowJxHPBbOhzYIgVM7UQ=
+
+Name: r/5.xml
+SHA1-Digest: SHSaiTOPtR1tJMg88AkIwihijzU=
+
+Name: classes.dex
+SHA1-Digest: 2mElfQrX7PYf5Pm3mSTlH3h0L+s=
+
+Name: r/4.aac
+SHA1-Digest: 9ViHAnAs/KVifIMw0fphIGUnaNo=
+
+Name: r/0.xml
+SHA1-Digest: FKJyR9DpSbyPSocFra2M87E8H3I=
+
+Name: r/3.aac
+SHA1-Digest: fExKQB6ryBlIZDKXoGLM7qgLL6E=
+
+Name: r/1.xml
+SHA1-Digest: 2tQmcSTo83h3gQ9QoWxy5cWvjOY=
+

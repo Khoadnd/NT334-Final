@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Navigeerimine avaekraanile</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Navigeerimine üles</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Rohkem valikuid</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Valmis</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Kuva kõik</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Valige rakendus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">VÄLJAS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">SEES</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Otsige …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Päringu tühistamine</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Otsingupäring</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Otsing</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Päringu esitamine</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Häälotsing</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Jagamine:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Jagamine kasutajaga %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Ahendamine</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

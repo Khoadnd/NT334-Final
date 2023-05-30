@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Navigate home</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Navigate up</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">More options</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Done</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">See all</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Choose an app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Search…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Clear query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Search query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Submit query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Voice search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Share with</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Share with %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Collapse</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070014">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070015">%1$d / %2$d</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070016">百变语音助手</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070017">Lycorisradiata</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070018">Hello world!</string>
+</resources>

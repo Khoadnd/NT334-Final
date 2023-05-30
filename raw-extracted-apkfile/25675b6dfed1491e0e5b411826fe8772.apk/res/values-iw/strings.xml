@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">נווט לדף הבית</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">‏%1$s‏, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">‏%1$s‏, %2$s‏, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">נווט למעלה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">עוד אפשרויות</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">בוצע</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">ראה הכל</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">בחר אפליקציה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">כבוי</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">פועל</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">חפש…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">מחק שאילתה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">שאילתת חיפוש</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">חפש</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">שלח שאילתה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">חיפוש קולי</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">שתף עם</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">‏שתף עם %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">כווץ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">‎999+‎</string>
+</resources>

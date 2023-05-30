@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Перейти на головний</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Перейти вгору</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Інші опції</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Переглянути всі</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Вибрати програму</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ВИМК.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">УВІМК.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Пошук…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Очистити запит</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Пошуковий запит</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Пошук</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Надіслати запит</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Голосовий пошук</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Надіслати через</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Надіслати через %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Згорнути</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

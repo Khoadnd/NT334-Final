@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Navigeer tuis</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Navigeer op</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Nog opsies</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Klaar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Sien alles</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">"Kies 'n program"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">AF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">AAN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Soek …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Vee navraag uit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Soeknavraag</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Soek</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Dien navraag in</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Stemsoektog</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Deel met</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Deel met %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Vou in</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

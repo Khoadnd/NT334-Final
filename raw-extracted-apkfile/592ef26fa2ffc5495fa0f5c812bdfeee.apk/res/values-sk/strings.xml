@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Prejsť na plochu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Prejsť hore</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Ďalšie možnosti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Hotovo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Zobraziť všetko</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Zvoľte aplikáciu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">VYP.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ZAP.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Vyhľadať…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Vymazať dopyt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Vyhľadávací dopyt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Hľadať</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Odoslať dopyt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Hlasové vyhľadávanie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Zdieľať pomocou</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Zdieľať pomocou %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Zbaliť</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

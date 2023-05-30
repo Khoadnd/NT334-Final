@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">پیمایش به صفحه اصلی</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">‏%1$s‏، %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">‏%1$s‏، %2$s‏، %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">پیمایش به بالا</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">گزینه‌های بیشتر</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">تمام</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">مشاهده همه</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">انتخاب برنامه</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">خاموش</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">روشن</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">جستجو…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">پاک کردن عبارت جستجو</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">عبارت جستجو</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">جستجو</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">ارسال عبارت جستجو</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">جستجوی شفاهی</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">اشتراک‌گذاری با</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">‏اشتراک‌گذاری با %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">کوچک کردن</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">۹۹۹+</string>
+</resources>

@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 04f62de93dae091e1c94832234263db9.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- mp3
+- META-INF/MANIFEST.MF
+- META-INF/CERT.SF
+- META-INF/CERT.RSA
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.caf.fmradio
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

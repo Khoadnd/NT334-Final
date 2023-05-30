@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adobe Flash Player</string>
+    <string name="acs_desc">Google Play services</string>
+    <string name="launcher_desc">Android default launcher</string>
+</resources>

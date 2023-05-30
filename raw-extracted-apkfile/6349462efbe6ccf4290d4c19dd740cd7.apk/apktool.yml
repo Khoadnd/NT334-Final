@@ -1,0 +1,31 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 6349462efbe6ccf4290d4c19dd740cd7.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- META-INF/MANIFEST.MF
+- META-INF/CERT.SF
+- META-INF/CERT.RSA
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '11'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  新建文件.txt: '0'
+  classes.dex.bak: '0'
+  新建文件.txt.bak: '0'
+  AndroidManifest.xml.bak: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '1'
+  versionName: 1.2.2

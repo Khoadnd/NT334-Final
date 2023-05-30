@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_up_description">Prejsť hore</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+    <string name="intro1">Máš nainštalovaných</string>
+    <string name="intro2">aplikácií s oprávnením na použitie kamery, ktoré môžu HOCIKEDY použiť kameru na tvojom telefóne,</string>
+    <string name="intro3">z nich má oprávnenie používať internet a môže ľubovoľne prenášať fotografie alebo videá z vášho telefónu do sveta.</string>
+    <string name="next">Ďalej</string>
+    <string name="choseTemplateColor">Zvoľ farbu aplikácie:</string>
+    <string name="whiteTemplate">Obi-Wan Kenobi</string>
+    <string name="blackTemplate">Dark Vader</string>
+    <string name="deactiveNotificationInActionBar">"Camera Block notifikácia v 
+notifikačnej lište je aktivovaná"</string>
+    <string name="activeNotificationInActionBar">"Camera Block notifikácia v 
+notifikačnej lište je deaktivovaná"</string>
+    <string name="cameraIs">Kamera je</string>
+    <string name="locked">zablokovaná</string>
+    <string name="unlocked">odblokovaná</string>
+    <string name="clickToUnlockCamera">"Klikni pre
+odblokovanie 
+kamery"</string>
+    <string name="clickToLockCamera">"Klikni pre
+zablokovanie 
+kamery"</string>
+    <string name="admin_device_description">Klikni na tlačítko aktivovať</string>
+    <string name="template">Farba aplikácie</string>
+    <string name="swichTemplateColor">Zmeniť farbu aplikácie</string>
+    <string name="notification">Notifikácia</string>
+    <string name="notificationInStatusBarShow">Zobraziť notifikácie v notifikačnej lište</string>
+    <string name="notificationIcon">Notifikačná ikona</string>
+    <string name="choseStyleOfIconInStatusBar">Zmeniť štýl ikony v notifikačnej lište</string>
+    <string name="appsWithCameraPermission">Aplikácie s kamera oprávneniami</string>
+    <string name="appsWithCameraPermissionDescription">Zobraziť aplikácie s právami na použitie kamery (Fotiť obrázky, nahrávať video..)</string>
+    <string name="putWidgetOnDesktop">Umiestni widget na plochu</string>
+    <string name="rateOurApp">Ohodnoťte našu aplikáciu</string>
+    <string name="contactUs">Napíšte nám</string>
+    <string name="contactUsApplication">Kontaktuj nás cez emailovú aplikáciu</string>
+    <string name="uninstallApp">Odinštaluj aplikáciu</string>
+    <string name="mayUpload">môže uploadnuť</string>
+    <string name="showDangerApp">Zoznam aplikácií, s oprávnením k použitiu kamery (Bezpečnostné hrozby)</string>
+    <string name="blockedUp">Blocked</string>
+    <string name="unblockedUp">Unblocked</string>
+    <string name="cameraIsUnblocked">Kamera je odblokovaná</string>
+    <string name="cameraIsBlocked">Kamera je zablokovaná</string>
+    <string name="appsMayBeSpyingYou">aplikácií ťa teraz môže sledovať</string>
+    <string name="clickToUnlockCameraRow">Klikni pre odblokovanie kamery</string>
+    <string name="freeversionoff">Free verzia nie je podporovaná medzi 18:00 a 22:00 hodinou. Podporte Slovenských vývojárov a prejdite na pro verziu (1.49€).</string>
+    <string name="updateToPaid">Prejdi na PRO verziu</string>
+    <string name="cameraCantBeBlocked">Kameru nie je možné zablokovať, iná aplikácia používa kameru! (Vypnite aplikácie, ktoré používajú kameru alebo skúste reštartovať telefón)</string>
+    <string name="tryMicrophoneBlockApplication">Vyskúšaj Microphone Block</string>
+    <string name="cameraIsUnblockedFor5Minutes">Kamera je odblokovaná pre najbližších</string>
+    <string name="cameraIsUnblockedFor5MinutesSecond">minút</string>
+    <string name="cameraIsUnblockedFor5MinutesNotification">Odblokovaná pre najbližších</string>
+    <string name="cameraIsUnblockedFor5MinutesNotificationSecond">minút</string>
+    <string name="cameraWillBeBlockedIn5Min">Kamera sa automaticky zablokuje o</string>
+    <string name="cameraWillBeBlockedIn5MinSecond">minút</string>
+    <string name="autoblockPeriod">Automatické blokovanie</string>
+    <string name="autoblockPeriodDescription">Kamera je odblokovaná na niekoľko minút po kliknutí na oznámenie</string>
+    <string name="welcomeCameraTitle">"CAMERA 
+BLOCK 
+PRO"</string>
+    <string name="welcomeBlockAllOrNoneTitle">"BLOKOVANIE 
+VŠETKÝCH APLIKÁCIÍ 
+ALEBO ŽIADNEJ"</string>
+    <string name="welcomeNoMoreUnsecuredTitle">"POVEDZTE 
+NIKDY VIAC 
+NECHRÁNÝ 
+FOTOAPARÁT"</string>
+    <string name="welcomeCameraDescription">Zakáž a zablokuj svoj fotoaparát jedným kliknutím. Android aplikácie Vás nebudú môcť tajne fotiť alebo nahrávať.</string>
+    <string name="welcomeBlockAllOrNoneDescription">Zapnite blokovanie kamery a oprávnenie na použitie kamery bude zablokované pre všetky aplikácie! Výnimky nie možné technicky uskutočniť.</string>
+    <string name="welcomeBlockAllOrNoneNote">Jedno kliknutie na notifikáciu a môžete znovu začať fotiť a používať fotoaparát.</string>
+    <string name="welcomeStartUseCameraBlock">Začnite používať Camera Block</string>
+    <string name="settings">Nastavenia</string>
+    <string name="notificationSetting">Nastavenie notifikácie</string>
+    <string name="notificationSelectQuickLauncherText">Nastavte rýchle spúšťanie, ktoré odblokuje mikrofón a spustí vybranú aplikáciu jediným kliknutím na oznámenie:</string>
+    <string name="notificationFirstQuickDisabledDescribtion">Click to enable first notification launcher</string>
+    <string name="notificationFirstQuickEnabledDescribtion">Click to disable first notification launcher</string>
+    <string name="notificationSecondQuickDisabledDescribtion">Click to enable second notification launcher</string>
+    <string name="notificationSecondQuickEnabledDescribtion">Click to disable second notification launcher</string>
+    <string name="notificationFirstQuickDisabledTitle">1. Notification launcher is disabled</string>
+    <string name="notificationFirstQuickEnabledTitle">1. Notification launcher is enabled</string>
+    <string name="notificationSecondQuickDisabledTitle">2. Notification launcher is disabled</string>
+    <string name="notificationSecondQuickEnabledTitle">2. Notification launcher is enabled</string>
+    <string name="notificationSelectApplication">Vyberte aplikáciu</string>
+    <string name="application">Aplikácia</string>
+    <string name="notificationReadyForLaunch">je pripravená na rýchle spúšťanie</string>
+    <string name="notificationCofigureLauncher">Konfigurácia rýchleho spúšťania</string>
+    <string name="errorLaunching">Aplikáciu nieje možné spustiť</string>
+    <string name="notificationSettingsDescription">Konfigurácia oznámenia a rýchleho spúšťania</string>
+    <string name="takePicture">Získanie snímku</string>
+    <string name="addApplication">Pridajte aplikáciu</string>
+</resources>

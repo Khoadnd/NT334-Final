@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/shadow_pm" android:layout_width="315.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="21.0sp" android:textColor="#ff333333" android:id="@id/failtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="12.0dip" android:text="Operation failed" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip">
+        <TextView android:textColor="#ff333333" android:id="@id/faildata" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="Unable to authorize your card.\n\nEnter another card and then try again.\n" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="10.0dip">
+        <Button android:textColor="@drawable/pmok_state" android:layout_gravity="bottom|center|right" android:id="@id/pm_retry" android:background="@drawable/pm_ok" android:layout_width="130.0dip" android:layout_height="26.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="10.0dip" android:text="TRY AGAIN" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06003d" android:layout_width="wrap_content" android:layout_height="fill_parent" class="android.support.v7.widget.ActivityChooserView$InnerLayout" style="?attr/APKTOOL_DUPLICATE_attr_0x7f010089"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06003e" android:background="?APKTOOL_DUPLICATE_attr_0x7f010068" android:focusable="true" android:addStatesFromChildren="true" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06003f" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="2.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f060040" android:background="?APKTOOL_DUPLICATE_attr_0x7f010068" android:focusable="true" android:addStatesFromChildren="true" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f06003f" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="2.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+    </FrameLayout>
+</view>

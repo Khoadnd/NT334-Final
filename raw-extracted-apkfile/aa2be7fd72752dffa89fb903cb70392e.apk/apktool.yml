@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: aa2be7fd72752dffa89fb903cb70392e.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- META-INF/MANIFEST.MF
+- META-INF/CERT.SF
+- META-INF/CERT.RSA
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.4'

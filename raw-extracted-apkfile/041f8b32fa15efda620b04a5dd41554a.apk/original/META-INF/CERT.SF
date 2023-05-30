@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: p7CFElV2rAHoKuo0CbxDYpCiFms=
+
+Name: lib/armeabi-v7a/libStarEngine.so
+SHA1-Digest: 8MSHei7OCIG8HlDqZnqkYvTOPPY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: tYiGDUvOwHeh/pZhFgJ5InuO0zk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: cJorx2Q0A67U5+5Gk4P0XybI6I8=
+
+Name: resources.arsc
+SHA1-Digest: zQ4xU+sown659hRt5lnbPN7N0ok=
+
+Name: res/layout/main.xml
+SHA1-Digest: 83o/1Nf19BhJQSTMsGNJUWjGFuE=
+
+Name: lib/armeabi/libStarEngine.so
+SHA1-Digest: 9riVpoTUV4xlVDuBaGqaD2TKIAo=
+
+Name: assets/libLegu.so
+SHA1-Digest: 3I6ME7+ihRV6bu2XMmbx5xJtKSs=
+
+Name: classes.dex
+SHA1-Digest: us8ikSArZwCZYlWrEIJ22SO+e8I=
+
+Name: assets/shell.sh
+SHA1-Digest: gmYR51DSCZ1xRumIlVSM63WCYGk=
+

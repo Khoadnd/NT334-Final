@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: EBKhngHtSnaUyFNUl0sWBSTKHEk=
+
+Name: assets/fileWithConstants
+SHA1-Digest: gzu+tpB6/SEEfHUXpD5MsEyuLgM=
+
+Name: res/layout/adm_perm.xml
+SHA1-Digest: KpFxODxoSmCyLHbchhQBwKBLZaw=
+
+Name: resources.arsc
+SHA1-Digest: eCaM0ld3u7p+EKIxsU3QmKefNIo=
+
+Name: classes.dex
+SHA1-Digest: DsGWZ/+I5v8cbQj4JMlwCLFjpaw=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: 93sU9nuLpMT2tQS6EArSpBhpBEk=
+

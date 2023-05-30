@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: ERkMKNuAUl3bReJQYoFcKZRO5gw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2/cld3tJNaFanbGjzRwRRExae4U=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: ERkMKNuAUl3bReJQYoFcKZRO5gw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: ERkMKNuAUl3bReJQYoFcKZRO5gw=
+
+Name: res/drawable-hdpi/a.xml
+SHA1-Digest: bgPdmtgjoqPqwuNEltVpt48bsKA=
+
+Name: res/drawable-hdpi/bbb.xml
+SHA1-Digest: PFI2pXwZjfbcHJDKdPsswmU0yPA=
+
+Name: res/raw/mp3.mp3
+SHA1-Digest: K+37QJA3IuvUl+z/q+wULtFnqdg=
+
+Name: resources.arsc
+SHA1-Digest: +4vyg6nPMZGVlvaHArdvKDa8jN4=
+
+Name: res/layout/clock_window.xml
+SHA1-Digest: EVh7o8/2S/xkWhpnvIv2ggm0szo=
+
+Name: res/drawable/image_1.png
+SHA1-Digest: Xn+fGgWPox4aZ+I5R4LRd2/OhGw=
+
+Name: classes.dex
+SHA1-Digest: 6oTIC1N3oodpCQ6UJtVBPZz6mK0=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: ERkMKNuAUl3bReJQYoFcKZRO5gw=
+

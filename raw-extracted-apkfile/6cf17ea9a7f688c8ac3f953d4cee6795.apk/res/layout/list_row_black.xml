@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/greyMedium" android:paddingLeft="7.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="70.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/list_row_info" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="wrap_content" android:src="@drawable/ic_info_white" />
+    <LinearLayout android:paddingLeft="7.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.8">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="@color/whiteFont" android:ellipsize="end" android:id="@id/list_row_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" android:layout_marginRight="44.0dip" android:text="Name" android:lines="1" android:scrollHorizontally="true" />
+                <TextView android:textSize="11.0dip" android:textColor="@color/blueMy" android:id="@id/textDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:layout_marginRight="15.0dip" android:text="4:55 AM" android:layout_alignParentRight="true" />
+            </RelativeLayout>
+            <TextView android:textSize="14.0dip" android:textColor="@color/whiteFont2" android:gravity="center_vertical" android:id="@id/list_row_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="12.0dip" android:text="Text" android:maxLines="2" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

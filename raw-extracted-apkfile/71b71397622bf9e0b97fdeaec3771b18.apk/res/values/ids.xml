@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="html_layout" />
+    <item type="id" name="webView" />
+    <item type="id" name="linear_big_spinner" />
+</resources>

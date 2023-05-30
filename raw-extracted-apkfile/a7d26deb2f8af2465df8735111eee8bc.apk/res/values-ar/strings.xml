@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">التنقل إلى الشاشة الرئيسية</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s، %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s، %2$s، %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">التنقل إلى أعلى</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">خيارات إضافية</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">تم</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">عرض الكل</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">اختيار تطبيق</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">إيقاف</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">تشغيل</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">بحث…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">محو طلب البحث</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">طلب البحث</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">بحث</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">إرسال طلب البحث</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">البحث الصوتي</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">مشاركة مع</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">‏مشاركة مع %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">تصغير</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">+999</string>
+</resources>

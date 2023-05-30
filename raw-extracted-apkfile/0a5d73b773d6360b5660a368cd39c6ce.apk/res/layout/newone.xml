@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center|top" android:orientation="vertical" android:background="#ffcd8fe6" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="21.0sp" android:textColor="#ff666f4b" android:id="@id/tv" android:background="@drawable/tv" android:layout_width="300.0dip" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="10.0dip" />
+        <EditText android:textColor="#ff664542" android:textColorHint="#ffb34d47" android:id="@id/ed" android:background="@drawable/ed" android:paddingLeft="8.0dip" android:layout_width="200.0dip" android:layout_height="45.0dip" android:layout_marginBottom="8.0dip" android:ems="10" android:inputType="number" />
+        <Button android:textColor="#ff7e2620" android:id="@id/bt" android:background="@drawable/buttonyun" android:layout_width="250.0dip" android:layout_height="48.0dip" android:text="确认" />
+        <TextView android:textSize="23.0sp" android:textColor="#ffe000c8" android:id="@id/show1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="34.0dip" android:layout_marginRight="110.0dip" android:lines="1" />
+        <TextView android:textSize="23.0sp" android:textColor="#fff804f6" android:id="@id/show2" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="100.0dip" android:layout_marginTop="17.0dip" android:lines="1" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="28.0sp" android:textColor="#ff5d07e5" android:id="@id/show4" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="29.0sp" android:textColor="#ff2a28a7" android:id="@id/show3" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="41.0dip" />
+    </LinearLayout>
+</LinearLayout>

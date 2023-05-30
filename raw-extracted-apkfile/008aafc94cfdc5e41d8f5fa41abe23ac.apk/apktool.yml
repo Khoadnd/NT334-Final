@@ -1,0 +1,22 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 008aafc94cfdc5e41d8f5fa41abe23ac.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '80'
+  versionName: 3.1.3

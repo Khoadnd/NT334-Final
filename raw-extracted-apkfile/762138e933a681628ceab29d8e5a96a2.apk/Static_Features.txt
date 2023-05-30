@@ -1,0 +1,58 @@
+ Package : 
+package="com.android.tencent.zdevs.bah" platformBuildVersionCode="23" 
+  
+ Activities : 
+activity android:name="com.android.tencent.zdevs.bah.MainActivity" 
+  
+ Services : 
+  
+ Providers : 
+  
+ Receivers : 
+  
+ Intents Action : 
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.ACCESS_WIFI_STATE"
+permission android:name="android.permission.CHANGE_CONFIGURATION"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"
+permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+permission android:name="android.permission.READ_LOGS"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.SET_WALLPAPER"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="com.android.launcher.permission.READ_SETTINGS"
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:persistent="true" 
+  
+ Meta-Data : 
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+215
+  
+ Number of Pictures : 
+6
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+35M
+  

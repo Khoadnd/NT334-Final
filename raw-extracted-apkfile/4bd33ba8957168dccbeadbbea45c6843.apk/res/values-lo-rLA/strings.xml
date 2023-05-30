@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">ຂຶ້ນເທິງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">ໂຕເລືອກອື່ນ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">ແລ້ວໆ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">ເບິ່ງທັງຫມົດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">ເລືອກແອັບຯ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ປິດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ເປີດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">ຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">ຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">ຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">ສົ່ງການຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">ແບ່ງປັນກັບ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">ແບ່ງ​ປັນ​ກັບ​ %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">ຫຍໍ້</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

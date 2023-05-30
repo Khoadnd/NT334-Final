@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro1">你已經安裝了</string>
+    <string name="intro2">具有相機許可，可以隨時使用你手機的相機的軟件,</string>
+    <string name="intro3">它們隨時可以上載/轉移你的照片和影片在任何時候，任何地方。</string>
+    <string name="next">下個</string>
+    <string name="choseTemplateColor">選擇版面顏色:</string>
+    <string name="whiteTemplate">Obi-Wan Kenobi</string>
+    <string name="blackTemplate">Dark Vader</string>
+    <string name="deactiveNotificationInActionBar">"Camera block notification 
+in status bar is activated"</string>
+    <string name="activeNotificationInActionBar">"Camera block notification 
+in status bar is deactivated"</string>
+    <string name="cameraIs">相機是</string>
+    <string name="locked">關閉</string>
+    <string name="unlocked">開啟</string>
+    <string name="clickToUnlockCamera">按下以開啟相機</string>
+    <string name="clickToLockCamera">按下已關閉相機</string>
+    <string name="admin_device_description">按下已開始</string>
+    <string name="template">版面</string>
+    <string name="swichTemplateColor">改變版面顏色</string>
+    <string name="notification">通知</string>
+    <string name="notificationInStatusBarShow">顯示通知</string>
+    <string name="notificationIcon">通知樣式</string>
+    <string name="choseStyleOfIconInStatusBar">選擇通知樣式</string>
+    <string name="appsWithCameraPermission">具有相機功能的軟件</string>
+    <string name="appsWithCameraPermissionDescription">Z查看哪些軟件可以使用你的相機</string>
+    <string name="putWidgetOnDesktop">增加插件</string>
+    <string name="rateOurApp">評價</string>
+    <string name="contactUs">聯絡我們</string>
+    <string name="contactUsApplication">透過電郵聯絡我們</string>
+    <string name="uninstallApp">刪除此軟件</string>
+    <string name="mayUpload">可能上載</string>
+    <string name="showDangerApp">可以使用相機的軟件</string>
+    <string name="blockedUp">關閉</string>
+    <string name="unblockedUp">開啟</string>
+    <string name="cameraIsUnblocked">相機已經開啟</string>
+    <string name="cameraIsBlocked">相機已經關閉</string>
+    <string name="appsMayBeSpyingYou">apps may be spying you right now</string>
+    <string name="clickToUnlockCameraRow">開啟相機</string>
+    <string name="freeversionoff">免費版本在18:00至22:00不能使用。聯絡我們以升級至專業版。</string>
+    <string name="updateToPaid">升級至專業版</string>
+    <string name="cameraCantBeBlocked">相机不能被阻塞，其他应用程序正在使用摄像头！(关闭应用程序，它使用相机或尝试重启手机)</string>
+    <string name="tryMicrophoneBlockApplication">尝试 Microphone Block</string>
+    <string name="cameraIsUnblockedFor5Minutes">相机解锁接下来的</string>
+    <string name="cameraIsUnblockedFor5MinutesSecond">分钟</string>
+    <string name="cameraIsUnblockedFor5MinutesNotification">解锁接下来的</string>
+    <string name="cameraIsUnblockedFor5MinutesNotificationSecond">分钟</string>
+    <string name="cameraWillBeBlockedIn5Min">相机会在</string>
+    <string name="cameraWillBeBlockedIn5MinSecond">分钟后自动封锁</string>
+    <string name="autoblockPeriod">自动闭塞 (等待时间)</string>
+    <string name="autoblockPeriodDescription">摄像头没有被阻塞几分钟点击通知后</string>
+    <string name="welcomeCameraTitle">"CAMERA 
+BLOCK 
+PRO"</string>
+    <string name="welcomeBlockAllOrNoneTitle">阻止所有的应用程序或无</string>
+    <string name="welcomeNoMoreUnsecuredTitle">不再多说了未受保护的摄像头</string>
+    <string name="welcomeCameraDescription">阻止和单点击关闭您的手机摄像头。Android应用程序将无法偷偷拍照或录制你。</string>
+    <string name="welcomeBlockAllOrNoneDescription">打开相机堵和相机的权限将被阻止所有的应用程序！例外无法从技术上实现。</string>
+    <string name="welcomeBlockAllOrNoneNote">一按就通知你就可以开始拍照并再次使用相机。</string>
+    <string name="welcomeStartUseCameraBlock">开始使用 Camera Block</string>
+    <string name="settings">设置</string>
+</resources>

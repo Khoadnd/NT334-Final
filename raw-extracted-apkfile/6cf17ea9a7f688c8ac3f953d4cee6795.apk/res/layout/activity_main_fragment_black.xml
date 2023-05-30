@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/greyMedium" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/admobLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/admobLayout" android:layout_alignParentTop="true">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/notificationActiveLayout2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:layout_alignParentBottom="true">
+            <LinearLayout android:orientation="horizontal" android:id="@id/notificationActiveLayout" android:background="@drawable/button_black" android:paddingLeft="12.0dip" android:paddingRight="17.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/notificationActiveImage" android:background="@drawable/button_black" android:padding="3.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="32.0dip" android:layout_marginTop="14.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/ic_checked_black" android:scaleType="fitCenter" android:adjustViewBounds="true" android:cropToPadding="true" />
+                <TextView android:textSize="16.0dip" android:textColor="@color/whiteFont" android:gravity="center" android:id="@id/notificationActiveText" android:background="@drawable/button_black" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="60.0dip" android:text="@string/deactiveNotificationInActionBar" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/mainUpdateToProLayout" android:paddingLeft="12.0dip" android:paddingRight="17.0dip" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/mainUpdateToProImage" android:padding="3.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="32.0dip" android:layout_marginTop="14.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/ic_buy_white" android:scaleType="fitCenter" android:adjustViewBounds="true" android:cropToPadding="true" />
+                <TextView android:textSize="14.0dip" android:textColor="@color/whiteFont" android:gravity="center" android:id="@id/mainUpdateToProText" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="60.0dip" android:text="@string/unlockByClickUpdateToPro" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/notificationActiveLayout2">
+            <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip">
+                <TextView android:textSize="20.0dip" android:textColor="@color/whiteFont" android:gravity="right" android:id="@id/unlockTextButton" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cameraIs" android:layout_alignParentLeft="true" />
+                <TextView android:textSize="20.0dip" android:textColor="@color/whiteFont" android:gravity="right" android:id="@id/unlockTextButton2" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="locked" android:layout_alignRight="@id/unlockTextButton" />
+            </LinearLayout>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/unlockImageButton" android:clickable="true" android:layout_width="fill_parent" android:layout_height="235.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/locked_main" android:adjustViewBounds="true" android:cropToPadding="true" android:layout_alignParentTop="true" />
+                <TextView android:textSize="12.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/unlockClickToTextButton" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="170.0dip" android:text="Click to\nunlock camera" android:layout_alignParentTop="true" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

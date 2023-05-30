@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Придвижване към „Начало“</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_submit">Изпращане на заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_activity_chooser_view_see_all">Вижте всички</string>
+    <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
+    <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
+    <string name="card_number">Номер на картата</string>
+    <string name="hint_expiration_month">MM</string>
+    <string name="hint_expiration_year">ГГ</string>
+    <string name="expiration_date_separator">/</string>
+    <string name="cvc_code">Код за проверка</string>
+    <string name="enter_credit_card">Въведете данните на кредитната карта, която искате да използвате с Google Wallet.</string>
+    <string name="cvc_code_popup_visa_description"><b>Discover, MasterCard, Visa и Visa Electron</b>"
+Кодът за проверка представлява последните три цифри на номера в лентата за подпис на гърба на картата ви."</string>
+    <string name="cvc_code_popup_amex_description"><b>American Express</b>"
+Кодът за проверка представлява четирите цифри отдясно на лицевата част на картата."</string>
+    <string name="add_credit_card">Нова карта</string>
+    <string name="add_instrument_continue">Напред</string>
+    <string name="i18n_locality_label">Град</string>
+    <string name="i18n_postal_code_label">Пощенски код</string>
+    <string name="i18n_address_line1_label">Пощенски адрес</string>
+    <string name="cancel">Отказ</string>
+    <string name="phone_number">Телефонен номер</string>
+    <string name="first_name">Собствено име</string>
+    <string name="last_name">Фамилно име</string>
+    <string name="name_on_card">Име на титуляря на картата</string>
+    <string name="enter_your_address_sentence">Моля, въведете адреса си за фактуриране, който ще се съхранява в профила ви в Google.</string>
+    <string name="change_password_restrict_label">Парола</string>
+    <string name="common_google_play_services_update_title">Актуализиране на услугите за Google Play</string>
+</resources>

@@ -1,0 +1,66 @@
+ Package : 
+  
+ Activities : 
+activity android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="E" 
+activity android:name="SampleOverlayHideActivity" 
+  
+ Services : 
+service android:name="HummerHadService"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:name="BootCompletedIntentReceiver"
+receiver android:name="WewuwarWndr"
+  
+ Intents Action : 
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.CAMERA"
+permission android:name="android.permission.GET_ACCOUNTS"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.READ_PROFILE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.VIBRATE"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="android.permission.WRITE_SETTINGS"
+permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+  
+ Exported : 
+  
+ Backup : 
+  
+ Meta-Data : 
+meta-data android:name="lndp" android:value="supportt.top/api2"
+meta-data android:name="potok" android:value="s2"
+meta-data android:name="pupurupu" android:value="sg5gdz6kaw.gotblop.top/zz/"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+34
+  
+ Number of Pictures : 
+2
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+1.6M
+  

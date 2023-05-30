@@ -1,0 +1,207 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_71 (Oracle Corporation)
+
+Name: assets/5.jpg
+SHA1-Digest: K6P1bKXHsYN4VyyCGblzgs50k70=
+
+Name: assets/index.dat
+SHA1-Digest: aR0X0oftpilBKK4SCCdUlqykC0c=
+
+Name: res/drawable/logo.png
+SHA1-Digest: oTTt4IIE/1+CzPUqkoHpEKafW1s=
+
+Name: assets/4.jpg
+SHA1-Digest: S7mib5RKoiNqKZleXPkjn1hlLCc=
+
+Name: assets/fonts/f.eot
+SHA1-Digest: /NoVlxZEB9CJIzGtwfuFksMnHzo=
+
+Name: assets/21.jpg
+SHA1-Digest: dwkV/azRTZgNYku8eSgx9vzVSG8=
+
+Name: res/xml/device_admin_data.xml
+SHA1-Digest: n9eOUx4jb9XLFk4d20bOd9S6c1I=
+
+Name: assets/z_3.jpg
+SHA1-Digest: G3gu3hpjoHCxwv6DfYk6SNDMtCQ=
+
+Name: assets/6.jpg
+SHA1-Digest: Pdec7Z8DKejV4akRk31BM6yjN/g=
+
+Name: assets/12.jpg
+SHA1-Digest: r4Cxre+Y2qSjLyNCziTLJsr4YRY=
+
+Name: res/drawable/ic_fbi.png
+SHA1-Digest: LnLyyRxkiOg9ZA3M4PYHfZxWE7s=
+
+Name: assets/z_2.jpg
+SHA1-Digest: Pdec7Z8DKejV4akRk31BM6yjN/g=
+
+Name: assets/css/index.css
+SHA1-Digest: FDHJEs/G7RldkvOPgAlJOYyPGAc=
+
+Name: assets/img/prism.png
+SHA1-Digest: UCMVv2mCAQ409/hCUyG0MLdz5Vw=
+
+Name: assets/26.jpg
+SHA1-Digest: JvwzJlNXAfTNQHpAvPxCBStVdqc=
+
+Name: assets/eye_icon.png
+SHA1-Digest: 3K0Hd8atjXAPFpTfkSwfe/2+0tw=
+
+Name: assets/z_1.jpg
+SHA1-Digest: dkjVxy6Mws4KBZOnFJwy55mK8B4=
+
+Name: res/drawable/overlay_back.xml
+SHA1-Digest: yRRcbcPCppiMYG6Hcx/z9GWNDJA=
+
+Name: assets/img/background.png
+SHA1-Digest: In1rrUsDMlwPtXUSWZhtHxCTPjc=
+
+Name: assets/19.jpg
+SHA1-Digest: jbN3HsJhS0qLthdbqANaeQNpaAU=
+
+Name: res/layout/overlay.xml
+SHA1-Digest: qvn2bUxEkSLqjpD3mygX3p57NJY=
+
+Name: assets/mobile_logo.png
+SHA1-Digest: U3EwGfOy2omdm0xTZQbkXMLK9G8=
+
+Name: assets/img/p2.jpg
+SHA1-Digest: Pdec7Z8DKejV4akRk31BM6yjN/g=
+
+Name: res/layout/main.xml
+SHA1-Digest: pKU8hpJ4szZhDD9Rvg/Wq660H2Y=
+
+Name: assets/10.jpg
+SHA1-Digest: V+OBVMKdFxfdkeIHfW2djejPgFM=
+
+Name: assets/20.jpg
+SHA1-Digest: 4oLjjPNPCo2q3C6Z54nLqo5uVNo=
+
+Name: assets/22.jpg
+SHA1-Digest: eqqKUlpgikHfcxIWr9uZr13RIgc=
+
+Name: assets/16.jpg
+SHA1-Digest: VAn96blRLQ2/3Uur3kQqvebKZew=
+
+Name: assets/play_btn.png
+SHA1-Digest: laor9M0TxNoSq6aXvLyQ2DK1R10=
+
+Name: assets/1.jpg
+SHA1-Digest: dkjVxy6Mws4KBZOnFJwy55mK8B4=
+
+Name: assets/fonts/f.ttf
+SHA1-Digest: aGsWgXz6eo1S9FzrA10PzMsn9WU=
+
+Name: assets/img/p4.jpg
+SHA1-Digest: 315oZNdiJbeI4PwYku3TFu3kmXA=
+
+Name: assets/11.jpg
+SHA1-Digest: G3gu3hpjoHCxwv6DfYk6SNDMtCQ=
+
+Name: assets/img/fbi.png
+SHA1-Digest: P1EBzhJwx7Q+K5d0/SIu323FDG0=
+
+Name: assets/2.jpg
+SHA1-Digest: J54sgwmmO+qZF6+1QHhxA6Qn8x0=
+
+Name: assets/9.jpg
+SHA1-Digest: n7EcPiQ2I0p7YaY90jHD6GY8v3A=
+
+Name: assets/img/stamp.png
+SHA1-Digest: RwdNTPs9lmQ+dHatRDx0iSYNyX4=
+
+Name: assets/17.jpg
+SHA1-Digest: eElCCHnPhle2wduF+wYLlEDJNxk=
+
+Name: assets/app.js
+SHA1-Digest: Re1kcxarE950JgoM+8Kop2LqbaE=
+
+Name: assets/index.css
+SHA1-Digest: rs4CXEP96O5z8g/ZNhfS5K8qYqA=
+
+Name: assets/7.jpg
+SHA1-Digest: FvUaMVvqtV4ir6PCNgivQ9+a31I=
+
+Name: assets/z_4.jpg
+SHA1-Digest: ULuc0MoF5IRqcv77VLIXerO1Xds=
+
+Name: assets/img/p1.jpg
+SHA1-Digest: J54sgwmmO+qZF6+1QHhxA6Qn8x0=
+
+Name: assets/img/p3.jpg
+SHA1-Digest: +NfpuF13WV+jHr3eonzxM0C5Yuc=
+
+Name: resources.arsc
+SHA1-Digest: UcVgO6d4M6NNpH44zd7UWh+w0vA=
+
+Name: assets/jump_right.png
+SHA1-Digest: 8gwvV3XvQaAzrT9IvKtqmZaNS/Y=
+
+Name: assets/index.html
+SHA1-Digest: FlTM4M26wiFYECw5qUC8bFb4tmY=
+
+Name: assets/bg.png
+SHA1-Digest: zWvpDOB9kjY9C3FJSSAZT33a2WQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: VZTcepSxDBGidmQ16yuKnWFd48E=
+
+Name: assets/8.jpg
+SHA1-Digest: CmuhD/0lZ8q4Au5LjaTnUTUXuUQ=
+
+Name: assets/web.js
+SHA1-Digest: KxGXtJeX6VtQLvHYcBv1k+uzRDo=
+
+Name: assets/25.jpg
+SHA1-Digest: jCeU60DJxa4ms2VntgzSfpsGlns=
+
+Name: assets/13.jpg
+SHA1-Digest: ULuc0MoF5IRqcv77VLIXerO1Xds=
+
+Name: assets/23.jpg
+SHA1-Digest: ptydF/Ibp7ZJz1EXj4buGurMJGk=
+
+Name: assets/fonts/f.woff
+SHA1-Digest: KKw/udGALjaumjZUef6X9JROQnU=
+
+Name: assets/15.jpg
+SHA1-Digest: 315oZNdiJbeI4PwYku3TFu3kmXA=
+
+Name: assets/video.html
+SHA1-Digest: Ova8Bv455cMFvV08HUxI905vct4=
+
+Name: assets/24.jpg
+SHA1-Digest: h7W2X+HPK+u59QSvSXds2xVpFkw=
+
+Name: classes.dex
+SHA1-Digest: Okhsbj9gT0zwePHFlqo3CwCUWo8=
+
+Name: assets/img/mp.png
+SHA1-Digest: RCqQEoPkFIn1JYxP0AEQ8fR5JJ0=
+
+Name: assets/14.jpg
+SHA1-Digest: E83T4BeM3bI99azg/KoF+dWK/Xw=
+
+Name: assets/18.jpg
+SHA1-Digest: qBd74QJE/wANE/HwXcbivaxaIh4=
+
+Name: assets/Bot.js
+SHA1-Digest: dFPGLVwRvQ+bO48ltfPgSeJzneA=
+
+Name: assets/fonts/f.svg
+SHA1-Digest: fbcOkMC15IYKX4oKKdQPvGlhsyg=
+
+Name: assets/run-time_icon.png
+SHA1-Digest: dNFj81FZn9v6X6Y24FkJDc2IROQ=
+
+Name: assets/3.jpg
+SHA1-Digest: LNSOBz79FVuwaKlBtUxsUwrG20c=
+
+Name: assets/photo.jpg
+SHA1-Digest: VvejYFLCIErP5dJMk3ymHVxnQ18=
+
+Name: assets/img/stores.png
+SHA1-Digest: 46cfz8M2vVt9PzfzIg6o4mYUlhI=
+

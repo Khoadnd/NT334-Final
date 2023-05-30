@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="*" android:shrinkColumns="*"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Country:" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="USA" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Network Operator" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/network" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="FSDFDF" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Phone number:" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/phone" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="+3804154184285" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="IMEI:" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/imei" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="\ 2342342342342342423" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Mobile OS:" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Android" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Phone Model:" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/model" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="HTC CVSD" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:background="#ffffffff" android:padding="@dimen/a3dip" android:layout_width="@dimen/a0dp" android:text="Account:" android:layout_weight="1.0" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/a10sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/accaunts" android:background="#ffffffff" android:padding="@dimen/a3dp" android:layout_width="@dimen/a0dp" android:text="fdeefdew@saasd.ui" android:layout_weight="1.0" android:textAllCaps="true" />
+    </TableRow>
+</TableLayout>

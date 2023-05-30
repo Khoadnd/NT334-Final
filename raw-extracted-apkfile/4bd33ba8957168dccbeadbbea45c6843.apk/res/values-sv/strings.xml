@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Visa startsidan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Navigera uppåt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Fler alternativ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Klart</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Visa alla</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Välj en app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">AV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">PÅ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Sök …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Ta bort frågan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Sökfråga</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Sök</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Skicka fråga</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Röstsökning</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Dela med</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Dela med %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Komprimera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">>999</string>
+</resources>

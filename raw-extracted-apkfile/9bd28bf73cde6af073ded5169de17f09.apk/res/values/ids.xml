@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="shot_screen" />
+    <item type="id" name="text" />
+    <item type="id" name="ncaz" />
+    <item type="id" name="logo" />
+    <item type="id" name="promo" />
+    <item type="id" name="status" />
+    <item type="id" name="step_2" />
+    <item type="id" name="ZBLK" />
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Ugrás a főoldalra</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Felfelé mozgatás</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">További lehetőségek</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Kész</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Összes megtekintése</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Válasszon ki egy alkalmazást</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">KI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">BE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Keresés…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Lekérdezés törlése</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Keresési lekérdezés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Keresés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Lekérdezés küldése</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Hangalapú keresés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Megosztás a következővel:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Megosztás a következővel: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Összecsukás</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

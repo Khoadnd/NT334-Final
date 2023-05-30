@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 0f3ae8be97f2089d7173bc4e60f46fb9.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- gif
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  org.jivesoftware.smack/jul.properties: '8'
+  org.jivesoftware.smack/smack-config.xml: '8'
+  org.jivesoftware.smack/version: '0'
+  org.jivesoftware.smackx/experimental.providers: '8'
+  org.jivesoftware.smackx/experimental.xml: '8'
+  org.jivesoftware.smackx/extensions.providers: '8'
+  org.jivesoftware.smackx/extensions.xml: '8'
+  org.jivesoftware.smackx/smack-experimental-components.xml: '8'
+  org.jivesoftware.smackx/smack-extensions-components.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

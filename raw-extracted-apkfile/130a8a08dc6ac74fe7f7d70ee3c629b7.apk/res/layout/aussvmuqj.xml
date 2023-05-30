@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip" style="@style/dk_dk_BECActionBar">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/dk_dk_ic_back_white" />
+            <ImageView android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/dk_dk_icon" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qr_pow_qe" />
+        </LinearLayout>
+        <ScrollView android:paddingLeft="20.0dip" android:paddingTop="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/dk_dk_login_bg" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:paddingTop="7.0dip" android:paddingBottom="7.0dip" android:layout_width="wrap_content" style="@style/dk_dk_wrap_content_wrap_content">
+                        <TextView android:textColor="#ff000000" android:layout_gravity="center_horizontal" android:text="@string/qwwbuahpq" android:singleLine="true" style="@style/dk_dk_login_text_username" />
+                        <EditText android:textSize="16.0dip" android:textColor="#ff000000" android:layout_gravity="center_horizontal" android:id="@id/dk_dk_login_username" android:background="@drawable/dk_dk_edit_text_holo_dark" android:nextFocusDown="@id/dk_dk_login_pin1" android:layout_width="250.0dip" android:singleLine="true" android:maxLength="11" android:digits="\ 0123456789" android:inputType="number" android:imeOptions="actionNext" style="@style/dk_dk_fill_parent_wrap_content" />
+                        <CheckBox android:textColor="#ff000000" android:id="@id/dk_dk_remember_me_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/dk_dk_btn_check_holo_light" android:text="@string/mfjcprg" />
+                    </LinearLayout>
+                </LinearLayout>
+                <View android:background="#ff005c9b" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_margin="0.0dip" />
+                <View style="@style/dk_dk_footer_line_for_cells" />
+                <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="250.0dip" style="@style/dk_dk_wrap_content_wrap_content">
+                    <TextView android:textColor="#ff000000" android:text="@string/eriacu" style="@style/dk_dk_login_text_pin" />
+                    <LinearLayout android:gravity="center" android:layout_gravity="center" style="@style/dk_dk_wrap_content_wrap_content">
+                        <EditText android:id="@id/dk_dk_login_pin1" android:nextFocusDown="@id/dk_dk_login_pin2" android:cursorVisible="false" android:singleLine="true" android:maxLength="1" android:digits="\ 0123456789" android:inputType="number" android:imeOptions="actionNext" style="@style/dk_dk_edit_text_pincode_first" />
+                        <EditText android:id="@id/dk_dk_login_pin2" android:nextFocusDown="@id/dk_dk_login_pin3" android:cursorVisible="false" android:singleLine="true" android:maxLength="1" android:digits="\ 0123456789" android:inputType="number" android:imeOptions="actionNext" style="@style/dk_dk_edit_text_pincode" />
+                        <EditText android:id="@id/dk_dk_login_pin3" android:nextFocusDown="@id/dk_dk_login_pin4" android:cursorVisible="false" android:singleLine="true" android:maxLength="1" android:digits="\ 0123456789" android:inputType="number" android:imeOptions="actionNext" style="@style/dk_dk_edit_text_pincode" />
+                        <EditText android:id="@id/dk_dk_login_pin4" android:cursorVisible="false" android:singleLine="true" android:maxLength="1" android:digits="\ 0123456789" android:inputType="number" android:imeOptions="actionDone" style="@style/dk_dk_edit_text_pincode" />
+                    </LinearLayout>
+                    <TextView android:textSize="12.0dip" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/mvkvudo" style="@style/dk_dk_login_text_pin_help" />
+                    <Button android:enabled="true" android:textAppearance="@style/dk_dk_ButtonStandardTextStyle" android:id="@id/dk_dk_button_login" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="30.0dip" android:text="@string/u_qnpbnt" style="@style/dk_dk_button_login" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:progressBarStyleLarge" />
+    </LinearLayout>
+</RelativeLayout>

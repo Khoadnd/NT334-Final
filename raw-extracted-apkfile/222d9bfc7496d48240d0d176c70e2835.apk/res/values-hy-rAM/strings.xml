@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Ուղղվել տուն</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Ուղղվել վերև</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Այլ ընտրանքներ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Կատարված է</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Տեսնել բոլորը</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Ընտրել ծրագիր</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ԱՆՋԱՏՎԱԾ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ՄԻԱՑՎԱԾ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Որոնում...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Մաքրել հարցումը</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Որոնման հարցում</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Որոնել</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Ուղարկել հարցումը</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Ձայնային որոնում</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Տարածել</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Տարածել ըստ %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Թաքցնել</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

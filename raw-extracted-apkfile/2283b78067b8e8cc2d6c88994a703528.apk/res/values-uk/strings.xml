@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_menu_overflow_description">Інші опції</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
+    <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+    <string name="card_number">Номер картки</string>
+    <string name="hint_expiration_month">ММ</string>
+    <string name="hint_expiration_year">РР</string>
+    <string name="expiration_date_separator">/</string>
+    <string name="cvc_code">Код CVC</string>
+    <string name="enter_credit_card">Введіть дані кредитної картки, яку потрібно використовувати з Google Wallet.</string>
+    <string name="cvc_code_popup_visa_description"><b>Discover, MasterCard, Visa та Visa Electron</b>"
+Код CVC – це останні три цифри номера, розташованого на зворотній стороні картки в полі для підпису."</string>
+    <string name="cvc_code_popup_amex_description"><b>American Express</b>"
+Код CVC – це чотири цифри, розташовані на лицевій стороні картки праворуч."</string>
+    <string name="add_credit_card">Додати картку</string>
+    <string name="add_instrument_continue">Продовжити</string>
+    <string name="i18n_locality_label">Місто</string>
+    <string name="i18n_postal_code_label">Поштовий код</string>
+    <string name="i18n_address_line1_label">Адреса</string>
+    <string name="cancel">Скасувати</string>
+    <string name="phone_number">Номер телефону</string>
+    <string name="first_name">Ім’я</string>
+    <string name="last_name">Прізвище</string>
+    <string name="name_on_card">Ім’я власника картки</string>
+    <string name="enter_your_address_sentence">Введіть адресу виставлення рахунку, яку потрібно зберегти в обліковому записі Google.</string>
+    <string name="change_password_restrict_label">Пароль</string>
+    <string name="common_google_play_services_update_title">Оновити сервіси Google Play</string>
+</resources>

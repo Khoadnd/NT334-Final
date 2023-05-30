@@ -1,0 +1,208 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_amex.png
+SHA1-Digest: ctBdcndcuvOMVaY+zCHoy1BE6Eo=
+
+Name: res/drawable-mdpi-v4/dialog_full_holo_light.9.png
+SHA1-Digest: +djbtp9jgG+WirPdrbbpRkjbkWs=
+
+Name: res/drawable-hdpi-v4/play_textfield_focused_holo_light.9.png
+SHA1-Digest: NfEGOtZ0YkueMDHG9onUNJVuHAM=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_visa.png
+SHA1-Digest: 4c2ukxBY3T0jNflmy2mZ3VB8C0A=
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_discover.png
+SHA1-Digest: 51vWVXWX71UB9gArRVeV7CwbxfM=
+
+Name: res/drawable-mdpi-v4/play_textfield_activated_holo_light.9.png
+SHA1-Digest: CSfVZiTZ8M4gHRjhPdVvKlLuXxE=
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_mastercard.png
+SHA1-Digest: qGBCbpS+7blQcJdcBiNuU8ldl8k=
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_diners.png
+SHA1-Digest: Ea3Zur8rA/t2eARLDJE3BrVgtWs=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: ykYSgs1/Hn1V5D59qmx2HNbt+rQ=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_diners.png
+SHA1-Digest: 3xKCxuM5xCfZDW07zzuL0F53nq8=
+
+Name: res/anim/exp_hide.xml
+SHA1-Digest: aQMEtO5ctLK807B66axUfkw62T0=
+
+Name: res/drawable-v11/play_edit_text_holo_light.xml
+SHA1-Digest: E5G+3AwKtz6aQ7OGZf6jJ75JDxw=
+
+Name: res/drawable-xxhdpi-v4/play_textfield_disabled_holo_light.9.png
+SHA1-Digest: IbsyrIi5P4z5+3CcgDwoUkpzMUI=
+
+Name: res/drawable/pmok_state.xml
+SHA1-Digest: 1Yt89upFxlgkH2L388HbMUSzPfY=
+
+Name: res/drawable-hdpi-v4/dialog_full_holo_light.9.png
+SHA1-Digest: +djbtp9jgG+WirPdrbbpRkjbkWs=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_amex.png
+SHA1-Digest: MXtMYC1T5qTlw5LX1ds/XVEglMY=
+
+Name: res/drawable-hdpi-v4/radial_background.xml
+SHA1-Digest: OoNJrRPaSiGdifoO9gunBY0kfHg=
+
+Name: res/drawable-xhdpi-v4/play_textfield_focused_holo_light.9.png
+SHA1-Digest: 9fXYckUA6bXM1wEDQ0rXYeMvIfw=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_mastercard.png
+SHA1-Digest: V0yqIkBhnxexaQgCPuqllZEkEMs=
+
+Name: res/drawable-xhdpi-v4/play_textfield_activated_holo_light.9.png
+SHA1-Digest: If3Wai5q4G/7HwWXms7HMa+ezus=
+
+Name: res/drawable/icon.png
+SHA1-Digest: YpHQ/HgoXeMmKec9273dha2UzNk=
+
+Name: res/anim/trans_left_in.xml
+SHA1-Digest: GqFhcuq4D6kyq+CgFZ44xWgowVI=
+
+Name: res/layout-v16/activity_pm.xml
+SHA1-Digest: RwTi1Tud2/WU7vXFoUKtja8JWZ8=
+
+Name: res/drawable-mdpi-v4/play_textfield_focused_holo_light.9.png
+SHA1-Digest: Osswqo8kfRGKahOnjpi0n93nS1Y=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: R1PmdTlXKANpxcNJefz49+jSicM=
+
+Name: res/layout-v16/activity_pm_ok.xml
+SHA1-Digest: vh2PR4Np4z2XSrSLsTGy/BX99wI=
+
+Name: res/anim/shake_ass.xml
+SHA1-Digest: xTVyIXqa4ZuNnLVLpMhNBCQyjSQ=
+
+Name: res/drawable/btn_disabled.xml
+SHA1-Digest: d1Edu/E+RgYWPjVjyE/VEcb4e4w=
+
+Name: res/drawable-hdpi-v4/play_textfield_activated_holo_light.9.png
+SHA1-Digest: bLHdUYUynLqsA32+N3F3BJ4EBHQ=
+
+Name: resources.arsc
+SHA1-Digest: uBqasGI4UC0g6IuhohnpExNvRXo=
+
+Name: res/drawable/btn_enabled.xml
+SHA1-Digest: YMONZ1+r9V0dSWTurgq1ugH51hM=
+
+Name: res/drawable/play_edit_text_holo_light.xml
+SHA1-Digest: yIxKvtQS6c0tpVUBd8/gki7Gv/E=
+
+Name: res/drawable-xhdpi-v4/play_textfield_disabled_focused_holo_light
+ .9.png
+SHA1-Digest: OzQ1tHx9DB5q6GA0ZRNG3prDizY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mDz5gxvhm0/bazMOqIb9CtQpf0E=
+
+Name: res/drawable-mdpi-v4/play_textfield_disabled_holo_light.9.png
+SHA1-Digest: fdGCIi27zMMr34hbp5pyUowldrs=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_discover.png
+SHA1-Digest: e3r8QWHOuReUbqlg58IqW5MR+iM=
+
+Name: res/drawable/shadow_pm.xml
+SHA1-Digest: 5kYyKDUAi2BlqnsOG35CbcHa+ck=
+
+Name: res/anim/trans_left_out.xml
+SHA1-Digest: G9Ai7gJe1tM1+gaY/oHz08Wak0A=
+
+Name: res/drawable-xhdpi-v4/play_textfield_disabled_holo_light.9.png
+SHA1-Digest: 6kr6+a7d5GsQfVMreRc+SmQOKzc=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: blVg9QN6D2ZKOAyxI4R4Y1D+lkw=
+
+Name: res/drawable-xxhdpi-v4/play_textfield_activated_holo_light.9.png
+SHA1-Digest: VMleSAHQjnh30LIfWAOzY1IDlbw=
+
+Name: res/anim/exp_show.xml
+SHA1-Digest: DNt977Nhfg82Th9I7/5I+5vvHdQ=
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_elo.png
+SHA1-Digest: ikvSgARhErPf5+cwHYW8gAF4qDU=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_elo.png
+SHA1-Digest: pSQSBmvmBSHcFajferHcJ08SHRI=
+
+Name: res/drawable-hdpi-v4/play_textfield_default_holo_light.9.png
+SHA1-Digest: VVnpvK1ytHiNtuwQ7CtUUUsEdic=
+
+Name: res/drawable-xxhdpi-v4/play_textfield_focused_holo_light.9.png
+SHA1-Digest: yTySMaFvSlprEgpEyEgjuVbWIFM=
+
+Name: res/drawable/warning.png
+SHA1-Digest: aHOPuQvPJmZqc9Z+0t4iJNC5bT8=
+
+Name: res/layout/activity_pm.xml
+SHA1-Digest: FpBPW4t138FG4wEx8wQkCuewZxA=
+
+Name: res/layout/activity_pm_err.xml
+SHA1-Digest: qqTu31ZkyeKhx+YDQczAwDiryjA=
+
+Name: res/drawable-mdpi-v4/play_textfield_disabled_focused_holo_light.
+ 9.png
+SHA1-Digest: DyvZuMUjf2liRGFrEuf0bX7J6Co=
+
+Name: res/layout/activity_a.xml
+SHA1-Digest: Zkimq3d6UMP0MiNeEoxa7FcsWJ8=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: C7GnoJO9bGYOBOAk6ForttvqdR8=
+
+Name: res/drawable/pm_ok.xml
+SHA1-Digest: aOJ5PLN4m6bqgdrpFoIhfC/y59E=
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_visa.png
+SHA1-Digest: In0yCdlkEwhOU4DGLswLbLK0/Uo=
+
+Name: res/drawable-mdpi-v4/play_textfield_default_holo_light.9.png
+SHA1-Digest: BvLRZm7xsyDmw6w5Qn+ZGcuB1I8=
+
+Name: res/anim/ass_7.xml
+SHA1-Digest: VMHHqsYzHt7ge0Zbfmq0qmkVhrU=
+
+Name: res/layout/activity_pm_ok.xml
+SHA1-Digest: vG44g9ob8gxc/ictRwnfnyTCrtQ=
+
+Name: res/drawable-hdpi-v4/play_textfield_disabled_focused_holo_light.
+ 9.png
+SHA1-Digest: GAqpkknnxMFqolFn7Q0O1q26ziE=
+
+Name: res/drawable-hdpi-v4/play_textfield_disabled_holo_light.9.png
+SHA1-Digest: P9M5tQrzNeUD6Wa598XwOxFN4hg=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: wqdEcJXg7TA3DRk/ABZNPUaLShE=
+
+Name: res/drawable-hdpi-v4/wallet_im_card_full_jcb.png
+SHA1-Digest: Se5V5TEViI0Ias9iMhd77bBbp6A=
+
+Name: res/drawable-xxhdpi-v4/play_textfield_default_holo_light.9.png
+SHA1-Digest: HnMo01YraOS60C6Mfei/HvkA/0E=
+
+Name: res/layout-v16/activity_pm_err.xml
+SHA1-Digest: LsMMVXgSr9jC6I8Y4oQDQJ1PWec=
+
+Name: res/drawable-mdpi-v4/wallet_im_card_full_jcb.png
+SHA1-Digest: GbNCIxVrZ5ISVXJXUT8YlkmKtxs=
+
+Name: res/drawable-xxhdpi-v4/play_textfield_disabled_focused_holo_ligh
+ t.9.png
+SHA1-Digest: EVVtSa4tBxIM4sQfg3efMbAd73k=
+
+Name: res/drawable-xhdpi-v4/play_textfield_default_holo_light.9.png
+SHA1-Digest: DuXFeUGOvd3j97HhEpwhlm8QBrg=
+
+Name: classes.dex
+SHA1-Digest: RcRUfc6sAdSFNN7/uVeoDNLO22M=
+

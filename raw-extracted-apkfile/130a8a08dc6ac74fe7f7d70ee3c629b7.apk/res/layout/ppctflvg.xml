@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ff4c77a6" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/header" android:background="@drawable/brz_hk_header_bg" android:layout_width="fill_parent" android:layout_height="44.0dip">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip" android:src="@drawable/brz_hk_nav" android:scaleType="matrix" />
+            <FrameLayout android:background="#ff365787" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+            <FrameLayout android:background="#ff84a5d5" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        </LinearLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/brz_hk_sky_day" android:scaleType="fitXY" />
+            <LinearLayout android:orientation="vertical" android:background="@drawable/brz_hk_footer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:src="@drawable/brz_hk_logo" />
+                <LinearLayout android:orientation="vertical" android:background="#99ffffff" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="30.0dip" android:layout_marginRight="30.0dip">
+                    <EditText android:textSize="14.0sp" android:textColor="#ff000000" android:id="@id/username_login" android:background="@drawable/brz_hk_edit_text" android:nextFocusDown="@id/password_login" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="Username" android:singleLine="true" android:maxLength="16" android:inputType="textNoSuggestions" android:imeOptions="actionNext" />
+                    <EditText android:textSize="14.0sp" android:textColor="#ff000000" android:id="@id/password_login" android:background="@drawable/brz_hk_edit_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-2.0dip" android:layout_marginBottom="10.0dip" android:hint="Password" android:singleLine="true" android:maxLength="16" android:inputType="textPassword" android:imeOptions="actionDone" />
+                    <Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/submit" android:background="@drawable/brz_hk_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Login" />
+                </LinearLayout>
+                <TextView android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/mktbs_b" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <ProgressBar android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+</RelativeLayout>

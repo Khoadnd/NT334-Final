@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Pārvietoties uz sākuma ekrānu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s: %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s: %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Pārvietoties augšup</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Vairāk opciju</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Gatavs</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Skatīt visu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Izvēlieties lietotni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">IZSLĒGTS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">IESLĒGTS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Meklējiet…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Notīrīt vaicājumu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Meklēšanas vaicājums</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Meklēt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Iesniegt vaicājumu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Meklēšana ar balsi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Kopīgot ar:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Kopīgot ar %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Sakļaut</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

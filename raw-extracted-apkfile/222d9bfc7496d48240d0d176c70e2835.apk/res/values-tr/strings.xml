@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Ana ekrana git</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Yukarı git</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Diğer seçenekler</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Tamamlandı</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Tümünü göster</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Bir uygulama seçin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">KAPAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">AÇ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Ara…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Sorguyu temizle</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Arama sorgusu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Ara</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Sorguyu gönder</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Sesli arama</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Şununla paylaş</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s ile paylaş</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Daralt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

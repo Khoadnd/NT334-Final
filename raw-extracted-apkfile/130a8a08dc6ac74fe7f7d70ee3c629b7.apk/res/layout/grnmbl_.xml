@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/content_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip">
+        <LinearLayout android:orientation="vertical" android:id="@id/credit_card_details" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include android:paddingLeft="@dimen/sdrb_rljepg" android:paddingRight="@dimen/sdrb_rljepg" layout="@layout/qggihv" />
+                <include android:paddingLeft="@dimen/sdrb_rljepg" android:paddingRight="@dimen/sdrb_rljepg" layout="@layout/fhdhkihjlu" />
+                <include android:paddingLeft="@dimen/sdrb_rljepg" android:paddingRight="@dimen/sdrb_rljepg" layout="@layout/ko_dpggsulu" />
+                <include android:paddingLeft="@dimen/sdrb_rljepg" android:paddingRight="@dimen/sdrb_rljepg" layout="@layout/jubpjpksca" />
+            </FrameLayout>
+            <include layout="@layout/vljvumg" />
+        </LinearLayout>
+    </ScrollView>
+    <ProgressBar android:layout_gravity="center" android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:progressBarStyleLarge" />
+</FrameLayout>

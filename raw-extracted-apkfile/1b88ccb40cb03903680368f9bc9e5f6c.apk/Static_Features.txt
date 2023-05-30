@@ -1,0 +1,110 @@
+ Package : 
+package="jvc.sgkqhjtjagtdtomeeetfbtvlwlldreaacwokeub.kiapuyewkifbuevalhgslhhrfksremicsnsvv" platformBuildVersionCode="23" 
+  
+ Activities : 
+activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:hardwareAccelerated="true" android:label="android.app.DialogWindow" android:launchMode="singleTop" android:name=".apgirdkzqzbmetqgxinvoluqnteskxtcflipdmurxfjgeyhhvwscyyvwlzkohfbujopaasmwnbjcdr" android:theme="@style/AOgAghfiVYUa" 
+activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="android.app.DialogActivityX" android:launchMode="singleTop" android:name=".hejngjiyycdwzmbbvgmzxalcnuxqeowopldmowhfsiktlkjzavpihxqfdykpqaungrbrtctuvfessr" android:theme="@style/AkcUAvIFwjvs" 
+activity android:excludeFromRecents="true" android:label="android.app.ServiceProvider" android:name=".qqazcwjixjaxtrwkqohyvomghsycledalkiguetizmmjghnnpfbdesywvvrtdrfupspzfxclnbokbu" android:noHistory="true" 
+activity android:excludeFromRecents="true" android:name=".bhvvjpptfqynabrvpzdiqynxfkeeaolmfuixuksczbmcsllywczhgmoxjrqwkghdgidstutarnjewo" android:noHistory="true" 
+activity android:excludeFromRecents="true" android:name=".bvgfinfgwxdlptrwnhojtulgsjzetimnqzklqbpmakydqosemavbexfirsyhcoaxkzchwcduvpyrju" android:noHistory="true" 
+activity android:excludeFromRecents="true" android:name=".ipazpujkdpodbnikzahujxolhxnmmgzvdftaslwlhcrcusgenbejqtmwryewyqfvtbogqfksyivrxc" 
+  
+ Services : 
+service android:exported="true" android:name=".duklqvumxbrpszhpnerwzxvjbshchoknqdttweupgemazosrqlioxyiwagmygijvbajfcyfcknltdf" android:permission="android.permission.SEND_RESPOND_VIA_MESSAGE"
+service android:label="AivGAuvchIAg" android:name=".qsrccvgemwdivuzhjqmkkxosywfoetxmgtjbgdlqlcruhdbivbpkoujznrxpspifznynaywatfaelh"
+service android:label="@string/accessibility_service_description" android:name=".nfdxusccohwcsezxvupgijektulrfaylhrpzbmonwqnyadqkbtkvfibrmwpmyzjdslojivhaeqgtgx" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+service android:name=".pevuphdgxzoxibrophsewnqmdrgcaryazkoqztyduxjsjmqlmseatijywntkclnvbiwfcluhbkfvgf"
+service android:name=".tsunfavfdqcypmyvjfpaadueghmxjhnlowhzzsxjukgiyglcerqqbbtrtxiznwbkeckilovpsdwrmo"
+service android:name=".uhbphqtjpcyywnvsjuqmuojhdnbmbqxfsvgxaltaetaipyoimvlncrckzgkxfzklrgewodiszrdewf"
+service android:name=".wlxyhrduobsovdunjqqsktmvrgiaetvljbipwpzpheyxxmgzdfoylhmzgcbajifqsketwcaunrcnfk"
+service android:name=".zeauyilegittpkypkubgorixqhxfamfzvroygmclqxklsbdsrczhnsvwhvaftddocenpwjjjmwqubn"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:description="@string/zb_stamp" android:enabled="true" android:name=".ekvrxzfiopfbeglxzcuqigwlbadhiaqagspwclrctfypesbhmdmnrhumktqusvtowjkjyojnyzvxdn" android:permission="android.permission.BIND_DEVICE_ADMIN"
+receiver android:enabled="true" android:name=".ynkgnvdczfybzwsnxwelxjbuohwcmefvxiorjjdhqsplyftdpqctptlkbeghazkuuvqoramasirgmi" android:permission="android.permission.BROADCAST_SMS"
+receiver android:name=".amhiuxhvanmnesmjjkzsrcnqwzbyxlrbtdvlkosarzxwqbfpfeghociygiowvqcjdplutpkdtgufye"
+receiver android:name=".jleqvmdifhbavistjrzpugyrganfbhfqcotshejsmnezcuxygwmiwkdqybwtvxlkxnaruocplkopzd"
+receiver android:name=".zabzzokgrrfmxnasnjeckjlesmhkdulctiiqgleibupxxuthoqfjyypdrwvvnhgqsfvabwydwoctpm" android:permission="android.permission.BROADCAST_WAP_PUSH"
+  
+ Intents Action : 
+action android:name="android.accessibilityservice.AccessibilityService"
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED"
+action android:name="android.app.action.DEVICE_ADMIN_DISABLED"
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+action android:name="android.intent.action.REBOOT"
+action android:name="android.intent.action.RESPOND_VIA_MESSAGE"
+action android:name="android.intent.action.SEND"
+action android:name="android.intent.action.SENDTO"
+action android:name="android.provider.Telephony.SMS_DELIVER"
+action android:name="android.provider.Telephony.SMS_RECEIVED"
+action android:name="android.provider.Telephony.SMS_SENT"
+action android:name="android.provider.Telephony.WAP_PUSH_DELIVER"
+  
+ Intents Category : 
+category android:name="android.intent.category.BROWSABLE"
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.ACCESS_WIFI_STATE"
+permission android:name="android.permission.CHANGE_NETWORK_STATE"
+permission android:name="android.permission.CHANGE_WIFI_STATE"
+permission android:name="android.permission.DISABLE_KEYGUARD"
+permission android:name="android.permission.ENABLE_KEYGUARD"
+permission android:name="android.permission.EXPAND_STATUS_BAR"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_CALL_LOG"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.READ_SMS"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.RECEIVE_MMS"
+permission android:name="android.permission.RECEIVE_SMS"
+permission android:name="android.permission.SEND_SMS"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="android.permission.WRITE_SETTINGS"
+permission android:name="android.permission.WRITE_SMS"
+permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
+permission="android.permission.BIND_DEVICE_ADMIN"
+permission="android.permission.BROADCAST_SMS"
+permission="android.permission.BROADCAST_WAP_PUSH"
+permission="android.permission.SEND_RESPOND_VIA_MESSAGE"
+  
+ Exported : 
+exported="true" android:name=".duklqvumxbrpszhpnerwzxvjbshchoknqdttweupgemazosrqlioxyiwagmygijvbajfcyfcknltdf" android:permission="android.permission.SEND_RESPOND_VIA_MESSAGE"
+  
+ Backup : 
+allowBackup="true" android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:supportsRtl="true" 
+  
+ Meta-Data : 
+meta-data android:name="android.accessibilityservice" android:resource="@xml/zmesiohg"
+meta-data android:name="android.app.device_admin" android:resource="@xml/suteebzh"
+meta-data android:name="preventRestart" android:value="true"
+meta-data android:name="stopOnDeviceLock" android:value="false"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+6
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+3.1M
+  

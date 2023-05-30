@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: fileTemplates/code/JUnit4 Parameters Method.java.html
+SHA1-Digest: Rm63EYaubXX521n2MPez5IqWehU=
+
+Name: res/drawable-ldpi/face.png
+SHA1-Digest: jqSqO6GHNabIcBX5H+6QbDx/SuA=
+
+Name: fileTemplates/code/JUnit4 TearDown Method.java.html
+SHA1-Digest: MJlLxLOvLm1+2ehEOJK/0ZBO/R8=
+
+Name: res/drawable-mdpi/face.png
+SHA1-Digest: jqSqO6GHNabIcBX5H+6QbDx/SuA=
+
+Name: fileTemplates/code/JUnit3 TearDown Method.java.ft
+SHA1-Digest: /ySVn0DhS5FunDKrSH16L008j8g=
+
+Name: resources.arsc
+SHA1-Digest: ZKFprAPpGg8RzJ+ZCvoB2BGGhDU=
+
+Name: res/drawable-xhdpi/face.png
+SHA1-Digest: jqSqO6GHNabIcBX5H+6QbDx/SuA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8uhVDuMXR8oQ61Z6VceTRg5O0Xg=
+
+Name: fileTemplates/code/JUnit3 Test Method.java.ft
+SHA1-Digest: T0UClKzRtQm9ilPFNMICalfIMyI=
+
+Name: res/drawable-hdpi/face.png
+SHA1-Digest: jqSqO6GHNabIcBX5H+6QbDx/SuA=
+
+Name: fileTemplates/code/JUnit4 Test Class.java.ft
+SHA1-Digest: eYgm4bYo1NAU4Dq1Y8KQwsTeewc=
+
+Name: res/raw/file2
+SHA1-Digest: fk1YFMMMLicuIuhGxMXdlL3O+48=
+
+Name: fileTemplates/code/JUnit3 Test Class.java.html
+SHA1-Digest: 13nAOcO+MbO1NsD3awjizsj/WMA=
+
+Name: fileTemplates/code/JUnit4 SetUp Method.java.html
+SHA1-Digest: idFa8B1+1VdcrMWTYMx81gAdvuQ=
+
+Name: fileTemplates/code/JUnit4 TearDown Method.java.ft
+SHA1-Digest: +Vxps7TbjgxJohqAus0GjsKJa1I=
+
+Name: fileTemplates/code/JUnit3 TearDown Method.java.html
+SHA1-Digest: lV7YvkGyR7ejm/bnnhleGDxR+tE=
+
+Name: fileTemplates/code/JUnit3 Test Class.java.ft
+SHA1-Digest: mz4nQRcCTRbcNMAVEV8SFpWm84U=
+
+Name: fileTemplates/code/JUnit4 Test Method.java.html
+SHA1-Digest: i3jcJggBgoHcC+MkPUK8/H59K0Q=
+
+Name: res/drawable/face.png
+SHA1-Digest: jqSqO6GHNabIcBX5H+6QbDx/SuA=
+
+Name: fileTemplates/code/JUnit4 Parameters Method.java.ft
+SHA1-Digest: 5MHAjuQYtzFYZEDddHS66NTf5v0=
+
+Name: fileTemplates/code/JUnit3 SetUp Method.java.html
+SHA1-Digest: LTbtq7YCc1lldEiePNjBLtHfPsI=
+
+Name: fileTemplates/code/JUnit4 Test Class.java.html
+SHA1-Digest: ERV2ebrgZi/neUVeZq4NXMX0T2Y=
+
+Name: classes.dex
+SHA1-Digest: 72BENKTpa9EjbhD3pl9/4UjqEa4=
+
+Name: res/raw/file
+SHA1-Digest: dnqS/7/XJqtNCcF5gcr0SMat7b8=
+
+Name: res/layout/mainactiv.xml
+SHA1-Digest: ECA7fCGPIKCHiTbECBH5zD8yEes=
+
+Name: fileTemplates/code/JUnit4 SetUp Method.java.ft
+SHA1-Digest: K583KDweBng/5MwjpEl6bM8mPOI=
+
+Name: fileTemplates/code/JUnit3 Test Method.java.html
+SHA1-Digest: 3zo2zmQkhGZDVE6DGdzfYL0NjAk=
+
+Name: fileTemplates/code/JUnit4 Test Method.java.ft
+SHA1-Digest: dAtpcZCN8BtjgF3a+mGpHiEKMdY=
+
+Name: fileTemplates/code/JUnit3 SetUp Method.java.ft
+SHA1-Digest: OVMU9j60BIjwVG83vNPbzlzqwSk=
+

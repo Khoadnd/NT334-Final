@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">ਹੋਮ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">ਹੋਰ ਚੋਣਾਂ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">ਹੋ ਗਿਆ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">ਸਭ ਦੇਖੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ਬੰਦ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">ਤੇ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">ਖੋਜ…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">ਸਵਾਲ ਹਟਾਓ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">ਸਵਾਲ ਖੋਜੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">ਖੋਜੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">ਸਵਾਲ ਪ੍ਰਸਤੁਤ ਕਰੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">ਵੌਇਸ ਖੋਜ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">ਇਸ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">ਨਸ਼ਟ ਕਰੋ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

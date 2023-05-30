@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="app_market_type">0</string>
+    <string name="app_homepage_url">http://bytepioneers.com</string>
+    <string name="app_url">market://details?id=com.bettertomorrowapps.camerablock</string>
+    <string name="app_url_amazon">amzn://apps/android?p=com.bettertomorrowapps.camerablock</string>
+    <string name="app_url_samsung">samsungapps://ProductDetail/com.bettertomorrowapps.camerablock</string>
+    <string name="app_paid_url">market://details?id=com.bettertomorrowapps.camerablock</string>
+    <string name="app_microphone_url">market://details?id=com.bettertomorrowapps.microphoneblock</string>
+    <string name="packageID">package:com.bettertomorrowapps.camerablock</string>
+    <string name="privacyPolicyUrl">https://www.iubenda.com/privacy-policy/592260</string>
+    <string name="app_name">Блокировка Камеры</string>
+    <string name="app_name_action_bar">CAMERA BLOCK</string>
+    <string name="action_settings">Settings</string>
+    <string name="bytepioneers">BytePioneers.com</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="term_of_service">Terms of Service / Term of Use</string>
+    <string name="term_begin">Please read this Agreement carefully before accessing or using Camera Block application (collectively referred to as the “Application” or “Camera Block” in these Terms of Service). By accepting, accessing and using any part of the application, you (“you”, “user” or, “end user”) agree to become bound by the terms and conditions of this agreement (collectively, the “Terms of Service” or “Agreement”). If you do not accept or agree to the all terms of this agreement, please do not download, install, access or make any other use of the Application and stop using and uninstall this application.</string>
+    <string name="term_1_title">1. We don’t store or transfer any of your data.</string>
+    <string name="term_1_1">"We physically can’t. We have nowhere to store it. We don’t even have a server database to store it. Application doesn't have permission to use internet, and is not able to communicate with „outside world“ and transfer anything from your device."</string>
+    <string name="term_1_2">All data are saved only in your device, once application is uninstalled, whole “application package” (apk file, database, log files) is thrown away and permanently removed.</string>
+    <string name="term_2_title">2. Disclaimer of Warranties</string>
+    <string name="term_2_1">The Camera Block is provided “as is” and “as available” without warranty of any kind. Application makes no warranty that content or information will be uninterrupted, timely, error-free and the defects will be corrected, the results that may be obtained from use of this application will be effective, accurate or reliable. Reliance on the availability or accuracy of data, information and application functionality is entirely at the risk of the user, you are solely responsible for any damage to your equipment or device, loss of use, or loss of data.</string>
+    <string name="term_3_title">3. Limitation of liability and damages</string>
+    <string name="term_3_1">Camera Block will not be liable to you for any special, indirect, incidental, punitive, reliance, consequential, or exemplary damages relating to your use of the application, even if application has been advised of the possibility of such damages. You agree that the limitations of liability set forth in this section will survive any termination or expiration of this agreement and will apply even if any limited remedy specified herein is found to have failed of its essential purpose. Camera Block in no event shall be liable for damages in connection with the software that may exceed one dollar ($ 1.00). The above limitation shall apply regardless of any essential failure of any resource of the application.</string>
+    <string name="term_4_title">4. Modification of this agreement</string>
+    <string name="term_4_1">We automatic reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes here or on the CouplerTracker.com. Your continued use of or access to the Application following the posting of any changes to this Agreement constitutes acceptance of those changes. Automatic may also, in the future, offer new services and/or features through the Application (including, the release of new updates). Such new features and/or services shall be subject to the terms and conditions of this Agreement.</string>
+    <string name="term_5_title">5. Termination</string>
+    <string name="term_5_1">"The user may terminate this Agreement at any time by destroying and/or uninstalling all copies of the Application from their mobile device. The present Agreement will terminate automatically, without prior notice, if the User breaches any term of the present Agreement, in which case the user must immediately destroy and/or uninstall all copies of the application in their possession or control. 
+
+This Terms of Service / Term of Use was last modified on September 24th, 2015."</string>
+    <string name="agreeTos">I agree to Terms of Service</string>
+    <string name="readTos">(Read Terms of Service)</string>
+    <string name="dontAgree">"No, I don't agree"</string>
+    <string name="intro1">You have installed</string>
+    <string name="intro2">applications with camera permission that can ANYTIME use camera on your mobile phone,</string>
+    <string name="intro3">of them has internet permission and can upload/transfer pictures or videos from your phone ANYWHERE and ANYTIME.</string>
+    <string name="next">Next</string>
+    <string name="choseTemplateColor">Choose template color:</string>
+    <string name="whiteTemplate">Obi-Wan Kenobi</string>
+    <string name="blackTemplate">Dark Vader</string>
+    <string name="deactiveNotificationInActionBar">"Camera block notification 
+in status bar is activated"</string>
+    <string name="activeNotificationInActionBar">"Camera block notification 
+in status bar is deactivated"</string>
+    <string name="cameraIs">Camera is</string>
+    <string name="locked">blocked</string>
+    <string name="unlocked">unblocked</string>
+    <string name="clickToUnlockCamera">"Click to
+unblock camera"</string>
+    <string name="clickToLockCamera">"Click to
+block camera"</string>
+    <string name="admin_device_description">Click to activate button</string>
+    <string name="template">Template</string>
+    <string name="swichTemplateColor">Switch color of template</string>
+    <string name="notification">Notification</string>
+    <string name="notificationInStatusBarShow">Show notification icon in status bar</string>
+    <string name="notificationIcon">Notification icon</string>
+    <string name="choseStyleOfIconInStatusBar">Choose style of icon in status bar</string>
+    <string name="appsWithCameraPermission">Apps with camera permission</string>
+    <string name="appsWithCameraPermissionDescription">See apps that have permission to anytime use camera (Take picture, record video..)</string>
+    <string name="putWidgetOnDesktop">Put widget on your homescreen</string>
+    <string name="rateOurApp">Rate our app</string>
+    <string name="contactUs">Contact us</string>
+    <string name="contactUsApplication">Contact us by email application</string>
+    <string name="uninstallApp">Uninstall application</string>
+    <string name="mayUpload">may Upload</string>
+    <string name="showDangerApp">List of apps with camera permission (Security threats)</string>
+    <string name="blockedUp">Blocked</string>
+    <string name="unblockedUp">Unblocked</string>
+    <string name="cameraIsUnblocked">Camera is unblocked</string>
+    <string name="cameraIsBlocked">Camera is blocked</string>
+    <string name="appsMayBeSpyingYou">apps may be spying you right now</string>
+    <string name="clickToUnlockCameraRow">Click to unblock camera</string>
+    <string name="freeversionoff">Free version is not working between 20:00 and 22:00 hour. Support us and Update to PRO version.</string>
+    <string name="updateToPaid">Update to PRO version</string>
+    <string name="whyPermissionTitle">Why our application requires permissions</string>
+    <string name="whyPermissionTextPro">"Android applications can't directly interfere to other apps or android system. (One app can not simply disable, block or stop another applications).
+
+- Camera protection can't be technically done without direct access to camera. (On older android versions)
+(In simple terms: You can't close or block doors if you can't touch or manipulate this doors).
+
+Why app requires internet permission ?
+- To get application statistics is required internet permission (Google analytics - Number of active installations, number of cracked installations, etc..)."</string>
+    <string name="whyPermissionTextFree">"Android applications can't directly interfere to other apps or android system.
+(One app can not simply disable, block or stop another applications).
+
+- Camera protection can't be technically done without direct access to camera (On older android versions).
+(In simple terms: You can't close or block doors if you can't touch or manipulate this doors).
+
+Why app requires internet permission ?
+- Free applications are paid from ads, meaning that these app may remain free of charge for you 
+(No internet = no Ads = no Free apps)."</string>
+    <string name="close">Close</string>
+    <string name="cameraCantBeBlocked">Camera cannot be blocked, other app is using camera ! (Turn off application that is using camera or try restart phone)</string>
+    <string name="tryMicrophoneBlockApplication">Try Microphone Block application</string>
+    <string name="unlockByClickUpdateToPro">Update to PRO version and block / unblock camera just by single click on notification or widget button</string>
+    <string name="updateToProTitle">Update to PRO version:</string>
+    <string name="updateToProDescription">"
+- Protection 24 hours per day (Free version is turned off from 20:00 to 22:00) 
+- Block / unblock camera by single click on widget or notification
+- No Ads
+"</string>
+    <string name="cameraIsUnblockedFor5Minutes">Camera is unblocked for next</string>
+    <string name="cameraIsUnblockedFor5MinutesSecond">minutes</string>
+    <string name="cameraIsUnblockedFor5MinutesNotification">Unblocked for next</string>
+    <string name="cameraIsUnblockedFor5MinutesNotificationSecond">minutes</string>
+    <string name="cameraWillBeBlockedIn5Min">Camera will be automatically blocked in</string>
+    <string name="cameraWillBeBlockedIn5MinSecond">minutes</string>
+    <string name="autoblockPeriod">Automatic blocking</string>
+    <string name="autoblockPeriodDescription">Camera is unblocked for few minutes after click on notification</string>
+    <string name="disabled">X</string>
+    <string name="welcomeCameraTitle">"CAMERA 
+BLOCK 
+PRO"</string>
+    <string name="welcomeBlockAllOrNoneTitle">"BLOCK ALL 
+APPLICATION 
+OR NONE"</string>
+    <string name="welcomeNoMoreUnsecuredTitle">"SAY 
+NO MORE 
+TO UNSECURED 
+CAMERA"</string>
+    <string name="welcomeCameraDescription">Block and disable your phone camera by single click. Android applications will not be able to secretly take picture or record you.</string>
+    <string name="welcomeBlockAllOrNoneDescription">"Turn on camera blocking and camera permission will be blocked for all applications! Exceptions can't be technically implemented."</string>
+    <string name="welcomeBlockAllOrNoneNote">One click on notification and you can start taking pictures and using camera again.</string>
+    <string name="welcomeStartUseCameraBlock">Start use Camera Block</string>
+    <string name="settings">Settings</string>
+    <string name="notificationSetting">Notification settings</string>
+    <string name="notificationSelectQuickLauncherText">Configure quick launchers that will unblock microphone and launch selected application by single click on notification:</string>
+    <string name="notificationFirstQuickDisabledDescribtion">Click to enable first notification launcher</string>
+    <string name="notificationFirstQuickEnabledDescribtion">Click to disable first notification launcher</string>
+    <string name="notificationSecondQuickDisabledDescribtion">Click to enable second notification launcher</string>
+    <string name="notificationSecondQuickEnabledDescribtion">Click to disable second notification launcher</string>
+    <string name="notificationFirstQuickDisabledTitle">1. Notification launcher is disabled</string>
+    <string name="notificationFirstQuickEnabledTitle">1. Notification launcher is enabled</string>
+    <string name="notificationSecondQuickDisabledTitle">2. Notification launcher is disabled</string>
+    <string name="notificationSecondQuickEnabledTitle">2. Notification launcher is enabled</string>
+    <string name="notificationSelectApplication">Select application</string>
+    <string name="application">Application</string>
+    <string name="notificationReadyForLaunch">is ready for quick launching</string>
+    <string name="notificationCofigureLauncher">Configure quick launcher</string>
+    <string name="errorLaunching">"Application can't be launched, it is probably not standalone (standard) application."</string>
+    <string name="notificationSettingsDescription">Configure notification and quick launcher</string>
+    <string name="takePicture">Take a picture</string>
+    <string name="addApplication">Add application</string>
+    <string name="lockScreenWarning">"Please disable 'Lock Screen' / 'Locker' app (Mic Block is not 100% compatible with this kind of apps, it may cause interruptions in blocking)"</string>
+    <string name="settingsTranslate">Help us translate</string>
+</resources>

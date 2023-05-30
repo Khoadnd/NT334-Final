@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: nJp8/8kzl4lAn73J+KDELWGav5s=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: nJp8/8kzl4lAn73J+KDELWGav5s=
+
+Name: 新建文件.txt.bak
+SHA1-Digest: G0Qjqm+u2uSpay4LBqliz+qlhuc=
+
+Name: res/xml/my_admin.xml
+SHA1-Digest: 4jhGUfuQrpZr2pO4tVSoLllkiHk=
+
+Name: resources.arsc
+SHA1-Digest: Uv2uENqtOR/tvm20Hyv05DhhNX4=
+
+Name: classes.dex
+SHA1-Digest: Kms8DWo5f166g1CBctGXZWtXR38=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: nJp8/8kzl4lAn73J+KDELWGav5s=
+
+Name: res/layout/main.xml
+SHA1-Digest: YXzEHP38f0UCTYIeI7RYhvAL7P4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Zo2qq2iXLHv5b5cl1U1n2ViE1FM=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: nJp8/8kzl4lAn73J+KDELWGav5s=
+
+Name: res/drawable/bj2.png
+SHA1-Digest: Tw09uHhYZEGk6GqseWFMwYrsZwk=
+
+Name: AndroidManifest.xml.bak
+SHA1-Digest: yMccl97LwI4R+OQy4iDjquP02Yc=
+
+Name: 新建文件.txt
+SHA1-Digest: LPFNd7PLKtNZvY97xdi96XFb2Kc=
+
+Name: classes.dex.bak
+SHA1-Digest: qfqJLCZRpguW3hDIZvxxoiDQ+LQ=
+

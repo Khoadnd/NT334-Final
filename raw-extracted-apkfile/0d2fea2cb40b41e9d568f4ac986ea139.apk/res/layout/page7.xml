@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/page7" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a200dp" />
+    <TextView android:textSize="@dimen/a22sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="Entered code is incorrect. Please, enter another code." android:layout_centerVertical="true" />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a20dp" />
+    <Button android:textColor="#ffffffff" android:id="@id/continue2" android:background="@drawable/button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/a40dp" android:layout_marginRight="@dimen/a40dp" android:text="Continue" />
+</LinearLayout>

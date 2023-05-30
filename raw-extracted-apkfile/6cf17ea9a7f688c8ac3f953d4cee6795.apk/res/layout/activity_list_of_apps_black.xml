@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/greyMedium" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/setTopLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:background="#ff333333" android:layout_width="60.0dip" android:layout_height="fill_parent">
+            <ImageView android:id="@id/setHideListViewImage" android:padding="12.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="27.0dip" android:src="@drawable/ic_back_white" android:onClick="closeActivity" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:onClick="closeActivity">
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:textColor="@color/whiteFont" android:gravity="center" android:id="@id/setHideListViewButton" android:background="@color/greyMedium" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:minHeight="58.0dip" android:text="@string/showDangerApp" android:onClick="closeActivity" />
+            <ListView android:id="@id/setListView" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="#ff5a5a5a" android:dividerHeight="1.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

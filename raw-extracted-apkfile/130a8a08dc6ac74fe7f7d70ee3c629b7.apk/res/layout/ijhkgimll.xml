@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/main" android:background="@drawable/sg_ocbc_login_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <RelativeLayout android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:id="@id/rl_container_anim_set" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                    <LinearLayout android:orientation="vertical" android:background="#f2ffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:weightSum="12.0">
+                        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/sg_ocbc_logo_ocbc" />
+                        <LinearLayout android:orientation="vertical" android:background="@drawable/sg_ocbc_login_box_input" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <RelativeLayout android:background="@android:color/transparent" android:paddingLeft="17.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_weight="1.0">
+                                <EditText android:textSize="17.0sp" android:id="@id/username_login" android:background="@android:color/transparent" android:nextFocusDown="@id/password_login" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="Access Code" android:singleLine="true" android:inputType="textVisiblePassword|textNoSuggestions" android:imeOptions="actionNext" />
+                            </RelativeLayout>
+                            <RelativeLayout android:background="@android:color/transparent" android:paddingLeft="17.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginTop="-3.0dip" android:layout_weight="1.0">
+                                <EditText android:textSize="17.0sp" android:id="@id/password_login" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="PIN" android:singleLine="true" android:inputType="numberPassword" android:imeOptions="actionDone" />
+                            </RelativeLayout>
+                        </LinearLayout>
+                        <RelativeLayout android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip">
+                            <FrameLayout android:id="@id/fl_container_login_forgot_pin" android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_marginLeft="17.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="20.0dip">
+                                <TextView android:textSize="15.0sp" android:textColor="#ff4999fc" android:layout_gravity="center_vertical" android:background="@drawable/sg_ocbc_bg_bottom_dot_dash_stroke" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Forgot PIN?" />
+                            </FrameLayout>
+                            <Button android:textSize="17.0sp" android:textColor="@android:color/white" android:gravity="center" android:id="@id/submit" android:background="@drawable/sg_ocbc_bg_states_round_button" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="17.0dip" android:layout_marginBottom="20.0dip" android:text="Login" android:layout_toRightOf="@id/fl_container_login_forgot_pin" />
+                            <TextView android:textSize="10.0sp" android:textColor="#ffa2a1a3" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=">> Policies &amp; Conditions of Access.\n© 2006 - 2015 OCBC Bank. All rights reserved." android:layout_below="@id/submit" android:layout_centerHorizontal="true" android:lineSpacingMultiplier="1.2" />
+                            <TextView android:textSize="10.0sp" android:textColor="#ffa2a1a3" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="v5.4.0" android:layout_below="@id/submit" android:layout_alignRight="@id/submit" />
+                        </RelativeLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/rl_container_cards" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <FrameLayout android:background="@drawable/sg_ocbc_footer_shape" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginLeft="40.0dip" android:layout_marginRight="40.0dip" android:layout_marginBottom="-2.0dip">
+                            <TextView android:textSize="22.0sp" android:textColor="#ff333333" android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="OCBC Pay Anyone" />
+                            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:src="@drawable/sg_ocbc_cards_stack_new" />
+                        </FrameLayout>
+                        <FrameLayout android:background="@drawable/sg_ocbc_footer_shape" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginLeft="30.0dip" android:layout_marginRight="30.0dip" android:layout_marginBottom="-2.0dip">
+                            <TextView android:textSize="22.0sp" android:textColor="#ff333333" android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="Contact Us" />
+                        </FrameLayout>
+                        <FrameLayout android:background="@drawable/sg_ocbc_footer_shape" android:layout_width="fill_parent" android:layout_height="15.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="-2.0dip" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </FrameLayout>
+    <ProgressBar android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+</RelativeLayout>

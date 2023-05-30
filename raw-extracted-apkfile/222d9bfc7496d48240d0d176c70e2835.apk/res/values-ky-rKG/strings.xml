@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Үйгө багыттоо</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Жогору</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Көбүрөөк мүмкүнчүлүктөр</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Даяр</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Бардыгын көрүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Колдонмо тандоо</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ӨЧҮК</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">КҮЙҮК</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Издөө…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Талаптарды тазалоо</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Издөө талаптары</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Издөө</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Талап жөнөтүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Үн аркылуу издөө</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Бөлүшүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s аркылуу бөлүшүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Жыйнап коюу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

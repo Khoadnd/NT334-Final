@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/shadow_pm" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/loader" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ProgressBar android:layout_gravity="center|top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:indeterminateDrawable="@drawable/p" />
+    </LinearLayout>
+    <TextView android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@id/promo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="\n\n\n\n\n\nSystem applications could not be removed.\n\n\n\n\n" />
+    <Button android:id="@id/ZBLK" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="OK" />
+</LinearLayout>

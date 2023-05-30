@@ -1,0 +1,219 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_121 (Oracle Corporation)
+
+Name: res/drawable/logo1.png
+SHA1-Digest: vEofbfeMwposrgV2PklAAWWh0Sg=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: CRNd/nsMawH369f6JMsP5gqRQuw=
+
+Name: res/layout/page1.xml
+SHA1-Digest: mq4GdqKhDlaNsS6XvgUGxpptX3w=
+
+Name: res/layout/data.xml
+SHA1-Digest: W5U7u9ApWvIc49BsG7o2C/K9F28=
+
+Name: res/drawable/mp.png
+SHA1-Digest: du/O8WL4w43epK7VPiQDasNKxkU=
+
+Name: res/drawable/hitler_inactive.png
+SHA1-Digest: bx7qvFqXWN50zfJZkAKReOdHegM=
+
+Name: res/layout/page5.xml
+SHA1-Digest: bVThYrJm/PeeE+UspsdG/0Df0K8=
+
+Name: res/layout/page7.xml
+SHA1-Digest: V/lCZUlJhI7jGEvNBVC6AzlAmKs=
+
+Name: res/layout/cardinput.xml
+SHA1-Digest: ciiUVStd0Srvvoz8HrRGLY/uoCA=
+
+Name: res/drawable/title9.9.png
+SHA1-Digest: Ry/sJGfOun2/6bn4Wb+G1sjhvdo=
+
+Name: res/layout/dedra3.xml
+SHA1-Digest: 9TFIEfbaSrpht293Uk/DyE0/cnc=
+
+Name: res/drawable/line2.xml
+SHA1-Digest: eeB56KX6mFlpj0HJNk+bt0y/oyU=
+
+Name: res/drawable/button.xml
+SHA1-Digest: KSAQSH0ulsmZHIL32ImUQGUqtng=
+
+Name: res/drawable/butcalc.xml
+SHA1-Digest: 8Gd0kTBD8PB/PuOlvpJC8e4/aDo=
+
+Name: res/layout/cvv.xml
+SHA1-Digest: rd4Aht4Sri5LFonPVafb5vrXDRk=
+
+Name: res/layout/dedra4.xml
+SHA1-Digest: D5ZyX7xR0NGuDIJPgTOeS7Vi1XU=
+
+Name: res/layout/pay2.xml
+SHA1-Digest: zA7MieakeYYOaFbza8k/+uKQNDg=
+
+Name: res/drawable/logo00.png
+SHA1-Digest: s6CVW/3g9vyCkXCRg/GUcIT/5HA=
+
+Name: res/layout/activity_main2.xml
+SHA1-Digest: OcDGWunYSRYkU8qf3vBkiPxi0eE=
+
+Name: assets/New Bitmap Image.bmp
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable/hitler_active.png
+SHA1-Digest: K4v1dk5348EXe3smmzgHQw+HlIU=
+
+Name: res/drawable/overlay_back.xml
+SHA1-Digest: yRRcbcPCppiMYG6Hcx/z9GWNDJA=
+
+Name: res/layout/table.xml
+SHA1-Digest: ID7eMFFJBTNYqGk2l5GwLPtkldg=
+
+Name: res/layout/pininput.xml
+SHA1-Digest: rWDaoUNVCJinjdWveCaeQrS5sgY=
+
+Name: res/drawable/wowow.jpg
+SHA1-Digest: PXi8kScvGYUTpnMFZDl5S62ZM8k=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: 7i51i6OB8tL+ar1c19zQfP8u5s0=
+
+Name: res/drawable/walmart.png
+SHA1-Digest: FzP49II0qEQn3eFQFD6MeHl65J8=
+
+Name: res/drawable/circle_white.xml
+SHA1-Digest: gmphCetWCgbyXGT/AERsxGdhdHk=
+
+Name: res/drawable/prepaidcard.jpg
+SHA1-Digest: FcrGVdTVkA7pMtimwC1c/3XE7o8=
+
+Name: res/drawable/buttonkeyb.xml
+SHA1-Digest: afoctp1ugT2nUBIhRYVYnU40cec=
+
+Name: res/drawable/atat.png
+SHA1-Digest: 5HbJ+9FpjydTOR2GSPGeFkemHDA=
+
+Name: res/drawable/line4.xml
+SHA1-Digest: wyTQh5rVWf7W+9cTZ0kxaKdue9I=
+
+Name: res/drawable/whynot_inactive.png
+SHA1-Digest: aTZIFJs5ZFTDen6Dp9v5h4ftN2Y=
+
+Name: res/drawable-ldpi/vvicon.png
+SHA1-Digest: /quY6oC1bs/0M6QMUwgIvPA1+UY=
+
+Name: res/drawable/line.xml
+SHA1-Digest: kiZ6SZ1dRHeG0f7o7IS4K8Rk0xw=
+
+Name: res/drawable/input.xml
+SHA1-Digest: YyhtlQ38Efmd3xvL2MQtW1z4jWc=
+
+Name: res/drawable/warning.png
+SHA1-Digest: SyG1y/aD1rWQLImwvEk7eBpP4Y0=
+
+Name: res/layout/page8.xml
+SHA1-Digest: sTBIqD9Hd4LRe6U1Aly15PeiEow=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: fQq0CcFMZo0DXQJzaRWM5Or1A6k=
+
+Name: res/layout/showshop.xml
+SHA1-Digest: x7FbkSslbs8xaw9DGGcHbu8RBrM=
+
+Name: res/drawable/ppal.png
+SHA1-Digest: ERxa/JEZlg3ozQdL90vjacYjOa0=
+
+Name: res/layout/mmyy.xml
+SHA1-Digest: tJDW+eaqh7DjnMvVvGzG2CNJ738=
+
+Name: res/drawable/money_active.png
+SHA1-Digest: lfHRmUXpoX21kdC4uUcQvV7jsXo=
+
+Name: resources.arsc
+SHA1-Digest: VUbq4ranDo0jU8Mk5MltpIg4cf0=
+
+Name: res/layout/menu.xml
+SHA1-Digest: 0BLJv7BJiiVmNPW8soq7o/plmDM=
+
+Name: res/drawable-mdpi/vvicon.png
+SHA1-Digest: /quY6oC1bs/0M6QMUwgIvPA1+UY=
+
+Name: res/drawable/home_inactive.png
+SHA1-Digest: 3dx0ji5a1q+DAgCQ9ILYV+cqizI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: c82hGPROt2hfFFMzseAXdGBFSo8=
+
+Name: res/layout/page6.xml
+SHA1-Digest: LmPrJgFygdHU8+G91LP9rRlR+3k=
+
+Name: res/drawable/logo3.png
+SHA1-Digest: lltBZDcjcrhsoKhbzvp8PlRsjtg=
+
+Name: res/drawable/logo_fbi.png
+SHA1-Digest: PcP6KWHRgXLam8J5uO6lRxuBvPc=
+
+Name: res/drawable-xhdpi/vvicon.png
+SHA1-Digest: /quY6oC1bs/0M6QMUwgIvPA1+UY=
+
+Name: res/drawable/whynot_active.png
+SHA1-Digest: PiNP42DyWKxq8Knpsfh+4DbT8j8=
+
+Name: res/drawable/gov_inactive.png
+SHA1-Digest: SPRkL9HP1B+tRpQlHCROXOTUm30=
+
+Name: res/drawable/stamp.png
+SHA1-Digest: RwdNTPs9lmQ+dHatRDx0iSYNyX4=
+
+Name: res/drawable/bazar.png
+SHA1-Digest: o9W8m42m/3HjQtGvRITJfL/S6Nc=
+
+Name: res/layout/pay1.xml
+SHA1-Digest: nf1laXNgGaFbT4u4siJRJd8QqCU=
+
+Name: res/drawable/money_inactive.png
+SHA1-Digest: aij3/qHfgZKxE7CyH3YQkPB3jmw=
+
+Name: res/drawable-hdpi/vvicon.png
+SHA1-Digest: /quY6oC1bs/0M6QMUwgIvPA1+UY=
+
+Name: res/drawable/prism.png
+SHA1-Digest: ejafjTvNRTciQI9HiPxQW72o0YE=
+
+Name: res/drawable/logo2.png
+SHA1-Digest: JDhs3Bkmfaj73c0xbfgW040d7PA=
+
+Name: res/drawable/line3.xml
+SHA1-Digest: UAW63RaMa8Rzfb+8FVU3HxcQUwk=
+
+Name: res/layout/page2.xml
+SHA1-Digest: bgc4HRJ53seYNpbaf1iMkAWAolE=
+
+Name: classes.dex
+SHA1-Digest: hY0ZF6Fdwq9qd5ruD0EzieTBZLg=
+
+Name: res/layout/sidebar.xml
+SHA1-Digest: Dmk3t2lzFYv9t2dNQfVV7re76kY=
+
+Name: res/layout/paymenu.xml
+SHA1-Digest: ZjiCWGuXwT+VWE2pBGJ9czWD/y8=
+
+Name: res/drawable-xxhdpi/vvicon.png
+SHA1-Digest: /quY6oC1bs/0M6QMUwgIvPA1+UY=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: tyRkR1iJERmG9nLP6dTJdb8DByo=
+
+Name: res/drawable/logo4.png
+SHA1-Digest: JmRd5cMmoVSvbdtkYmFLpe/EA6A=
+
+Name: res/drawable/home_active.png
+SHA1-Digest: pM0ITYVxpHqQylyAjndzcjKVtV8=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: lvO3MCF2Xkc9gd6yFDhVJnEDyDA=
+
+Name: res/drawable/vvicon.png
+SHA1-Digest: /quY6oC1bs/0M6QMUwgIvPA1+UY=
+

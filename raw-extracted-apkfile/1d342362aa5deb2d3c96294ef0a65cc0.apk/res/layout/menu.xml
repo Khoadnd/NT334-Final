@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="*" android:shrinkColumns="*"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/a18sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Please select a payment method" android:textAllCaps="true" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a15dp" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:gravity="center" android:id="@id/bpay1" android:background="@drawable/line3" android:padding="@dimen/a20dip" android:layout_width="@dimen/a0dp" android:src="@drawable/logo1" android:scaleType="centerCrop" android:layout_weight="1.0" />
+        <ImageView android:gravity="center" android:id="@id/bpay2" android:background="@drawable/line" android:padding="@dimen/a20dip" android:layout_width="@dimen/a0dp" android:src="@drawable/logo2" android:scaleType="centerCrop" android:layout_weight="1.0" />
+    </TableRow>
+    <TableRow android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:gravity="center" android:id="@id/bpay4" android:padding="@dimen/a20dip" android:layout_width="0.0dip" android:src="@drawable/logo4" android:scaleType="centerCrop" android:layout_weight="1.0" />
+        <ImageView android:gravity="center" android:id="@id/bpay3" android:background="@drawable/line2" android:padding="@dimen/a20dip" android:layout_width="@dimen/a0dp" android:src="@drawable/logo00" android:scaleType="centerCrop" android:layout_weight="1.0" />
+    </TableRow>
+</TableLayout>

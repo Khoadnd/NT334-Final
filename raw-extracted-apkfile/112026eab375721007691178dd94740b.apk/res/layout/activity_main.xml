@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:screenOrientation="portrait" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/title9" android:layout_width="fill_parent" android:layout_height="@dimen/a60dp">
+        <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/a10dp" android:layout_marginTop="@dimen/a5dp" android:layout_marginBottom="@dimen/a5dp" android:src="@drawable/logo_fbi" android:scaleType="fitStart" android:layout_weight="1.0" />
+        <ImageView android:layout_gravity="fill_vertical" android:id="@id/hom2" android:layout_width="@dimen/a30dp" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:src="@drawable/home_inactive" android:scaleType="fitCenter" />
+    </LinearLayout>
+    <RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="10.0">
+        <ScrollView android:id="@id/scrollls" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/cont" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/page1" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/page2" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/dedra3" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/dedra4" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/page5" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/page6" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/page7" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/a5dp" android:layout_marginRight="@dimen/a5dp" layout="@layout/page8" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <View android:background="#ff808080" android:layout_width="fill_parent" android:layout_height="@dimen/a1dp" />
+    <View android:background="#ffd3d3d3" android:layout_width="fill_parent" android:layout_height="@dimen/a1dp" />
+    <RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentBottom="true">
+        <include android:layout_width="fill_parent" android:layout_height="@dimen/a50dp" layout="@layout/sidebar" />
+    </RelativeLayout>
+</LinearLayout>

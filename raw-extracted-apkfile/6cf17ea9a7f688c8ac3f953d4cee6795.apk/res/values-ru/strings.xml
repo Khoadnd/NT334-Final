@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="intro1">Вы установили</string>
+    <string name="intro2">приложений, разрешающих использование камеры, которые могут В ЛЮБОЕ ВРЕМЯ использовать камеру вашего мобильного телефона,</string>
+    <string name="intro3">некоторые из них имеют доступ к интернету и могут загружать/передавать снимки или видео с вашего телефона В ЛЮБОЕ ВРЕМЯ и В ЛЮБОМ МЕСТЕ.</string>
+    <string name="next">Следующий</string>
+    <string name="choseTemplateColor">Выбрать текст шаблона:</string>
+    <string name="whiteTemplate">Оби-Ван-Кеноби</string>
+    <string name="blackTemplate">Дарт Вейдер</string>
+    <string name="deactiveNotificationInActionBar">"Уведомление в строке 
+состояния подключено"</string>
+    <string name="activeNotificationInActionBar">"Уведомление в строке 
+состояния отключено"</string>
+    <string name="cameraIs">Камера</string>
+    <string name="locked">заблокирована</string>
+    <string name="unlocked">разблокирована</string>
+    <string name="clickToUnlockCamera">"Нажмите для 
+разблокировки 
+камеры"</string>
+    <string name="clickToLockCamera">"Нажмите для 
+блокировки 
+камеры"</string>
+    <string name="admin_device_description">Нажмите кнопуку активации</string>
+    <string name="template">Шаблон</string>
+    <string name="swichTemplateColor">Переключить цвет темы</string>
+    <string name="notification">Уведомление</string>
+    <string name="notificationInStatusBarShow">Показать значок уведомления в строке состояния</string>
+    <string name="notificationIcon">Значок уведомления</string>
+    <string name="choseStyleOfIconInStatusBar">Выбрать стиль значка в строке состояния</string>
+    <string name="appsWithCameraPermission">Приложения, разрешающие использование камеры</string>
+    <string name="appsWithCameraPermissionDescription">Посмотреть приложения, разрешающие использование камеры в любое время (делать фотографии, записывать видео...)</string>
+    <string name="putWidgetOnDesktop">Разместить виджет на вашем домашнем экране</string>
+    <string name="rateOurApp">Оценка приложения не пройдет:Пусть обломаются!</string>
+    <string name="contactUs">Связь с автором приложения бесполезна!!!</string>
+    <string name="contactUsApplication">Связьс с ними через email-ни чего не исправит</string>
+    <string name="uninstallApp">Удалить приложение</string>
+    <string name="mayUpload">можно закачать</string>
+    <string name="showDangerApp">Список приложений, разрешающих использование камеры (угроза безопасности)</string>
+    <string name="blockedUp">Блокировать</string>
+    <string name="unblockedUp">Разблокировать</string>
+    <string name="cameraIsUnblocked">Камера разблокирована</string>
+    <string name="cameraIsBlocked">Камера заблокирована</string>
+    <string name="appsMayBeSpyingYou">приложения могут шпионить за вами сейчас</string>
+    <string name="clickToUnlockCameraRow">Нажмите, чтобы разблокировать камеру</string>
+    <string name="freeversionoff">Бесплатная версия не работает с 18:00 до 22:00. Поддержите нас и обновите приложение до версии PRO.</string>
+    <string name="updateToPaid">Обновить до версии PRO</string>
+    <string name="cameraCantBeBlocked">Камера не может быть заблокирован, другое приложение использует камеру! (Выключите приложение, использующее камеру или попытаться перезапуска телефон)</string>
+    <string name="tryMicrophoneBlockApplication">Загрузить Блокировку Микрофона</string>
+    <string name="cameraIsUnblockedFor5Minutes">Камера разблокирован на следующие</string>
+    <string name="cameraIsUnblockedFor5MinutesSecond">минут</string>
+    <string name="cameraIsUnblockedFor5MinutesNotification">Разблокированные для следующих</string>
+    <string name="cameraIsUnblockedFor5MinutesNotificationSecond">минут</string>
+    <string name="cameraWillBeBlockedIn5Min">Камера будет автоматически заблокирована через</string>
+    <string name="cameraWillBeBlockedIn5MinSecond">минут</string>
+    <string name="autoblockPeriod">автоматическая заблокировка</string>
+    <string name="autoblockPeriodDescription">Камера разблокирована за несколько минут после клика на уведомления</string>
+    <string name="welcomeCameraTitle">"КАМЕРА
+BLOCK 
+PRO"</string>
+    <string name="welcomeBlockAllOrNoneTitle">"ЗАДЛОКИРОВАТЬ 
+ВСЕ ПРИЛОЖЕНИЯ, 
+ИЛИ НИЧЕГО НЕ"</string>
+    <string name="welcomeNoMoreUnsecuredTitle">"НЕ ПОКАЗЫВАТЬ 
+БОЛЬШЕ 
+ОТКЛЮЧЕННЫЕ 
+КАМЕРЫ"</string>
+    <string name="welcomeCameraDescription">Отключить и заблокировать камеру своего телефона одним тапом. Программы для Android не смогут тайно транслировать фото/видео передачу.</string>
+    <string name="welcomeBlockAllOrNoneDescription">Включите блокировку камеры и разрешение камеры будет блокироваться для всех приложений! Исключения технически не могут быть реализованы.</string>
+    <string name="welcomeBlockAllOrNoneNote">Один клик на уведомления, и вы можете приступить к съемке и использовать камеру вновь.</string>
+    <string name="welcomeStartUseCameraBlock">Начать использовать Блокировку Камерры</string>
+    <string name="settings">Настройки</string>
+    <string name="notificationSetting">Настройки уведомлений</string>
+    <string name="notificationSelectQuickLauncherText">Выбор быстрого запуска, который будут производить разблокировку микрофона и запускать выбранное приложение одним щелчком мыши для уведомления:</string>
+    <string name="notificationFirstQuickDisabledDescribtion">Тапните, чтобы включить первое средство запуска уведомления</string>
+    <string name="notificationFirstQuickEnabledDescribtion">Тапните, чтобы отключить первое средство запуска уведомления</string>
+    <string name="notificationSecondQuickDisabledDescribtion">Тапните, чтобы включить второе средство запуска уведомления</string>
+    <string name="notificationSecondQuickEnabledDescribtion">Тапните, чтобы отключить второе средство запуска уведомления</string>
+    <string name="notificationFirstQuickDisabledTitle">1. Средство запуска уведомления отключено</string>
+    <string name="notificationFirstQuickEnabledTitle">1. Средство запуска уведомления включено</string>
+    <string name="notificationSecondQuickDisabledTitle">2. Средство запуска уведомления отключено</string>
+    <string name="notificationSecondQuickEnabledTitle">2. Средство запуска уведомления включено</string>
+    <string name="notificationSelectApplication">Выбрать и Применить</string>
+    <string name="application">Применить</string>
+    <string name="notificationReadyForLaunch">готов для быстрого запуска</string>
+    <string name="notificationCofigureLauncher">Настройка быстрого запуска</string>
+    <string name="errorLaunching">Приложение не может быть запущено</string>
+    <string name="notificationSettingsDescription">Настройка уведомления и быстрого запуска</string>
+    <string name="takePicture">Начать съемку</string>
+    <string name="addApplication">Добавить приложение</string>
+</resources>

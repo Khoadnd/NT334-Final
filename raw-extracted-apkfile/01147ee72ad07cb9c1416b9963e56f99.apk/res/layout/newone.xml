@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="bottom|center" android:orientation="vertical" android:background="@drawable/image_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="17.0sp" android:textColor="#ff0028f1" android:id="@id/tv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <EditText android:id="@id/ed" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <Button android:textColor="#ffe21515" android:textColorHighlight="#ff00e6c5" android:id="@id/bt" android:layout_width="250.0dip" android:layout_height="48.0dip" android:text="彼岸花开" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff123df7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="末之彼岸 花开不败" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/main" android:background="@drawable/stg_au_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/stg_au_sm_title_bar" android:background="#fff3f4f3" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_alignParentTop="true">
+            <RelativeLayout android:id="@id/go_back" android:clickable="true" android:layout_width="120.0dip" android:layout_height="fill_parent" android:layout_centerVertical="true">
+                <Button android:id="@id/stg_au_drawerHookBtn" android:background="#00ffffff" android:paddingLeft="20.0dip" android:layout_width="wrap_content" android:layout_height="40.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" android:drawableLeft="@drawable/stg_au_shelf_menu" android:drawableRight="@drawable/stg_au_budget_bottomdivider" android:drawablePadding="10.0dip" android:layout_centerVertical="true" android:contentDescription=" Shelf menu open " />
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:src="@drawable/stg_au_logo_phone" android:layout_toRightOf="@id/stg_au_drawerHookBtn" android:layout_centerVertical="true" android:contentDescription=" " />
+            </RelativeLayout>
+            <ImageView android:id="@id/padlock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/stg_au_nr_padlock" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ScrollView android:id="@id/stg_au_s_scroll_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/stg_au_sm_title_bar">
+            <RelativeLayout android:id="@id/stg_au_s_main_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:id="@id/stg_au_s_main_content" android:background="@android:color/transparent" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip">
+                    <RelativeLayout android:id="@id/credentials" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="22.0dip" android:layout_marginRight="22.0dip">
+                        <RelativeLayout android:id="@id/stg_au_nr_line_can" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_alignParentTop="true">
+                            <LinearLayout android:orientation="horizontal" android:id="@id/stg_au_nr_layout_can" android:layout_width="fill_parent" android:layout_height="48.0dip" android:height="25.0dip" android:layout_alignParentTop="true">
+                                <EditText android:textSize="18.0sp" android:textColor="#ff004833" android:textColorHint="#ff004833" android:id="@id/stg_au_nr_sl_etxt_cardnumber" android:background="#00ffffff" android:paddingLeft="10.0dip" android:paddingRight="3.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="Login with card/access no." android:maxLength="16" android:layout_weight="7.0" android:inputType="number" android:imeOptions="actionNext" />
+                                <RelativeLayout android:id="@id/stg_au_nr_sl_layout_issue" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="3.0">
+                                    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff004833" android:gravity="center_vertical" android:id="@id/stg_au_nr_tv_issue" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:text="Issue" android:layout_alignParentLeft="true" />
+                                    <ImageView android:id="@id/stg_au_nr_tv_issue_drawable" android:layout_width="wrap_content" android:layout_height="22.0dip" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/stg_au_nr_arrow_right" android:scaleType="centerInside" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                                    <Spinner android:id="@id/stg_au_nr_sl_spinner_issue" android:background="#00ffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/stg_au_nr_tv_issue_drawable" android:layout_toRightOf="@id/stg_au_nr_tv_issue" android:layout_centerVertical="true" />
+                                </RelativeLayout>
+                            </LinearLayout>
+                            <ImageView android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/stg_au_nr_layout_can" />
+                        </RelativeLayout>
+                        <RelativeLayout android:id="@id/stg_au_nr_3_credentials_extra_input" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/stg_au_nr_line_can">
+                            <RelativeLayout android:id="@id/stg_au_nr_line_security" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_alignParentTop="true">
+                                <LinearLayout android:orientation="horizontal" android:id="@id/stg_au_nr_layout_security" android:layout_width="fill_parent" android:layout_height="48.0dip" android:weightSum="10.0" android:height="25.0dip">
+                                    <EditText android:textSize="18.0sp" android:textColor="#ff004833" android:textColorHint="#ff004833" android:id="@id/stg_au_nr_sl_etxt_security_num" android:background="#00ffffff" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginRight="3.0dip" android:hint="Security number" android:maxLength="6" android:layout_weight="6.5" android:inputType="numberPassword" android:imeOptions="actionNext" android:contentDescription="edit box Security number" android:fontFamily="sans-serif" />
+                                    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff004833" android:gravity="center|right" android:id="@id/stg_au_nr_tv_forgot_security_num" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:text="Forgot?" android:layout_weight="3.5" />
+                                </LinearLayout>
+                                <ImageView android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/stg_au_nr_layout_security" />
+                            </RelativeLayout>
+                            <RelativeLayout android:id="@id/stg_au_nr_line_pwd" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_below="@id/stg_au_nr_line_security">
+                                <LinearLayout android:orientation="horizontal" android:id="@id/stg_au_nr_layout_password" android:layout_width="fill_parent" android:layout_height="48.0dip" android:weightSum="10.0" android:height="25.0dip">
+                                    <EditText android:textSize="18.0sp" android:textColor="#ff004833" android:textColorHint="#ff004833" android:id="@id/stg_au_nr_sl_etxt_password" android:background="#00ffffff" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginRight="3.0dip" android:hint="Internet password" android:maxLength="12" android:layout_weight="6.5" android:inputType="textPassword" android:imeOptions="actionSend" android:contentDescription="edit box Internet password" android:fontFamily="sans-serif" />
+                                    <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff004833" android:gravity="center|right" android:id="@id/stg_au_nr_tv_forgot_password" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:text="Forgot?" android:layout_weight="3.5" />
+                                </LinearLayout>
+                                <ImageView android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/stg_au_nr_layout_password" />
+                            </RelativeLayout>
+                            <RelativeLayout android:id="@id/stg_au_nr_line_remember" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:layout_below="@id/stg_au_nr_line_pwd">
+                                <TextView android:textSize="16.0sp" android:textColor="#ff004833" android:id="@id/stg_au_nr_tv_remember" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="Save card/access number" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                                <CheckBox android:id="@id/stg_au_nr_cb_remember_can" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/stg_au_sld_nr_sl_remember_selector" android:layout_alignParentRight="true" android:contentDescription="Save card or access number" />
+                            </RelativeLayout>
+                            <Button android:textSize="18.0sp" android:textColor="#ffffffff" android:id="@id/stg_au_nr_3_credential_login" android:background="@drawable/stg_au_sld_nr_positive_button" android:layout_width="fill_parent" android:layout_height="42.0dip" android:text="Login" android:layout_below="@id/stg_au_nr_line_remember" />
+                        </RelativeLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/stg_au_s_main_content">
+                    <ImageView android:gravity="center_horizontal|clip_horizontal" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:src="@drawable/stg_au_quick_balance_mini_icon" />
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ff004833" android:gravity="center_horizontal|clip_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Quick Balance" />
+                    <TextView android:textSize="14.0sp" android:textStyle="normal" android:textColor="#ff004833" android:gravity="center_horizontal|clip_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="Swipe to reveal" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+        <RelativeLayout android:id="@id/stg_au_ribbonContainer" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <ImageView android:id="@id/stg_au_lip_up" android:background="@drawable/stg_au_ribbon_lip_up" android:layout_width="95.0dip" android:layout_height="25.0dip" android:layout_alignParentTop="true" android:layout_centerInParent="true" android:contentDescription="Double tap to open the ribbon" />
+            <LinearLayout android:orientation="horizontal" android:background="#ffffffff" android:paddingTop="15.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/stg_au_lip_up" android:isScrollContainer="false">
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:background="@drawable/stg_au_sld_ribbon_icon_borader" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/stg_au_ribbon_branch" />
+                    <TextView android:textSize="11.0sp" android:textColor="#ff555555" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="Branch / ATM" android:ems="7" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:background="@drawable/stg_au_sld_ribbon_icon_borader" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/stg_au_ribbon_business_banking" />
+                    <TextView android:textSize="11.0sp" android:textColor="#ff555555" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="Business Banking" android:ems="7" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:background="@drawable/stg_au_sld_ribbon_icon_borader" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/stg_au_ribbon_activate" />
+                    <TextView android:textSize="11.0sp" android:textColor="#ff555555" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="Activate Mobile" android:ems="7" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:background="@drawable/stg_au_sld_ribbon_icon_borader" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/stg_au_ribbon_product" />
+                    <TextView android:textSize="11.0sp" android:textColor="#ff555555" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="Products" android:ems="7" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:id="@id/loading_spinner" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:progressBarStyleLarge" />
+    </LinearLayout>
+</RelativeLayout>

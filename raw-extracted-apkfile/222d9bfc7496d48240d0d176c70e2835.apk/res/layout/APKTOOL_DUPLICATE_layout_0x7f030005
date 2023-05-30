@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ActionBarContextView android:theme="?APKTOOL_DUPLICATE_attr_0x7f010064" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?attr/APKTOOL_DUPLICATE_attr_0x7f01006b"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

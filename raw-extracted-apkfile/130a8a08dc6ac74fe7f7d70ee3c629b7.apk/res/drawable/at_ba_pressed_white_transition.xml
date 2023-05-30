@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/at_ba_translucent_white" />
+    <item android:drawable="@drawable/at_ba_transparent_shape" />
+</transition>

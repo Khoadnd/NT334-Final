@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill_horizontal" android:orientation="vertical" android:id="@id/deerda3" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a5dp" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/pay1" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/pay2" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/paymenu" />
+        <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a25dp" />
+        <TextView android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="MONEY CARD CAN BE FOUND AT SOME OF THE MOST POPULAR RETAILERS NATIONWIDE:" />
+        <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a15dp" />
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@id/bshowshop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="[+] SEE ALL RETAILERS" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/showshop" />
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/a400dp" android:src="@drawable/prepaidcard" android:scaleType="fitCenter" />
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/a200dp" android:src="@drawable/mp" android:scaleType="fitCenter" />
+    </LinearLayout>
+</LinearLayout>

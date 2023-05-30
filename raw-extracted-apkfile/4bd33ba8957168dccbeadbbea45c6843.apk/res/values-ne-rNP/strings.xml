@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">गृह खोज्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">माथि खोज्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">थप विकल्पहरू</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">सम्पन्न भयो</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">सबै हेर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">एउटा अनुप्रयोग छान्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">निष्क्रिय पार्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">सक्रिय गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">खोज्नुहोस्...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">प्रश्‍न हटाउनुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">जिज्ञासाको खोज गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">खोज्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">जिज्ञासा पेस गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">भ्वाइस खोजी</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">साझेदारी गर्नुहोस्...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s सँग साझेदारी गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">संक्षिप्त पार्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">९९९+</string>
+</resources>

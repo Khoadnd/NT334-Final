@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center|top" android:orientation="vertical" android:background="@drawable/woju" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="100.0dip" android:src="@drawable/ysd" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff0541da" android:background="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="=解锁+QQ: 2444263472 =" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="17.0sp" android:textColor="#fffe00cb" android:id="@id/tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:shadowColor="#ff0c0f10" android:shadowDx="0.0" android:shadowDy="0.0" android:shadowRadius="3.0" />
+        <EditText android:textColor="#ffeb852e" android:id="@id/ed" android:paddingLeft="8.0dip" android:layout_width="200.0dip" android:layout_height="45.0dip" android:layout_marginBottom="8.0dip" android:ems="10" android:shadowColor="#ff07329e" android:shadowDx="0.0" android:shadowDy="0.0" android:shadowRadius="3.0" />
+        <Button android:textSize="22.0sp" android:textColor="#ffff00e4" android:id="@id/bt" android:background="#ff02fad7" android:layout_width="190.0dip" android:layout_height="48.0dip" android:shadowColor="#ff1919df" android:shadowDx="0.0" android:shadowDy="0.0" android:shadowRadius="3.0" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff6620d2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="[刷机双清无效]" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff000db6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="[刷机双清后价格翻倍]" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffdc11cb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="[我是鹿晗，我为自己代言！]" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff36d220" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="[ 已开启远程监控 ]" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffdff715" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="[ 重启序列码自动变更 ]" />
+    </LinearLayout>
+</LinearLayout>

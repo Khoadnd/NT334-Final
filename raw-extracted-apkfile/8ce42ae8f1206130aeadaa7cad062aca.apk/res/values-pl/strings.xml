@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Przejdź do strony głównej</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Przejdź wyżej</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Więcej opcji</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Gotowe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Zobacz wszystkie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Wybierz aplikację</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">WYŁ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">WŁ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Szukaj…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Wyczyść zapytanie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Wyszukiwane hasło</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Szukaj</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Wyślij zapytanie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Wyszukiwanie głosowe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Udostępnij dla</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Udostępnij dla %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Zwiń</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

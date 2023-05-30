@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">转到主屏幕</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s：%2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s - %2$s：%3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">转到上一层级</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">更多选项</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">完成</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">查看全部</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">选择应用</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">关闭</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">开启</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">搜索…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">清除查询</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">搜索查询</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">搜索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">提交查询</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">语音搜索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">分享方式</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">通过%s分享</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">收起</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

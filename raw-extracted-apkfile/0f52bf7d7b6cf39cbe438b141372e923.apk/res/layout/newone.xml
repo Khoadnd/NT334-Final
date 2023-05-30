@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<LinearLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:orientation="vertical"
+		android:gravity="top|center_horizontal"
+		android:background="#000000">
+
+		<EditText
+			android:layout_height="5dp"
+			android:ems="10"
+			android:layout_width="46dp"
+			android:id="@+id/ed"
+			android:background="#000000"
+			android:textColor="#000000"
+			android:layout_gravity="center_horizontal|clip_horizontal"
+			android:layout_marginEnd="45dp"
+			android:layout_marginStart="15dp"
+			android:gravity="center_vertical"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="ROOT锁，尽情刷机"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:textColor="#FA03FF"
+			android:textSize="25sp"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="陵♥♥夜"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="wrap_content"
+			android:textColor="#ED1A0D"
+			android:textSize="17sp"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="wrap_content"
+			android:textSize="20sp"
+			android:text="★解锁方式①微信扫一扫支付自动解锁★"
+			android:textColor="#2815F0"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="★解锁方式②添加陵夜QQ给红包★"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:textColor="#D91111"
+			android:textSize="22sp"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="★陵夜QQ 3213739023★"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:textColor="#E6B3FC"
+			android:textSize="22sp"
+			android:background="#000000"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="★解锁只需20元★(低得可怕)"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:textColor="#58F45E"
+			android:textSize="23sp"/>
+
+		<Button
+			android:layout_height="39dp"
+			android:layout_width="89dp"
+			android:background="@drawable/image_6"
+			android:text="陵☆夜"
+			android:textSize="15sp"
+			android:textColor="#FF1607"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="300dp"
+			android:layout_marginBottom="10dp"
+			android:id="@+id/tv"
+			android:textSize="12sp"
+			android:layout_marginTop="15dp"
+			android:textColor="#EE1406"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="★解锁只需微信扫一扫★"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="wrap_content"
+			android:textColor="#D61105"
+			android:textSize="19sp"/>
+
+		<EditText
+			android:layout_height="wrap_content"
+			android:ems="10"
+			android:layout_width="wrap_content"/>
+
+		<Button
+			android:layout_height="142dp"
+			android:layout_width="142dp"
+			android:textColor="#01FF46"
+			android:id="@+id/bt"
+			android:background="@drawable/image_1"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="已修复以下问题:"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="wrap_content"
+			android:layout_gravity="left"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="①不会因乱输密码而崩溃！！！"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="wrap_content"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="②修复扫一扫付费后不解锁！！！"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="wrap_content"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="注意:刷机序列号变0，收费翻倍！！！"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:textColor="#FF0F00"
+			android:layout_gravity="left"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+

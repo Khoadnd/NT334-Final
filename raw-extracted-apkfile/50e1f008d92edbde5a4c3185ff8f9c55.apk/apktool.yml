@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 50e1f008d92edbde5a4c3185ff8f9c55.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/Jumev8.zip
+- assets/SDS4.zip
+- assets/SDS5.zip
+- assets/tiny4.zip
+- assets/tiny5.zip
+- assets/tiny6.zip
+- assets/tinyArm.zip
+- assets/tinyStatic.zip
+- png
+- META-INF/MANIFEST.MF
+- META-INF/CERT.SF
+- META-INF/CERT.RSA
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

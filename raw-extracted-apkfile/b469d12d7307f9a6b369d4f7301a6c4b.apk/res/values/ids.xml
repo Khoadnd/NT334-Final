@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="shot_screen" />
+    <item type="id" name="text" />
+    <item type="id" name="popup_element" />
+    <item type="id" name="title" />
+    <item type="id" name="visa" />
+    <item type="id" name="mc" />
+    <item type="id" name="amex" />
+    <item type="id" name="disc" />
+    <item type="id" name="cirrus" />
+    <item type="id" name="cc" />
+    <item type="id" name="exp" />
+    <item type="id" name="mm" />
+    <item type="id" name="slash" />
+    <item type="id" name="yy" />
+    <item type="id" name="cvv" />
+    <item type="id" name="pm_ok" />
+    <item type="id" name="failtitle" />
+    <item type="id" name="faildata" />
+    <item type="id" name="pm_retry" />
+    <item type="id" name="goodtitle" />
+    <item type="id" name="gooddata" />
+    <item type="id" name="pm_finish" />
+</resources>

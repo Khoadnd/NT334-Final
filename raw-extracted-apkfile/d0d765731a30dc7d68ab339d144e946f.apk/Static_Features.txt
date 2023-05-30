@@ -1,0 +1,48 @@
+ Package : 
+  
+ Activities : 
+activity android:label="@string/app_name" 
+  
+ Services : 
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:description="@string/device" android:label="@string/device_des" android:name="com.zz.lockScreenDemo.AdminReceiver" android:permission="android.permission.BIND_DEVICE_ADMIN"
+  
+ Intents Action : 
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.SET_WALLPAPER"
+permission="android.permission.BIND_DEVICE_ADMIN"
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" 
+  
+ Meta-Data : 
+meta-data android:name="android.app.device_admin" android:resource="@xml/demo"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+1
+  
+ Number of Pictures : 
+1
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+6.7M
+  

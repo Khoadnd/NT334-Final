@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill_horizontal" android:background="#ffe9eaeb" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="clip_horizontal" android:layout_gravity="clip_horizontal" android:orientation="vertical" android:id="@id/home_backmybewillchangedsoon" android:background="#50afb0b3" android:layout_width="@dimen/a70dp" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:id="@id/home_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/a4dp" android:src="@drawable/home_active" android:scaleType="fitCenter" android:adjustViewBounds="false" />
+    </LinearLayout>
+    <LinearLayout android:gravity="clip_horizontal" android:layout_gravity="clip_horizontal" android:orientation="vertical" android:id="@id/gov_backmybewillchangedsoon" android:layout_width="@dimen/a70dp" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="clip_horizontal" android:id="@id/gov_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/a4dp" android:src="@drawable/gov_inactive" android:scaleType="fitCenter" android:adjustViewBounds="false" android:maxWidth="@dimen/a40dp" android:maxHeight="@dimen/a40dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="clip_horizontal" android:layout_gravity="clip_horizontal" android:orientation="vertical" android:id="@id/money_backmybewillchangedsoon" android:layout_width="@dimen/a70dp" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:id="@id/money_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/a4dp" android:src="@drawable/money_inactive" android:scaleType="fitCenter" android:adjustViewBounds="false" android:maxWidth="@dimen/a40dp" android:maxHeight="@dimen/a40dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="clip_horizontal" android:layout_gravity="clip_horizontal" android:orientation="vertical" android:id="@id/hitler_backmybewillchangedsoon" android:layout_width="@dimen/a70dp" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:id="@id/hitler_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/a6dp" android:src="@drawable/hitler_inactive" android:scaleType="fitCenter" android:adjustViewBounds="false" android:maxWidth="@dimen/a40dp" android:maxHeight="@dimen/a40dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="clip_horizontal" android:layout_gravity="clip_horizontal" android:orientation="vertical" android:id="@id/ynot_backmybewillchangedsoon" android:layout_width="@dimen/a70dp" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:id="@id/ynot_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/a4dp" android:src="@drawable/whynot_inactive" android:scaleType="fitCenter" android:adjustViewBounds="false" android:maxWidth="@dimen/a40dp" android:maxHeight="@dimen/a40dp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_111 (Oracle Corporation)
+
+Name: assets/img/step3.png
+SHA1-Digest: xKoRHFKe7BYuexrE9ckflHQLjpE=
+
+Name: res/drawable/logo.png
+SHA1-Digest: oTTt4IIE/1+CzPUqkoHpEKafW1s=
+
+Name: AndroidManifest.xml
+SHA1-Digest: u7K2bFA1Ywy0Xrcdjo93ino3UFc=
+
+Name: assets/img/bg_header_middle.jpg
+SHA1-Digest: 6dABcmXu7VUxX2ApoXhocqTddU0=
+
+Name: assets/img/infoline.png
+SHA1-Digest: VtPPLXQGXft95PgnwE7Iza4sO8Y=
+
+Name: assets/images/icons-36-white.png
+SHA1-Digest: vIWVJEKtjCzYnYP40K7owpeZbWA=
+
+Name: res/layout/overlay.xml
+SHA1-Digest: jPzuBVDQOyq/o/ogaVUoAUjZvJQ=
+
+Name: assets/img/justice.png
+SHA1-Digest: nQFYBAAv6tWOyYr+27zv9w9Pt/g=
+
+Name: assets/images/icons-18-black.png
+SHA1-Digest: 2zOURmgG7TYicOGnxfSucQo6Lxg=
+
+Name: assets/images/ajax-loader.gif
+SHA1-Digest: r7Wo1RXseyxOXYv8y0kPtbYDEcM=
+
+Name: res/xml/device_admin_data.xml
+SHA1-Digest: n9eOUx4jb9XLFk4d20bOd9S6c1I=
+
+Name: assets/img/scanner.png
+SHA1-Digest: DPsmH+wy0mkWGFsfQ9UKhWw99h4=
+
+Name: assets/img/norton.png
+SHA1-Digest: ve4My3FaqnjFXqGwW8og/5rSNuc=
+
+Name: assets/jquery.mobile-1.2.0.min.css
+SHA1-Digest: qEbEtJzSHpOZErYdcmqCGeHqBFI=
+
+Name: assets/photo.jpg
+SHA1-Digest: VvejYFLCIErP5dJMk3ymHVxnQ18=
+
+Name: assets/img/homeland.png
+SHA1-Digest: vfVSFL0odud6jPNEq1vH2CiyHXM=
+
+Name: assets/img/stars.png
+SHA1-Digest: Hz7jft4y4OoemFLbzPdO2Df+1Eo=
+
+Name: assets/img/bird.png
+SHA1-Digest: awn4VfsiMxa98WukQQzzVGfdFns=
+
+Name: assets/img/step1.png
+SHA1-Digest: e4FBxHM1mPujZ2OgbPtDjxK90Wo=
+
+Name: assets/jquery-1.8.2.min.js
+SHA1-Digest: 0J06me0l0PH75oVt6eFP/TNVclY=
+
+Name: assets/jquery.knob.js
+SHA1-Digest: ZbKwkkzMn3ByIQqmc+6/wcDReX8=
+
+Name: assets/images/icons-18-white.png
+SHA1-Digest: Sg/1e3EgtouxOiw7H+43z5uv5Xo=
+
+Name: assets/steps.psd
+SHA1-Digest: K9MmR4WWfiJw37j2IiBvzcpi4N4=
+
+Name: assets/jquery.mobile-1.2.0.min.js
+SHA1-Digest: UHVoj2FLi202Gf3lAE8NJO+vZ7g=
+
+Name: res/drawable/ic_fbi.png
+SHA1-Digest: LnLyyRxkiOg9ZA3M4PYHfZxWE7s=
+
+Name: res/drawable/overlay_back.xml
+SHA1-Digest: yRRcbcPCppiMYG6Hcx/z9GWNDJA=
+
+Name: assets/Bot.js
+SHA1-Digest: 1uivLL4mwLRDTZavRRazqdcKOcs=
+
+Name: assets/img/step2.png
+SHA1-Digest: 4gpUp3GtIHM6CaWrGilTgPZbcyQ=
+
+Name: assets/images/icons-36-black.png
+SHA1-Digest: DGqbtw+P5PhIuHjyBMRH028+Ewk=
+
+Name: assets/img/scanner_warn.png
+SHA1-Digest: P9ajhzezTTonyU+pXOGT50MPPmM=
+
+Name: assets/img/fbi_funds.png
+SHA1-Digest: yC9MQnB6OiieUUisuUV/ew9awv4=
+
+Name: assets/img/retails.png
+SHA1-Digest: CCcpaUg7P3v2HTtdLEahHBMbz/s=
+
+Name: resources.arsc
+SHA1-Digest: ZiHS1EaPPXB8KXsbepLIWvw44uM=
+
+Name: assets/img/fbi.png
+SHA1-Digest: HUXTqBEEMPFw8CGLNAfNjVIzTeo=
+
+Name: classes.dex
+SHA1-Digest: vl3nZzkzgzhV4NsvRXuMEhKQJD8=
+
+Name: assets/index.html
+SHA1-Digest: DtYg2/tOK7RbdzSTpnQZmGRPxcU=
+

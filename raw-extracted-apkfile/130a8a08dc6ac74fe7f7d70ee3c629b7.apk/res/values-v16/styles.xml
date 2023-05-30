@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="wp_nz_text_default">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff4a4a4a</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">arial-regular</item>
+    </style>
+    <style name="wp_nz_text_bold" parent="@style/wp_nz_text_default">
+        <item name="android:fontFamily">arial-bold</item>
+    </style>
+    <style name="wp_nz_greyButton" parent="@android:style/Widget.Button">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff5a5b56</item>
+        <item name="android:background">@drawable/wp_nz_button_primary</item>
+        <item name="android:fontFamily">helpa-regular</item>
+    </style>
+</resources>

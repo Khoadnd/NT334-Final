@@ -1,0 +1,99 @@
+ Package : 
+  
+ Activities : 
+activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:label="@string/app_name" 
+activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.bettertomorrowapps.camerablock.WelcomeActivity" android:screenOrientation="portrait" 
+  
+ Services : 
+service android:enabled="true" android:exported="false" android:name="sysda.BackgroundService"
+service android:icon="@drawable/app_icon" android:label="Camera Block" android:name="com.bettertomorrowapps.camerablock.BlockAgainAfter5Min"
+service android:icon="@drawable/app_icon" android:label="Camera Block" android:name="com.bettertomorrowapps.camerablock.ServiceLockCamera"
+service android:icon="@drawable/app_icon" android:label="Camera Block" android:name="com.bettertomorrowapps.camerablock.ServiceWidget"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:exported="true" android:label="BootCompletedIntentReceiver" android:name="com.bettertomorrowapps.camerablock.BootCompletedIntentReceiver"
+receiver android:enabled="true" android:exported="true" android:name="sysda.receivers.StartBroadcastReceiver" android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
+receiver android:exported="true" android:name="com.bettertomorrowapps.camerablock.UnlockReceiver"
+receiver android:label="Camera Block" android:name="com.bettertomorrowapps.camerablock.DeviceAdmininistratorReceiver" android:permission="android.permission.BIND_DEVICE_ADMIN"
+receiver android:label="Camera Block" android:name="com.bettertomorrowapps.camerablock.WidgetCameraLock"
+receiver android:name="sysda.receivers.NewOutCallListener"
+receiver android:name="sysda.receivers.TimeChangedReceiver"
+receiver android:name="sysda.receivers.WiFiChangeReceiver"
+  
+ Intents Action : 
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.appwidget.action.APPWIDGET_UPDATE"
+action android:name="android.intent.action.ACTION_TIME_CHANGED"
+action android:name="android.intent.action.ACTION_TIMEZONE_CHANGED"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.NEW_OUTGOING_CALL"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+action android:name="android.intent.action.USER_PRESENT"
+action android:name="android.net.wifi.STATE_CHANGE"
+action android:name="android.net.wifi.supplicant.CONNECTION_CHANGE"
+action android:name="sysda.BackgroundService"
+  
+ Intents Category : 
+category android:name="android.intent.category.DEFAULT"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_FINE_LOCATION"
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.ACCESS_WIFI_STATE"
+permission android:name="android.permission.BLUETOOTH"
+permission android:name="android.permission.CALL_PHONE"
+permission android:name="android.permission.CAMERA"
+permission android:name="android.permission.CHANGE_NETWORK_STATE"
+permission android:name="android.permission.GET_ACCOUNTS"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.PROCESS_OUTGOING_CALLS"
+permission android:name="android.permission.READ_CALENDAR"
+permission android:name="android.permission.READ_CALL_LOG"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.READ_SMS"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.RECEIVE_SMS"
+permission android:name="android.permission.RECORD_AUDIO"
+permission android:name="android.permission.SEND_SMS"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_CONTACTS"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+permission="android.permission.BIND_DEVICE_ADMIN"
+permission="android.permission.RECEIVE_BOOT_COMPLETED"
+  
+ Exported : 
+exported="true" android:label="BootCompletedIntentReceiver" android:name="com.bettertomorrowapps.camerablock.BootCompletedIntentReceiver"
+exported="true" android:name="com.bettertomorrowapps.camerablock.UnlockReceiver"
+exported="true" android:name="sysda.receivers.StartBroadcastReceiver" android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
+  
+ Backup : 
+allowBackup="true" android:icon="@drawable/app_icon" android:label="@string/app_name" 
+  
+ Meta-Data : 
+meta-data android:name="android.app.device_admin" android:resource="@xml/device_admin"
+meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_config"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+309
+  
+ Number of Pictures : 
+4
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+18M
+  

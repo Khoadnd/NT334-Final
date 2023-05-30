@@ -1,0 +1,44 @@
+ Package : 
+package="com.heihuang.zr" platformBuildVersionCode="22" 
+  
+ Activities : 
+activity android:label="@string/app_name" 
+  
+ Services : 
+  
+ Providers : 
+  
+ Receivers : 
+  
+ Intents Action : 
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+  
+ Exported : 
+  
+ Backup : 
+  
+ Meta-Data : 
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+4
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+4.1M
+  

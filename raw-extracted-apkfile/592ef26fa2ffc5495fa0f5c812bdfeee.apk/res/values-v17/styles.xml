@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f090021" parent="@style/APKTOOL_DUPLICATE_style_0x7f090085">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="0" parent="@android:style/Widget">
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:paddingEnd">8.0dip</item>
+    </style>
+    <style name="1" parent="@android:style/Widget">
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="2" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="3" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="4" parent="@android:style/Widget">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="5" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/APKTOOL_DUPLICATE_dimen_0x7f050029</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="6" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="7" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/APKTOOL_DUPLICATE_id_0x7f06005c</item>
+    </style>
+    <style name="8" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f09002b" parent="@style/APKTOOL_DUPLICATE_style_0x7f090062">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="9" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/APKTOOL_DUPLICATE_dimen_0x7f050029</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f09002d" parent="@android:style/Widget">
+        <item name="android:paddingStart">12.0dip</item>
+        <item name="android:paddingEnd">12.0dip</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f09002e" parent="@style/APKTOOL_DUPLICATE_style_0x7f090058">
+        <item name="android:paddingStart">@dimen/APKTOOL_DUPLICATE_dimen_0x7f050014</item>
+        <item name="android:paddingEnd">@dimen/APKTOOL_DUPLICATE_dimen_0x7f050013</item>
+    </style>
+</resources>

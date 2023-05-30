@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">ہوم پر نیویگیٹ کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">اوپر نیویگیٹ کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">مزید اختیارات</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">ہو گیا</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">سبھی دیکھیں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">ایک ایپ منتخب کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">آف</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">آن</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">تلاش کریں…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">استفسار صاف کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">استفسار تلاش کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">تلاش کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">استفسار جمع کرائیں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">صوتی تلاش</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">اشتراک کریں مع</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">‏%s کے ساتھ اشتراک کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">سکیڑیں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">‎999+‎</string>
+</resources>

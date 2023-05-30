@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Điều hướng về trang chủ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Điều hướng lên trên</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Thêm tùy chọn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Xong</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Xem tất cả</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Chọn một ứng dụng</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">TẮT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">BẬT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Tìm kiếm…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Xóa truy vấn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Tìm kiếm truy vấn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Tìm kiếm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Gửi truy vấn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Tìm kiếm bằng giọng nói</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Chia sẻ với</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Chia sẻ với %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Thu gọn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Ir a la pantalla de inicio</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Desplazarse hacia arriba</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Más opciones</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Listo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Ver todo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Seleccionar una aplicación</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">NO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">SÍ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Buscar…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Borrar consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Buscar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Enviar consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Búsqueda por voz</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Compartir con</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Compartir con %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Contraer</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">+999</string>
+</resources>

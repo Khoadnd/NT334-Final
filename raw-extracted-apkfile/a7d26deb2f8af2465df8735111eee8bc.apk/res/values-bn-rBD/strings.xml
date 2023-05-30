@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">হোম এ নেভিগেট করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">উপরের দিকে নেভিগেট করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">আরো বিকল্প</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">সম্পন্ন হয়েছে</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">সবগুলো দেখুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">একটি অ্যাপ্লিকেশান চয়ন করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">বন্ধ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">চালু</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">অনুসন্ধান...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">ক্যোয়ারী সাফ করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">ক্যোয়ারী অনুসন্ধান করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">অনুসন্ধান করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">ক্যোয়ারী জমা দিন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">ভয়েস অনুসন্ধান</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">এর সাথে ভাগ করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">%s এর সাথে ভাগ করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">সঙ্কুচিত করুন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">৯৯৯+</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/wp_nz_bg_prelogin_image" android:scaleType="centerCrop" android:adjustViewBounds="false" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center|right|top" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wp_nz_btn_add_photo" />
+                <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:paddingTop="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <RelativeLayout android:layout_gravity="center|left|top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wp_nz_ic_westpac_one_logo" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+                        <View android:background="@android:color/transparent" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+                            <View android:background="@drawable/wp_nz_ic_westpac_logo_padding" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                            <ImageView android:layout_gravity="center|left|top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/wp_nz_ic_westpac_one_logo" />
+                            <View android:background="@null" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+                        <EditText android:id="@id/wp_nz_input_user_id" android:hint="Customer ID" android:drawableLeft="@drawable/wp_nz_ic_user_id" android:layout_alignParentTop="true" android:inputType="textNoSuggestions" style="@style/wp_nz_editText" />
+                        <EditText android:id="@id/wp_nz_input_password" android:layout_marginTop="10.0dip" android:hint="Password" android:drawableLeft="@drawable/wp_nz_ic_password" android:layout_below="@id/wp_nz_input_user_id" android:inputType="textPassword" style="@style/wp_nz_editText" />
+                        <LinearLayout android:orientation="horizontal" android:background="@drawable/wp_nz_text_error_message" android:padding="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:src="@drawable/wp_nz_ic_error" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <LinearLayout android:gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip">
+                        <Button android:id="@id/wp_nz_btn_login" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="Login" android:layout_weight="0.5" style="@style/wp_nz_greyButton" />
+                    </LinearLayout>
+                </LinearLayout>
+            </FrameLayout>
+        </ScrollView>
+        <TextView android:textColor="#ffffffff" android:gravity="center_horizontal" android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="74.0dip" android:text="© 2015 Westpac New Zealand Limited" style="@style/wp_nz_text_tiny" />
+        <LinearLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RadioGroup android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_alignParentBottom="true">
+                <RadioButton android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom|center" android:background="@drawable/wp_nz_bg_tab_select_state" android:paddingTop="8.0dip" android:paddingBottom="5.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:button="@null" android:text="Login" android:drawableTop="@drawable/wp_nz_ic_login_tab" android:layout_weight="1.0" />
+                <RadioButton android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom|center" android:background="@drawable/wp_nz_bg_tab_normal_state" android:paddingTop="6.0dip" android:paddingBottom="5.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:button="@null" android:text="Quick Access" android:drawableTop="@drawable/wp_nz_ic_quick_access_tab" android:layout_weight="1.0" />
+                <RadioButton android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom|center" android:background="@drawable/wp_nz_bg_tab_normal_state" android:paddingTop="6.0dip" android:paddingBottom="5.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:button="@null" android:text="More" android:drawableTop="@drawable/wp_nz_ic_more_tab" android:layout_weight="1.0" />
+            </RadioGroup>
+        </LinearLayout>
+    </FrameLayout>
+</RelativeLayout>

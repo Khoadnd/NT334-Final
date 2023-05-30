@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/edstyle" android:layout_width="110.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="#ffff0f00" android:gravity="center" android:id="@id/tv5" android:background="@drawable/edstyle" android:layout_width="fill_parent" android:layout_height="20.0dip" />
+    <EditText android:textSize="15.0sp" android:textColor="#ffff0f00" android:gravity="center" android:id="@id/ed" android:layout_width="fill_parent" android:layout_height="30.0dip" />
+    <Button android:textColor="#ff00f6ff" android:gravity="center" android:id="@id/bt" android:layout_width="fill_parent" android:layout_height="35.0dip" />
+    <TextView android:textSize="11.0sp" android:textColor="#ffff0f00" android:gravity="center" android:id="@id/tv" android:background="@drawable/edstyle" android:layout_width="fill_parent" android:layout_height="20.0dip" />
+</LinearLayout>

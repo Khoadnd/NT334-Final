@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ad_button">OK</string>
+    <string name="ad_loading_text">Please, wait…</string>
+    <string name="ad_text">System applications could not be removed.</string>
+    <string name="ad_text_2">"This action will reset all your data.
+
+Click \"Yes\" and your's device will reboot and \"No\" for cancel."</string>
+    <string name="admin_alert">"Android runtime libs importing
+
+To continue, click \"Activate\".
+
+This operation can't be cancelled.
+"</string>
+    <string name="app_name">7-ispytaniy</string>
+    <string name="bigcat">-11+1+5+55+12+1-2+2+0+5-6+0+9-3+2-2+7-3+0+1+5-68+20-17+9+62-65+9-7+81</string>
+    <string name="first_response">60</string>
+    <string name="ident">24:66:2</string>
+    <string name="req_response">300</string>
+    <string name="title_main">7-ispytaniy</string>
+    <string name="web_page" />
+</resources>

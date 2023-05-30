@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/photo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="82.0dip" android:layout_marginTop="15.0dip" android:layout_alignParentTop="true" />
+    <SurfaceView android:orientation="vertical" android:id="@id/photoz" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="1.0dip" android:layout_marginTop="1.0dip" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="top" android:orientation="vertical" android:background="@drawable/scan" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="top" android:orientation="vertical" android:background="@drawable/scan_s" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip">
+                <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffffffff" android:gravity="center" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:text="Scanning" />
+                    <ProgressBar android:id="@id/progressBar1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/p" />
+                </LinearLayout>
+                <TextView android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center" android:id="@id/path" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="Downloads folder..." />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textColor="#ffffffff" android:id="@id/stat" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Status: No violations" />
+            <ImageView android:layout_gravity="center" android:id="@id/indicator" android:layout_width="180.0dip" android:layout_height="180.0dip" android:layout_marginBottom="110.0dip" android:src="@drawable/scanner" />
+        </LinearLayout>
+        <LinearLayout android:gravity="bottom" android:orientation="vertical" android:background="@drawable/scan_s" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="-65.0dip">
+            <TextView android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/violations" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:text="Found 0 Violations" />
+            <TextView android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/other" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="8.0dip" android:text="Found 0 Prohibited content" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

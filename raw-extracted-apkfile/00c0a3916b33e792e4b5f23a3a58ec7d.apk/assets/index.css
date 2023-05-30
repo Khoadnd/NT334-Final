@@ -1,0 +1,48 @@
+/* ::::: http://pda.findnewapples.info/style.css ::::: */
+
+html, body, a, abbr, acronym, address, applet, b, big, blockquote, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, i, iframe, img, input.input-txt, input.input-txt2, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, table, tbody, td, textarea, tfoot, th, thead, tr, tt, u, ul, var { outline: 0px none; font-size: 100%; vertical-align: baseline; background: none repeat scroll 0% 0% transparent; margin: 0px; padding: 0px; }
+html body div.clear, html body span.clear { background: none repeat scroll 0px center transparent; border: 0px none; clear: both; display: block; float: none; font-size: 0px; overflow: hidden; visibility: hidden; width: 0px; height: 0px; margin: 0px; padding: 0px; }
+body { padding: 0px; background: url('bg.png') repeat-x scroll center top rgb(48, 48, 48); font: 11px normal Arial,Helvetica,sans-serif; color: rgb(153, 153, 153); }
+ol, ul { list-style: none outside none; }
+:focus { outline: 0px none; }
+a, a:visited { color: rgb(255, 255, 255); text-decoration: none; }
+.left { float: left; }
+.right { float: right; }
+.center { text-align: center; }
+.capitalize { text-transform: capitalize; }
+.uppercase { text-transform: uppercase; }
+.zeta { margin: 1em auto; max-width: 230px; }
+#header { height: 75px; }
+h1#hdr_home a { display: block; background: url('mobile_logo.png') no-repeat scroll center 3px transparent; font-size: 0px; line-height: 0; width: 320px; height: 55px; margin: auto; }
+ul.pagination { font-family: Tahoma,Verdana,Arial,Helvetica,sans-serif; color: rgb(0, 0, 0); list-style-type: none; text-align: center; max-width: 450px; margin: 5px auto 3px; padding: 15px; }
+ul.pagination li { list-style-type: none; display: inline; margin: 0px; padding: 0px; }
+ul.pagination li a { margin: 0px 5px; }
+ul.pagination li a:hover { color: rgb(0, 0, 0); }
+#thumbfield { margin: 0px auto; }
+ul#thumbs { list-style-type: none; text-align: center; margin: 0px; padding: 0px; }
+ul#thumbs li { position: relative; display: inline-block; list-style-type: none; text-align: center; cursor: pointer; overflow: hidden; margin: 4px 4px 14px; }
+.videos li div.thumb a { display: block; position: relative; border: 1px solid rgb(0, 0, 0); text-decoration: none; width: 280px; height: 210px; overflow: hidden; padding: 1px; }
+.videos li div.thumb a:hover { border: 1px solid rgb(255, 153, 0); }
+.videos li span.play-btn_overlay { position: absolute; top: 78px; left: 112px; background: url('play_btn.png') no-repeat scroll 0% 0% transparent; width: 60px; height: 60px; }
+.meta { background: none repeat scroll 0% 0% rgb(0, 0, 0); color: rgb(255, 255, 255); font-weight: 700; line-height: 33px; width: 284px; height: 33px; }
+.meta span { color: rgb(153, 153, 153); font-weight: 400; }
+.meta .left { text-indent: 10px; }
+.meta .right { margin-right: 10px; }
+#continue_btn input, .green_btn a { display: block; background: linear-gradient(to bottom, rgb(255, 195, 0) 0%, rgb(255, 153, 0) 100%) repeat scroll 0% 0% transparent; border: 1px solid rgb(255, 126, 0); font-family: Arial,Helvetica,sans-serif; color: rgb(255, 255, 255); font-size: 1.2em; font-weight: 700; line-height: 2.5; text-align: center; text-shadow: 1px 1px 0px rgb(9, 69, 3); border-radius: 3px; cursor: pointer; margin: 0px 20px; padding: 0px 3px; }
+#continue_btn input:hover, .green_btn a:hover { background: linear-gradient(to bottom, rgb(255, 153, 0) 0%, rgb(255, 195, 0) 100%) repeat scroll 0% 0% transparent; text-decoration: none; }
+#footer { color: rgb(102, 102, 102); padding-bottom: 20px; margin: 20px; }
+#footer a { color: rgb(153, 153, 153); }
+a:hover, .meta a { text-decoration: underline; }
+ul.pagination li.numb a, ul.pagination li.arrow a { font-weight: 700; margin: 0px; }
+@media not all {
+	body { font: 11px normal Arial,Tahoma,Verdana,Helvetica,sans-serif; }
+	ul.videos { width: 100%; list-style-type: none; text-align: center; margin: 0px; padding: 0px; }
+	.videos li { display: inline-block; text-align: center; width: 230px; cursor: pointer; overflow: hidden; margin: 0px; }
+	.videos li div.thumb a { display: block; position: relative; border: 1px solid rgb(0, 0, 0); text-decoration: none; width: 224px; height: 168px; overflow: hidden; outline: 0px none; }
+	.videos li div.thumb img { width: 224px; height: 168px; }
+	.videos li span.play-btn_overlay { position: absolute; top: 53px; left: 80px; background: url('play_btn.png') no-repeat scroll 0% 0% transparent; width: 60px; height: 60px; }
+	.meta { text-align: left; line-height: 22px; width: 228px; height: 22px; }
+}
+a { color: rgb(255, 153, 0); text-decoration: none; }
+h1, h2, h3, h4, h5, h6 { margin: 0px; padding: 0px; color: rgb(255, 255, 255); }
+ul, ol { margin: 0px; padding: 0px; list-style: none outside none; }

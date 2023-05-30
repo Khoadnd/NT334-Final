@@ -1,0 +1,49 @@
+ Package : 
+  
+ Activities : 
+activity android:label="@string/app_name" 
+  
+ Services : 
+service android:name=".ClockService"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:name=".BootBroadcastReceiver"
+  
+ Intents Action : 
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+  
+ Intents Category : 
+category android:name="android.intent.category.HOME"
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+  
+ Exported : 
+  
+ Backup : 
+  
+ Meta-Data : 
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+5
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+1
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+1.3M
+  

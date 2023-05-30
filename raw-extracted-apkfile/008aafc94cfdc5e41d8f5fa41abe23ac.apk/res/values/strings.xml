@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Hello World, MainActivity!</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f080001">晨风机器人</string>
+</resources>

@@ -1,0 +1,120 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: org/apache/harmony/awt/internal/nls/messages.properties
+SHA1-Digest: vwXzKrF6LyKySPbiJ1D1h9MUd4U=
+
+Name: javax/mail/internet/package.html
+SHA1-Digest: 6gtof4M5VWXzedHn273tAkj45QY=
+
+Name: com/sun/mail/dsn/mailcap
+SHA1-Digest: o1KDD9JSEteURfYtLDavAop5SYs=
+
+Name: javamail.smtp.provider
+SHA1-Digest: v7fA/YvXpBEh+h5gmMvr5oeg+r8=
+
+Name: javamail.default.address.map
+SHA1-Digest: ODAfS34uRuTBdYzYKPBp+1eqEZk=
+
+Name: res/anim/show2.xml
+SHA1-Digest: 1RicyAL78UKvvetX7Ret0HayBK4=
+
+Name: javamail.imap.provider
+SHA1-Digest: z5H5/hqdnZqzU9QuzqbpRCNxp7w=
+
+Name: res/anim/show1.xml
+SHA1-Digest: 572/xis/UthNKLhCW2UjdeaIAbA=
+
+Name: resources.arsc
+SHA1-Digest: l1+AW3KQuINvi613hpTlv2rQIWo=
+
+Name: res/drawable-mdpi/zz.jpg
+SHA1-Digest: 2AIffi240ep6VWaZH6HtpvB2i1A=
+
+Name: javamail.default.providers
+SHA1-Digest: bkkj3t836OZJBFO//usRRCTjZ4U=
+
+Name: mailcap.default
+SHA1-Digest: v12EA8RRccouDsMocE4Gzg0x6tE=
+
+Name: javamail.charset.map
+SHA1-Digest: 4BnU1HQIBkJviO43sy0uGhEM8V8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 1g/BIx30eRCcgE1QYUe5HuDDKuY=
+
+Name: res/drawable/tv.xml
+SHA1-Digest: H8PeKLJrTzPhJJqKe8sXyGxouvU=
+
+Name: javamail.smtp.address.map
+SHA1-Digest: ODAfS34uRuTBdYzYKPBp+1eqEZk=
+
+Name: res/drawable/ed.xml
+SHA1-Digest: 87H0vBCTouU4t0lqZtPpeRmsEZw=
+
+Name: res/raw/music.mp3
+SHA1-Digest: aeGP2OLRkVCiSreoeWxwQJVJirw=
+
+Name: res/drawable-mdpi/ic_launcher.jpg
+SHA1-Digest: ThtWaZHFmI3v45l/LcQviNhPIQ0=
+
+Name: com/sun/mail/imap/package.html
+SHA1-Digest: pvCCGTO6o+x28CdX2BJsSUNBYkI=
+
+Name: res/anim/show4.xml
+SHA1-Digest: 6rTjmMD/GoxsoPHlr0WW7g2f18s=
+
+Name: mailcap
+SHA1-Digest: 3GRfn0GMnGlZ92ESUCeowtm66a0=
+
+Name: res/drawable/buttonyun.xml
+SHA1-Digest: 89fnaIgife0YgQI0A1PKWtV7HM8=
+
+Name: javax/mail/event/package.html
+SHA1-Digest: mdmEYwU/LV3ydPz7LfRlWfssKcs=
+
+Name: mimetypes.default
+SHA1-Digest: FcRpdgFC9EJbGKuBIYcH9szfAn0=
+
+Name: res/anim/tvanim.xml
+SHA1-Digest: 2tQmcSTo83h3gQ9QoWxy5cWvjOY=
+
+Name: res/layout/newone.xml
+SHA1-Digest: WowZhTAcAFvESyARs8BBENmsgGE=
+
+Name: classes.dex
+SHA1-Digest: 88HPa5bB65L0PdpUVXXStKFa9qc=
+
+Name: res/anim/show3.xml
+SHA1-Digest: FKJyR9DpSbyPSocFra2M87E8H3I=
+
+Name: javax/mail/package.html
+SHA1-Digest: Yp55cVZ4QN2PAbqxgGJdkZyYV+I=
+
+Name: com/sun/mail/smtp/package.html
+SHA1-Digest: PUPHPNRPdHWLcxCoZmfGVI1tkdQ=
+
+Name: com/sun/mail/pop3/package.html
+SHA1-Digest: qu3+MSe3LbcSGEJHSbnnBqo/MvM=
+
+Name: res/layout/main.xml
+SHA1-Digest: YkDr/yRtrNh2A9cY740UMm0DO2g=
+
+Name: javax/activation/package.html
+SHA1-Digest: 7kLFsbr73Dn5mTI1b7Vd/a62PQ8=
+
+Name: javax/mail/search/package.html
+SHA1-Digest: TBP3rC0W8LU7ynapcTX6CUk/lDs=
+
+Name: javax/mail/util/package.html
+SHA1-Digest: c9ptJX9WxwIJD5NFxnNfsBQnyW8=
+
+Name: com/sun/mail/dsn/package.html
+SHA1-Digest: U6j944KGfJTuUhkX1JdM4qC4laY=
+
+Name: javamail.pop3.provider
+SHA1-Digest: WzFRBqrfpFdRTYf1DJkqJb2M7Bs=
+
+Name: dsn.mf
+SHA1-Digest: ZcnUTpTYC4T7g3DQ8FmeC10amkI=
+

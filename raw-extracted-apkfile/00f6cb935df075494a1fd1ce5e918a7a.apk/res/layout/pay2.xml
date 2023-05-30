@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="fill_horizontal" android:orientation="vertical" android:id="@id/pay2" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/a14sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/goback2" android:background="@drawable/line4" android:paddingLeft="@dimen/a30dp" android:paddingTop="@dimen/a5dp" android:paddingRight="@dimen/a30dp" android:paddingBottom="@dimen/a5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="&lt;&lt;&lt; CHOOSE ANOTHER" />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a8dp" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/logo3" android:scaleType="centerCrop" />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a5dp" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/atat" android:scaleType="centerCrop" />
+        <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ffff0000" android:gravity="left" android:paddingLeft="@dimen/a5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Attention please! " /> />
+<TextView android:textSize="@dimen/a12sp" android:textColor="#ff000000" android:gravity="left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="The way where you pay by an activated card your device couldn't be unlocked." /> /> </LinearLayout>
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a5dp" />
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/pininput" />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a25dp" />
+    <Button android:textColor="#ffffffff" android:id="@id/buttonsend2" android:background="@drawable/button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/a40dp" android:layout_marginRight="@dimen/a40dp" android:text="Send" />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a15dp" />
+    <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="To repay the fine please use unactivated MoneyPack Card." />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="@dimen/a5dp" />
+    <TextView android:textSize="@dimen/a12sp" android:textStyle="bold" android:textColor="#ffec4536" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Don't activate a card on the MoneyPack site, because it wouldn't accept." />
+</LinearLayout>

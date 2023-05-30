@@ -1,0 +1,80 @@
+ Package : 
+package="com.yandex226.yandex967" platformBuildVersionCode="21" 
+  
+ Activities : 
+activity android:label="@string/title_main" 
+activity android:launchMode="singleTask" 
+  
+ Services : 
+service android:enabled="true" android:name="com.azianames.foroneyhar.filnnomn"
+service android:enabled="true" android:name="com.azianames.foroneyhar.js3knzbdy.gmyiuqcz"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:enabled="true" android:name="com.azianames.foroneyhar.dkrspzo6ah" android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
+receiver android:name="com.azianames.foroneyhar.js3knzbdy.jiwj7en" android:permission="android.permission.BIND_DEVICE_ADMIN"
+  
+ Intents Action : 
+action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED"
+action android:name="android.app.action.DEVICE_ADMIN_DISABLED"
+action android:name="android.app.action.DEVICE_ADMIN_ENABLED"
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.PHONE_STATE"
+action android:name="android.intent.action.QUICKBOOT_POWERON"
+action android:name="android.intent.action.REBOOT"
+action android:name="android.intent.action.USER_PRESENT"
+action android:name="android.provider.Telephony.SMS_RECEIVED"
+action android:name="oinwdf.alarm"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.CALL_PHONE"
+permission android:name="android.permission.CALL_PRIVILEGED"
+permission android:name="android.permission.DELETE_PACKAGES"
+permission android:name="android.permission.GET_TASKS"
+permission android:name="android.permission.INSTALL_PACKAGES"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.READ_SMS"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.RECEIVE_SMS"
+permission android:name="android.permission.SEND_SMS"
+permission android:name="android.permission.SYSTEM_ALERT_WINDOW"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+permission="android.permission.BIND_DEVICE_ADMIN"
+permission="android.permission.RECEIVE_BOOT_COMPLETED"
+  
+ Exported : 
+  
+ Backup : 
+allowBackup="true" android:configChanges="keyboardHidden|orientation" android:icon="@drawable/ic_launcher" 
+  
+ Meta-Data : 
+meta-data android:name="android.app.device_admin" android:resource="@xml/device_admin"
+meta-data android:name="checkDelay" android:value="1"
+meta-data android:name="preventRestart" android:value="true"
+meta-data android:name="stopOnDeviceLock" android:value="false"
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+4
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+2.2M
+  

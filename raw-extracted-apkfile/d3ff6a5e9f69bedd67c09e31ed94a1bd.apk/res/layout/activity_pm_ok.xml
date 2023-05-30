@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fff5f5f5" android:layout_width="310.0dip" android:layout_height="154.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="12.0dip">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="21.0sp" android:textColor="#ff333333" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:text="Операция завершена" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip">
+        <TextView android:textColor="#ff333333" android:id="@id/cc_data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="15.0dip" android:text="Карта была успешно добавлена.\nПриятных покупок!" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip">
+        <Button android:textColor="@drawable/pmok_state" android:layout_gravity="bottom|center|right" android:id="@id/pm_finish" android:background="@drawable/pm_ok" android:layout_width="130.0dip" android:layout_height="26.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="10.0dip" android:text="ОК" />
+    </LinearLayout>
+</LinearLayout>

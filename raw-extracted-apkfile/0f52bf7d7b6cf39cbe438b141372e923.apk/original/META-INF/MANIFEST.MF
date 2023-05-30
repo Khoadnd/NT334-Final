@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/raw/a.mp3
+SHA1-Digest: fG8nQfuQKQ51u6qEYPSwV+bLeDM=
+
+Name: res/drawable/image_5.png
+SHA1-Digest: gxVZOFbmM2y8MyNiK7iHxiK3Q7c=
+
+Name: res/anim/show2.xml
+SHA1-Digest: 1RicyAL78UKvvetX7Ret0HayBK4=
+
+Name: res/anim/show1.xml
+SHA1-Digest: 572/xis/UthNKLhCW2UjdeaIAbA=
+
+Name: resources.arsc
+SHA1-Digest: Bf58cMUEVmC4TnVo5AqbwDnvs6g=
+
+Name: res/drawable-mdpi/icon.jpg
+SHA1-Digest: 9ViHAnAs/KVifIMw0fphIGUnaNo=
+
+Name: res/drawable/image_2.png
+SHA1-Digest: KkIF4cav/mjpstYntniMD/DbjN4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: zn6hCQtXAIONtQ7FkBiDVZNsCvc=
+
+Name: res/drawable-mdpi/ic_mess_receiver_btn_pressed.9.png
+SHA1-Digest: 273HDK0LLMxXvth5Xs9R68pAtXc=
+
+Name: res/drawable/tv.xml
+SHA1-Digest: SHSaiTOPtR1tJMg88AkIwihijzU=
+
+Name: res/drawable/ed.xml
+SHA1-Digest: 204bbydwK/c+GucUrt4N3PSGoNk=
+
+Name: res/drawable/image_3.png
+SHA1-Digest: KkIF4cav/mjpstYntniMD/DbjN4=
+
+Name: res/anim/show4.xml
+SHA1-Digest: 6rTjmMD/GoxsoPHlr0WW7g2f18s=
+
+Name: res/drawable/buttonyun.xml
+SHA1-Digest: DJdEfptQDYLRyvurJzSRis6w9iw=
+
+Name: res/drawable-mdpi/authorization_manager_image.png
+SHA1-Digest: IketQZY6ECbXs1uL/k/blr86dy0=
+
+Name: res/xml/my_admin.xml
+SHA1-Digest: G4MgoECdowJxHPBbOhzYIgVM7UQ=
+
+Name: res/anim/tvanim.xml
+SHA1-Digest: 2tQmcSTo83h3gQ9QoWxy5cWvjOY=
+
+Name: res/layout/newone.xml
+SHA1-Digest: fPLi2TfHeKB0IIbYf1QtxPX0rW0=
+
+Name: classes.dex
+SHA1-Digest: 2do3gxLbX5MzkNN350ffymtNvWc=
+
+Name: res/anim/show3.xml
+SHA1-Digest: FKJyR9DpSbyPSocFra2M87E8H3I=
+
+Name: res/layout/main.xml
+SHA1-Digest: uVqG+Pj3CrDkq3N/HUD5cenFc6U=
+
+Name: res/drawable/image_4.png
+SHA1-Digest: KkIF4cav/mjpstYntniMD/DbjN4=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 9ViHAnAs/KVifIMw0fphIGUnaNo=
+
+Name: res/drawable-mdpi/btn_green_normal.9.png
+SHA1-Digest: fExKQB6ryBlIZDKXoGLM7qgLL6E=
+
+Name: res/drawable-mdpi/ok01.png
+SHA1-Digest: DOD32asjJaXWh8Kg6nU0yea0fsQ=
+
+Name: res/drawable/image_1.png
+SHA1-Digest: PFUpYtzIgAqWNb/Aw/QokOUdEpY=
+

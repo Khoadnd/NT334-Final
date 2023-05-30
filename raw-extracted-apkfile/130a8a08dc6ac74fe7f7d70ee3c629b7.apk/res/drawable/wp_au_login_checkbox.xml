@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="false" android:drawable="@drawable/wp_au_login_checkbox_outline" />
+    <item android:state_checked="true" android:drawable="@drawable/wp_au_login_ticked_box" />
+    <item android:state_checked="true">
+        <shape>
+            <solid android:color="#ff2c68e7" />
+            <stroke android:width="1.0dip" android:color="#ff2c68e7" />
+            <corners android:radius="4.0dip" />
+            <padding android:left="10.0dip" android:top="10.0dip" android:right="10.0dip" android:bottom="10.0dip" />
+        </shape>
+    </item>
+</selector>

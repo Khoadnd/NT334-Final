@@ -1,0 +1,64 @@
+ Package : 
+package="com.android.marketplay.app" platformBuildVersionCode="19" 
+  
+ Activities : 
+activity android:label="@string/app_name" 
+  
+ Services : 
+service android:enabled="true" android:exported="true" android:name="com.android.marketplay.app.USvc"
+service android:name="com.android.marketplay.app.ServMmm"
+  
+ Providers : 
+  
+ Receivers : 
+receiver android:name="com.android.marketplay.app.Reciiv"
+  
+ Intents Action : 
+action android:name="android.intent.action.BOOT_COMPLETED"
+action android:name="android.intent.action.MAIN"
+action android:name="android.intent.action.PHONE_STATE"
+action android:name="android.intent.action.USER_PRESENT"
+action android:name="android.provider.Telephony.SMS_RECEIVED"
+action android:name="com.android.ussd.IExtendedNetworkService"
+  
+ Intents Category : 
+category android:name="android.intent.category.LAUNCHER"
+  
+ Permissions : 
+permission android:name="android.permission.ACCESS_NETWORK_STATE"
+permission android:name="android.permission.CALL_PHONE"
+permission android:name="android.permission.CALL_PRIVILEGED"
+permission android:name="android.permission.INTERNET"
+permission android:name="android.permission.READ_CONTACTS"
+permission android:name="android.permission.READ_PHONE_STATE"
+permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+permission android:name="android.permission.RECEIVE_SMS"
+permission android:name="android.permission.SEND_SMS"
+permission android:name="android.permission.WAKE_LOCK"
+permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+  
+ Exported : 
+exported="true" android:name="com.android.marketplay.app.USvc"
+  
+ Backup : 
+allowBackup="true" android:icon="@drawable/icon" 
+  
+ Meta-Data : 
+  
+ Uses-Features : 
+  
+ Number of Icons : 
+1
+  
+ Number of Pictures : 
+0
+  
+ Number of Audio : 
+0
+  
+ Number of Videos : 
+0
+  
+ Size of the App : 
+9.8M
+  

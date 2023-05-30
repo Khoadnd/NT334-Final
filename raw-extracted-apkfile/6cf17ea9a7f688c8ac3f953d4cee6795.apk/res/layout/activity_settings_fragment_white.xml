@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:overScrollMode="never">
+        <LinearLayout android:orientation="horizontal" android:id="@id/setBottomLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:background="#ff333333" android:layout_width="60.0dip" android:layout_height="fill_parent">
+                <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:minHeight="60.0dip">
+                    <ImageView android:id="@id/setTemplateIcon" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:src="@drawable/ic_refresh_template" android:adjustViewBounds="true" android:cropToPadding="true" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <ImageView android:id="@id/setNottificationAllowedIcon" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:src="@drawable/ic_checked_white" android:adjustViewBounds="true" android:cropToPadding="true" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <ImageView android:id="@id/setNottificationIcon" android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:src="@drawable/ic_locked_mini_white" android:adjustViewBounds="true" android:cropToPadding="true" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <TextView android:textColor="@color/white" android:gravity="center" android:id="@id/setAutoblockPeriodNumber" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="5\nmin" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <ImageView android:id="@id/setListViewIcon" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginTop="8.0dip" android:src="@drawable/ic_alert" android:adjustViewBounds="true" android:cropToPadding="true" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:minHeight="150.0dip" android:layout_weight="3.0">
+                    <ImageView android:padding="1.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:src="@drawable/ic_rate" android:adjustViewBounds="true" android:cropToPadding="true" />
+                    <ImageView android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginTop="30.0dip" android:src="@drawable/ic_contact" android:adjustViewBounds="true" android:cropToPadding="true" />
+                    <ImageView android:id="@id/setUninstallIcon" android:padding="2.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginTop="30.0dip" android:src="@drawable/ic_uninstall" android:adjustViewBounds="true" android:cropToPadding="true" />
+                    <ImageView android:id="@id/setMicIcon" android:padding="1.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginTop="30.0dip" android:layout_marginBottom="28.0dip" android:src="@drawable/mic_block_icon" android:adjustViewBounds="true" android:cropToPadding="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip">
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/setTempalateSwichButton" android:background="@drawable/button_white" android:paddingLeft="15.0dip" android:paddingRight="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="60.0dip">
+                        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/template" />
+                        <TextView android:textSize="13.0dip" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/swichTemplateColor" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/setNotificationAllowedButton" android:background="@drawable/button_white" android:paddingLeft="15.0dip" android:paddingRight="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="60.0dip">
+                        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/notification" />
+                        <TextView android:textSize="13.0dip" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/notificationInStatusBarShow" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/setNotificationIconButton" android:background="@drawable/button_white" android:paddingLeft="15.0dip" android:paddingRight="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="60.0dip">
+                        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:id="@id/setNotificationIconButtonTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/notificationSetting" />
+                        <TextView android:textSize="13.0dip" android:textColor="#ff333333" android:id="@id/setNotificationIconButtonText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/notificationSettingsDescription" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="60.0dip">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/setAutoblockPeriodButton" android:background="@drawable/button_white" android:paddingLeft="15.0dip" android:paddingRight="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="60.0dip">
+                        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/autoblockPeriod" />
+                        <TextView android:textSize="13.0dip" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/autoblockPeriodDescription" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/setShowListViewButton" android:background="@drawable/button_white" android:paddingLeft="15.0dip" android:paddingRight="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="75.0dip">
+                        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/appsWithCameraPermission" />
+                        <TextView android:textSize="13.0dip" android:textColor="#ff333333" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/appsWithCameraPermissionDescription" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:minHeight="150.0dip" android:layout_weight="3.0">
+                    <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:gravity="center" android:id="@id/setButtonWidget" android:background="@drawable/button_white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="58.0dip" android:text="@string/putWidgetOnDesktop" />
+                    <TextView android:background="#fff1f1f1" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+                    <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:gravity="center" android:id="@id/setButtonRate" android:background="@drawable/button_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="58.0dip" android:text="@string/rateOurApp" />
+                    <TextView android:background="#ffeeeeee" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+                    <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:gravity="center" android:id="@id/setButtonContact" android:background="@drawable/button_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="58.0dip" android:text="@string/contactUs" />
+                    <TextView android:id="@id/setUninstallTextRow" android:background="#fff1f1f1" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+                    <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:gravity="center" android:id="@id/setUninstallButton" android:background="@drawable/button_white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="58.0dip" android:text="@string/uninstallApp" />
+                    <TextView android:id="@id/setMicTextRow" android:background="#fff1f1f1" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+                    <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff333333" android:gravity="center" android:id="@id/setTryMicrophoneBlock" android:background="@drawable/button_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="58.0dip" android:text="@string/tryMicrophoneBlockApplication" />
+                    <TextView android:background="#fff1f1f1" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="15.0dip" android:layout_marginTop="13.0dip">
+                        <TextView android:textSize="10.0sp" android:textColor="#ff333333" android:id="@id/setBytePioneers" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bytepioneers" />
+                        <TextView android:textSize="10.0sp" android:textColor="#ff333333" android:id="@id/setTermsOfService" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/terms_of_service" />
+                        <TextView android:textSize="10.0sp" android:textColor="#ff333333" android:id="@id/setPrivacyPolicy" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/privacy_policy" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

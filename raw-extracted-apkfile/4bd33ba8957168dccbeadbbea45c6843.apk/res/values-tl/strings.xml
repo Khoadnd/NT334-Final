@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Mag-navigate patungo sa home</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Mag-navigate pataas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Higit pang mga opsyon</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Tapos na</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Tingnan lahat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Pumili ng isang app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">I-OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">I-ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Maghanap…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">I-clear ang query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Query sa paghahanap</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Maghanap</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Isumite ang query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Paghahanap gamit ang boses</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Ibahagi sa/kay</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Ibahagi sa/kay %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">I-collapse</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

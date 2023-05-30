@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Naviger hjem</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Naviger op</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Flere muligheder</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Luk</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Se alle</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Vælg en app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">FRA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">TIL</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Søg…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Ryd forespørgslen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Søgeforespørgsel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Søg</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Indsend forespørgslen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Talesøgning</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Del med</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Del med %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Skjul</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

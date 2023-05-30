@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Одлазак на Почетну</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Кретање нагоре</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Још опција</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Прикажи све</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Избор апликације</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">ИСКЉУЧИ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">УКЉУЧИ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Претражите...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Брисање упита</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Упит за претрагу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Претрага</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Слање упита</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Гласовна претрага</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Дели са</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Дели са апликацијом %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Скупи</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">>999</string>
+</resources>

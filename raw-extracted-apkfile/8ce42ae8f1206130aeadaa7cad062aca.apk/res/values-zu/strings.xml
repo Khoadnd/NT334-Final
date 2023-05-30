@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Zulazulela ekhaya</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Zulazulela phezulu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Izinketho eziningi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">Kwenziwe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Buka konke</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Khetha uhlelo lokusebenza</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">VALIWE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">VULIWE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Iyasesha...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Sula inkinga</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Umbuzo wosesho</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Sesha</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Hambisa umbuzo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Ukusesha ngezwi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Yabelana no-</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Yabelana no-%s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Goqa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>

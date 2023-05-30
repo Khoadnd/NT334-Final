@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Orientohu për në shtëpi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070003">Ngjitu lart</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070004">Opsione të tjera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070005">U krye!</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070006">Shikoji të gjitha</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070007">Zgjidh një aplikacion</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070008">JOAKTIV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070009">AKTIV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000a">Kërko...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000b">Pastro pyetjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000c">Kërko pyetjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000d">Kërko</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000e">Dërgo pyetjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f07000f">Kërkim me zë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070010">Shpërnda publikisht me</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070011">Shpërnda publikisht me %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070012">Shpalos</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f070013">999+</string>
+</resources>
